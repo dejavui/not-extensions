@@ -15471,6 +15471,171 @@
       ]
     },
     {
+      "name": "BlackToon",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.blacktoon",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.blacktoon-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.blacktoon.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "7080800841003944426",
+          "name": "\ube14\ub799\ud230",
+          "language": "ko",
+          "homeUrl": "https://blacktoon.me",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Manatoki",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.manatoki",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.manatoki-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.manatoki.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "3581741214949868596",
+          "name": "Manatoki",
+          "language": "ko",
+          "homeUrl": "https://manatoki552.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Naver Comic",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.navercomic",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.navercomic-v1.4.7.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 7,
+      "versionName": "1.4.7",
+      "sources": [
+        {
+          "id": "1311262507446028482",
+          "name": "Naver Webtoon",
+          "language": "ko",
+          "homeUrl": "https://comic.naver.com"
+        },
+        {
+          "id": "3983114856627782141",
+          "name": "Naver Webtoon Best Challenge",
+          "language": "ko",
+          "homeUrl": "https://comic.naver.com"
+        },
+        {
+          "id": "4487676425355815867",
+          "name": "Naver Webtoon Challenge",
+          "language": "ko",
+          "homeUrl": "https://comic.naver.com"
+        }
+      ]
+    },
+    {
+      "name": "RawDEX",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.rawdex",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.rawdex-v1.4.54.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.rawdex.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 54,
+      "versionName": "1.4.54",
+      "sources": [
+        {
+          "id": "7981220701421282731",
+          "name": "RawDEX",
+          "language": "ko",
+          "homeUrl": "https://rawdex.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "11toon",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.toon11",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.toon11-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toon11.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "8796296375202334266",
+          "name": "11toon",
+          "language": "ko",
+          "homeUrl": "https://www.11toon.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Toonkor",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.toonkor",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.6.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toonkor.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 6,
+      "versionName": "1.4.6",
+      "sources": [
+        {
+          "id": "6596496791271983268",
+          "name": "Toonkor",
+          "language": "ko",
+          "homeUrl": "https://tkor114.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Wolf.com",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "5583626852311652499",
+          "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
+          "language": "ko",
+          "homeUrl": "https://wfwf469.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7074060458114951398",
+          "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
+          "language": "ko",
+          "homeUrl": "https://wfwf469.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4225505094399546613",
+          "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
+          "language": "ko",
+          "homeUrl": "https://wfwf469.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "CManga",
       "packageName": "eu.kanade.tachiyomi.extension.vi.cmanga",
       "resources": {

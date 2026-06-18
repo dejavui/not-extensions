@@ -16931,26 +16931,6 @@
       ]
     },
     {
-      "name": "VlogTruyen",
-      "packageName": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.vlogtruyen-v1.4.29.apk",
-        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vlogtruyen.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 29,
-      "versionName": "1.4.29",
-      "sources": [
-        {
-          "id": "6425642624422299254",
-          "name": "VlogTruyen",
-          "language": "vi",
-          "homeUrl": "https://vlogtruyen69.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "YuriGarden",
       "packageName": "eu.kanade.tachiyomi.extension.vi.yurigarden",
       "resources": {

@@ -16753,26 +16753,6 @@
       ]
     },
     {
-      "name": "TruyenTranh3Q",
-      "packageName": "eu.kanade.tachiyomi.extension.vi.truyentranh3q",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.truyentranh3q-v1.4.9.apk",
-        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyentranh3q.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
-      "sources": [
-        {
-          "id": "8738237169240254245",
-          "name": "TruyenTranh3Q",
-          "language": "vi",
-          "homeUrl": "https://manhua3q.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "Truyen tranh dam my",
       "packageName": "eu.kanade.tachiyomi.extension.vi.truyentranhdammy",
       "resources": {

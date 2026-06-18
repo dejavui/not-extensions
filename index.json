@@ -16616,6 +16616,25 @@
       ]
     },
     {
+      "name": "TruyenGGVN",
+      "packageName": "eu.kanade.tachiyomi.extension.vi.truyenggvn",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.truyenggvn-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenggvn.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "3763163116691059571",
+          "name": "TruyenGGVN",
+          "language": "vi",
+          "homeUrl": "https://truyenggvn.com"
+        }
+      ]
+    },
+    {
       "name": "Truyen Hentai 18+",
       "packageName": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
       "resources": {

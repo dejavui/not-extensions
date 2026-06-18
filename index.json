@@ -15616,21 +15616,21 @@
           "id": "5583626852311652499",
           "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf469.com",
+          "homeUrl": "https://wfwf470.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
           "language": "ko",
-          "homeUrl": "https://wfwf469.com",
+          "homeUrl": "https://wfwf470.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "4225505094399546613",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf469.com",
+          "homeUrl": "https://wfwf470.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -16031,25 +16031,6 @@
       ]
     },
     {
-      "name": "ManhuaRock",
-      "packageName": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.manhuarock-v1.4.18.apk",
-        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.manhuarock.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 18,
-      "versionName": "1.4.18",
-      "sources": [
-        {
-          "id": "5818973680777851987",
-          "name": "ManhuaRock",
-          "language": "vi",
-          "homeUrl": "https://manhuarock4.site"
-        }
-      ]
-    },
-    {
       "name": "MatoDex",
       "packageName": "eu.kanade.tachiyomi.extension.vi.matodex",
       "resources": {
@@ -16296,25 +16277,6 @@
           "name": "NetTruyenCO (unoriginal)",
           "language": "vi",
           "homeUrl": "https://nettruyenar.com"
-        }
-      ]
-    },
-    {
-      "name": "NetTruyenQQ",
-      "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyenqq",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyenqq-v1.4.1.apk",
-        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyenqq.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
-      "sources": [
-        {
-          "id": "6918501849956667043",
-          "name": "NetTruyenQQ",
-          "language": "vi",
-          "homeUrl": "https://www.nettruyenqq.us"
         }
       ]
     },

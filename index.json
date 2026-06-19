@@ -5040,12 +5040,12 @@
       "name": "Manhwa18.cc",
       "packageName": "eu.kanade.tachiyomi.extension.all.manhwa18cc",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.manhwa18cc-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.manhwa18cc-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwa18cc.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "4841602236575491202",
@@ -6100,12 +6100,12 @@
       "name": "PandaChaika",
       "packageName": "eu.kanade.tachiyomi.extension.all.pandachaika",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.pandachaika-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.pandachaika-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.pandachaika.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "8212157560459310944",
@@ -7781,12 +7781,12 @@
       "name": "BookWalker",
       "packageName": "eu.kanade.tachiyomi.extension.en.bookwalker",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.bookwalker-v1.4.6.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.bookwalker-v1.4.7.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.bookwalker.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 6,
-      "versionName": "1.4.6",
+      "versionCode": 7,
+      "versionName": "1.4.7",
       "sources": [
         {
           "id": "2744810059574599668",
@@ -9780,12 +9780,12 @@
       "name": "J-Novel",
       "packageName": "eu.kanade.tachiyomi.extension.en.jnovel",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.jnovel-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.jnovel-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.jnovel.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "2482510125735992610",
@@ -10797,12 +10797,12 @@
       "name": "Mangadotnet",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.10.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.11.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 10,
-      "versionName": "1.4.10",
+      "versionCode": 11,
+      "versionName": "1.4.11",
       "sources": [
         {
           "id": "5900936305360403385",
@@ -13526,12 +13526,12 @@
       "name": "Read Comics Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readcomicsonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.readcomicsonline-v1.4.13.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.readcomicsonline-v1.4.14.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readcomicsonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 13,
-      "versionName": "1.4.13",
+      "versionCode": 14,
+      "versionName": "1.4.14",
       "sources": [
         {
           "id": "7185601298150078890",
@@ -13793,12 +13793,12 @@
       "name": "Reset Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.resetscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.64.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.65.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.resetscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 64,
-      "versionName": "1.4.64",
+      "versionCode": 65,
+      "versionName": "1.4.65",
       "sources": [
         {
           "id": "8358008083447218926",
@@ -14017,6 +14017,45 @@
           "name": "S2Manga",
           "language": "en",
           "homeUrl": "https://s2read.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Sabrina Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.sabrinaonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.sabrinaonline-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.sabrinaonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "346019099366213894",
+          "name": "Sabrina Online",
+          "language": "en",
+          "homeUrl": "https://www.sabrina-online.com"
+        }
+      ]
+    },
+    {
+      "name": "SACACHISPA",
+      "packageName": "eu.kanade.tachiyomi.extension.en.sacachispa",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.sacachispa-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.sacachispa.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "388932303664463452",
+          "name": "SACACHISPA",
+          "language": "en",
+          "homeUrl": "https://sacachispa.site",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -15738,18 +15777,18 @@
       "name": "DocTruyen3Q",
       "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.doctruyen3q-v1.4.33.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.doctruyen3q-v1.4.34.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.doctruyen3q.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 33,
-      "versionName": "1.4.33",
+      "versionCode": 34,
+      "versionName": "1.4.34",
       "sources": [
         {
           "id": "6168143505244976507",
           "name": "DocTruyen3Q",
           "language": "vi",
-          "homeUrl": "https://doctruyen3qhub.live",
+          "homeUrl": "https://doctruyen3qhub1.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -16440,18 +16479,18 @@
       "name": "SayHentai",
       "packageName": "eu.kanade.tachiyomi.extension.vi.sayhentai",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.sayhentai-v1.4.22.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.sayhentai-v1.4.23.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.sayhentai.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 22,
-      "versionName": "1.4.22",
+      "versionCode": 23,
+      "versionName": "1.4.23",
       "sources": [
         {
           "id": "4370817879994829481",
           "name": "SayHentai",
           "language": "vi",
-          "homeUrl": "https://sayhentai.sh",
+          "homeUrl": "https://sayhentai.cx",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]

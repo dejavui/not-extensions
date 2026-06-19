@@ -7430,25 +7430,6 @@
       ]
     },
     {
-      "name": "Arven Scans",
-      "packageName": "eu.kanade.tachiyomi.extension.en.arvencomics",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.arvencomics-v1.4.53.apk",
-        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.arvencomics.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
-      "sources": [
-        {
-          "id": "1644996696929251104",
-          "name": "Arven Scans",
-          "language": "en",
-          "homeUrl": "https://arvencomics.com"
-        }
-      ]
-    },
-    {
       "name": "Vortex Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.arvenscans",
       "resources": {
@@ -7619,25 +7600,6 @@
           "name": "Aurora",
           "language": "en",
           "homeUrl": "https://comicaurora.com"
-        }
-      ]
-    },
-    {
-      "name": "azComic",
-      "packageName": "eu.kanade.tachiyomi.extension.en.azcomic",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.azcomic-v1.4.3.apk",
-        "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.azcomic.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "5057367751125439940",
-          "name": "azComic",
-          "language": "en",
-          "homeUrl": "https://azcomic.com"
         }
       ]
     },
@@ -9897,12 +9859,12 @@
       "name": "Ken Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.kenscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.kenscans-v1.4.32.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.kenscans-v1.4.33.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kenscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 32,
-      "versionName": "1.4.32",
+      "versionCode": 33,
+      "versionName": "1.4.33",
       "sources": [
         {
           "id": "7831933086917318633",
@@ -13181,12 +13143,12 @@
       "name": "Philia Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.philiascans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.philiascans-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.philiascans-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.philiascans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "5404809838386240671",
@@ -15655,21 +15617,21 @@
           "id": "5583626852311652499",
           "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf470.com",
+          "homeUrl": "https://wfwf471.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
           "language": "ko",
-          "homeUrl": "https://wfwf470.com",
+          "homeUrl": "https://wfwf471.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "4225505094399546613",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf470.com",
+          "homeUrl": "https://wfwf471.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]

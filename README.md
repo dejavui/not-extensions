@@ -3,7 +3,7 @@
 
 ## Usage
 
-* You can add our repo by visiting the [Keiyoushi Website](https://dejavui.github.io/add-repo)
+* You can add our repo by visiting the [Dejavui Website](https://dejavui.github.io/add-repo)
 * Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/dejavui/not-extensions/repo/index.min.json
 
 ### Source Code

@@ -3190,12 +3190,12 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.7.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.8.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
+        "versionCode": "8",
+        "versionName": "1.4.8",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -5595,6 +5595,68 @@
         ]
       },
       {
+        "name": "OniSaga",
+        "packageName": "eu.kanade.tachiyomi.extension.all.onisaga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.onisaga-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.onisaga.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8616495687402045560",
+            "name": "OniSaga",
+            "language": "all",
+            "homeUrl": "https://onisaga.com"
+          },
+          {
+            "id": "2644848669022862951",
+            "name": "OniSaga",
+            "language": "en",
+            "homeUrl": "https://onisaga.com"
+          },
+          {
+            "id": "5431409047697637162",
+            "name": "OniSaga",
+            "language": "fr",
+            "homeUrl": "https://onisaga.com"
+          },
+          {
+            "id": "5205171098698400162",
+            "name": "OniSaga",
+            "language": "ja",
+            "homeUrl": "https://onisaga.com"
+          },
+          {
+            "id": "5348722599884573141",
+            "name": "OniSaga",
+            "language": "pt-BR",
+            "homeUrl": "https://onisaga.com"
+          },
+          {
+            "id": "3793216737618759530",
+            "name": "OniSaga",
+            "language": "pt",
+            "homeUrl": "https://onisaga.com"
+          },
+          {
+            "id": "5869426157802671832",
+            "name": "OniSaga",
+            "language": "es-419",
+            "homeUrl": "https://onisaga.com"
+          },
+          {
+            "id": "9030342464252097773",
+            "name": "OniSaga",
+            "language": "es",
+            "homeUrl": "https://onisaga.com"
+          }
+        ]
+      },
+      {
         "name": "OSOSEDKI",
         "packageName": "eu.kanade.tachiyomi.extension.all.ososedki",
         "resources": {
@@ -7489,12 +7551,12 @@
         "name": "ComicK Fanmade",
         "packageName": "eu.kanade.tachiyomi.extension.en.comickfan",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.comickfan-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.comickfan-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comickfan.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7822,19 +7884,19 @@
         "name": "Diva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.divascans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.23.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.divascans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "23",
-        "versionName": "1.4.23",
+        "versionCode": "22",
+        "versionName": "1.4.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "5481739102875145368",
             "name": "Diva Scans",
             "language": "en",
-            "homeUrl": "https://divatoon.com"
+            "homeUrl": "https://divascans.org"
           }
         ]
       },
@@ -9294,12 +9356,12 @@
         "name": "Kayn Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.kaynscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.kaynscans-v1.4.26.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.kaynscans-v1.4.27.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kaynscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "26",
-        "versionName": "1.4.26",
+        "versionCode": "27",
+        "versionName": "1.4.27",
         "sources": [
           {
             "id": "3406901199711327034",
@@ -9820,12 +9882,12 @@
         "name": "Madokami",
         "packageName": "eu.kanade.tachiyomi.extension.en.madokami",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.madokami-v1.4.13.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.madokami-v1.4.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.madokami.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "sources": [
           {
             "id": "7291521832235473745",
@@ -11177,12 +11239,12 @@
         "name": "ManhuaPlus (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuaplusorg.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "5",
-        "versionName": "1.4.5",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "sources": [
           {
             "id": "5075089422240578347",
@@ -13228,12 +13290,12 @@
         "name": "Reset Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.resetscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.65.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.66.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.resetscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "65",
-        "versionName": "1.4.65",
+        "versionCode": "66",
+        "versionName": "1.4.66",
         "sources": [
           {
             "id": "8358008083447218926",
@@ -14241,12 +14303,12 @@
         "name": "Utoon",
         "packageName": "eu.kanade.tachiyomi.extension.en.utoon",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.utoon-v1.4.55.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.utoon-v1.4.56.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.utoon.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "sources": [
           {
             "id": "3650631607354829018",
@@ -15091,19 +15153,19 @@
             "id": "5583626852311652499",
             "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf472.com"
+            "homeUrl": "https://wfwf473.com"
           },
           {
             "id": "7074060458114951398",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
             "language": "ko",
-            "homeUrl": "https://wfwf472.com"
+            "homeUrl": "https://wfwf473.com"
           },
           {
             "id": "4225505094399546613",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf472.com"
+            "homeUrl": "https://wfwf473.com"
           }
         ]
       },
@@ -15230,12 +15292,12 @@
         "name": "DocTruyen5s",
         "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.doctruyen5s-v1.4.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.doctruyen5s-v1.4.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.doctruyen5s.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "versionCode": "9",
+        "versionName": "1.4.9",
         "sources": [
           {
             "id": "7595811359698226104",

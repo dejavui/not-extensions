@@ -15386,7 +15386,7 @@
         ]
       },
       {
-        "name": "CBHentai",
+        "name": "HentaiCB",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.81.apk",
@@ -15399,7 +15399,7 @@
         "sources": [
           {
             "id": "823638192569572166",
-            "name": "CBHentai",
+            "name": "HentaiCB",
             "language": "vi",
             "homeUrl": "https://2tencb.pro"
           }

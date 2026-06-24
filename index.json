@@ -15153,19 +15153,19 @@
             "id": "5583626852311652499",
             "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf473.com"
+            "homeUrl": "https://wfwf474.com"
           },
           {
             "id": "7074060458114951398",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
             "language": "ko",
-            "homeUrl": "https://wfwf473.com"
+            "homeUrl": "https://wfwf474.com"
           },
           {
             "id": "4225505094399546613",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf473.com"
+            "homeUrl": "https://wfwf474.com"
           }
         ]
       },
@@ -15402,6 +15402,26 @@
             "name": "CBHentai",
             "language": "vi",
             "homeUrl": "https://2tencb.pro"
+          }
+        ]
+      },
+      {
+        "name": "HentaiVNBond",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivnbond",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.hentaivnbond-v1.4.52.apk",
+          "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.hentaivnbond.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "52",
+        "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8851758440110273803",
+            "name": "HentaiVNBond",
+            "language": "vi",
+            "homeUrl": "https://hentaivn.bond"
           }
         ]
       },

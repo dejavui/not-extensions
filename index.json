@@ -424,12 +424,12 @@
         "name": "Comic Growl",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicgrowl",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comicgrowl.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -6300,12 +6300,12 @@
         "name": "Thunder Scans",
         "packageName": "eu.kanade.tachiyomi.extension.all.thunderscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.44.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.45.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.thunderscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "44",
-        "versionName": "1.4.44",
+        "versionCode": "45",
+        "versionName": "1.4.45",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7952,12 +7952,12 @@
         "name": "Diva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.divascans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.24.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.25.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.divascans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "24",
-        "versionName": "1.4.24",
+        "versionCode": "25",
+        "versionName": "1.4.25",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -10392,12 +10392,12 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

@@ -7958,7 +7958,7 @@
         "extensionLib": "1.4",
         "versionCode": "25",
         "versionName": "1.4.25",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5481739102875145368",
@@ -10398,7 +10398,7 @@
         "extensionLib": "1.4",
         "versionCode": "12",
         "versionName": "1.4.12",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5900936305360403385",
@@ -15728,13 +15728,13 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "6560112192335153780",
             "name": "LuotTruyen",
             "language": "vi",
-            "homeUrl": "https://luottruyen9.com"
+            "homeUrl": "https://luottruyen10.com"
           }
         ]
       },

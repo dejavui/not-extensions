@@ -12828,12 +12828,12 @@
         "name": "ReadComicOnline",
         "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readcomiconline-v1.4.43.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readcomiconline.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "43",
-        "versionName": "1.4.43",
+        "versionCode": "44",
+        "versionName": "1.4.44",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

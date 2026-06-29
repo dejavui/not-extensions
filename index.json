@@ -3206,12 +3206,12 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.9.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.10.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -6911,12 +6911,12 @@
         "name": "Aqua Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.aquamanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.aquamanga-v1.4.62.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.aquamanga-v1.4.64.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.aquamanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "62",
-        "versionName": "1.4.62",
+        "versionCode": "64",
+        "versionName": "1.4.64",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10391,12 +10391,12 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "13",
+        "versionName": "1.4.13",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -15341,19 +15341,19 @@
             "id": "5583626852311652499",
             "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf476.com"
+            "homeUrl": "https://wfwf477.com"
           },
           {
             "id": "7074060458114951398",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
             "language": "ko",
-            "homeUrl": "https://wfwf476.com"
+            "homeUrl": "https://wfwf477.com"
           },
           {
             "id": "4225505094399546613",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf476.com"
+            "homeUrl": "https://wfwf477.com"
           }
         ]
       },

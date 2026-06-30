@@ -15358,6 +15358,26 @@
         ]
       },
       {
+        "name": "Ariverse",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.ariverse",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.ariverse-v1.4.53.apk",
+          "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.ariverse.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "53",
+        "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4480433466073326866",
+            "name": "Ariverse",
+            "language": "vi",
+            "homeUrl": "https://arigl.xyz"
+          }
+        ]
+      },
+      {
         "name": "CManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cmanga",
         "resources": {
@@ -15834,6 +15854,26 @@
             "name": "MeHentai",
             "language": "vi",
             "homeUrl": "https://mehentai.blog"
+          }
+        ]
+      },
+      {
+        "name": "MeoSSS",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.meosss",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.meosss-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.meosss.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6733296438137670174",
+            "name": "MeoSSS",
+            "language": "vi",
+            "homeUrl": "https://meosss.com"
           }
         ]
       },

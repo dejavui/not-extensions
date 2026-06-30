@@ -3206,12 +3206,12 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11071,12 +11071,12 @@
         "name": "MangaReader.in",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangareadercc",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.6.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadercc.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11348,7 +11348,7 @@
         ]
       },
       {
-        "name": "ManhuaPlus (unoriginal)",
+        "name": "ManhuaPlus (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.6.apk",
@@ -12463,7 +12463,7 @@
             "id": "419822582289753882",
             "name": "Nyx Scans",
             "language": "en",
-            "homeUrl": "https://nyxscans.com"
+            "homeUrl": "https://nyxmanga.org"
           }
         ]
       },
@@ -12711,17 +12711,17 @@
         "name": "Paradise Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.paradisescans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.21.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paradisescans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "21",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "5928300995303689257",
-            "name": "ParadiseScans",
+            "name": "Paradise Scans",
             "language": "en",
             "homeUrl": "https://paradisescans.com"
           }
@@ -14231,12 +14231,12 @@
         "name": "TimelessToons",
         "packageName": "eu.kanade.tachiyomi.extension.en.timelesstoons",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.timelesstoons-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.timelesstoons-v1.4.21.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.timelesstoons.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "21",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -15341,19 +15341,19 @@
             "id": "5583626852311652499",
             "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf477.com"
+            "homeUrl": "https://wfwf478.com"
           },
           {
             "id": "7074060458114951398",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
             "language": "ko",
-            "homeUrl": "https://wfwf477.com"
+            "homeUrl": "https://wfwf478.com"
           },
           {
             "id": "4225505094399546613",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf477.com"
+            "homeUrl": "https://wfwf478.com"
           }
         ]
       },
@@ -15550,8 +15550,8 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8162695314495646445",
-            "name": "GocTruyenTranh",
+            "id": "4535869188674243344",
+            "name": "Goc Truyen Tranh",
             "language": "vi",
             "homeUrl": "https://goctruyentranh.com"
           }
@@ -15578,20 +15578,20 @@
         ]
       },
       {
-        "name": "HentaiCB",
+        "name": "CBHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.82.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.83.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.hentaicube.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "82",
-        "versionName": "1.4.82",
+        "versionCode": "83",
+        "versionName": "1.4.83",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "823638192569572166",
-            "name": "HentaiCB",
+            "name": "CBHentai",
             "language": "vi",
             "homeUrl": "https://2tencb.pro"
           }

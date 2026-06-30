@@ -15598,20 +15598,20 @@
         ]
       },
       {
-        "name": "CBHentai",
+        "name": "HentaiCB",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.83.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.84.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.hentaicube.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "83",
-        "versionName": "1.4.83",
+        "versionCode": "84",
+        "versionName": "1.4.84",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "823638192569572166",
-            "name": "CBHentai",
+            "name": "HentaiCB",
             "language": "vi",
             "homeUrl": "https://2tencb.pro"
           }

@@ -6296,32 +6296,6 @@
         ]
       },
       {
-        "name": "Thunder Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.all.thunderscans",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.45.apk",
-          "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.thunderscans.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "45",
-        "versionName": "1.4.45",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3209001028102012989",
-            "name": "Lava Scans",
-            "language": "ar",
-            "homeUrl": "https://lavascans.com"
-          },
-          {
-            "id": "2848420679472350044",
-            "name": "Thunder Scans",
-            "language": "en",
-            "homeUrl": "https://en-thunderscans.com"
-          }
-        ]
-      },
-      {
         "name": "Toomics",
         "packageName": "eu.kanade.tachiyomi.extension.all.toomics",
         "resources": {
@@ -6931,12 +6905,12 @@
         "name": "Arc-Relight",
         "packageName": "eu.kanade.tachiyomi.extension.en.arcrelight",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.arcrelight-v1.4.15.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.arcrelight-v1.4.16.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.arcrelight.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "15",
-        "versionName": "1.4.15",
+        "versionCode": "16",
+        "versionName": "1.4.16",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7091,12 +7065,12 @@
         "name": "Assorted Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.assortedscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.assortedscans-v1.4.17.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.assortedscans-v1.4.18.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.assortedscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "17",
-        "versionName": "1.4.17",
+        "versionCode": "18",
+        "versionName": "1.4.18",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10331,12 +10305,12 @@
         "name": "Manga Demon",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangademon",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangademon-v1.4.19.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangademon-v1.4.20.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangademon.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "19",
-        "versionName": "1.4.19",
+        "versionCode": "20",
+        "versionName": "1.4.20",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11743,7 +11717,7 @@
             "id": "492596911850505683",
             "name": "ManhwaRead",
             "language": "en",
-            "homeUrl": "https://manhwaread.com#, https://manhwaread.org"
+            "homeUrl": "https://manhwaread.com"
           }
         ]
       },
@@ -14228,6 +14202,26 @@
         ]
       },
       {
+        "name": "Thunder Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.thunderscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.thunderscans-v1.4.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.thunderscans.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "33",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2848420679472350044",
+            "name": "Thunder Scans",
+            "language": "en",
+            "homeUrl": "https://en-thunderscans.com"
+          }
+        ]
+      },
+      {
         "name": "TimelessToons",
         "packageName": "eu.kanade.tachiyomi.extension.en.timelesstoons",
         "resources": {
@@ -15309,19 +15303,19 @@
         "name": "Toonkor",
         "packageName": "eu.kanade.tachiyomi.extension.ko.toonkor",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.6.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.7.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toonkor.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionCode": "7",
+        "versionName": "1.4.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "6596496791271983268",
             "name": "Toonkor",
             "language": "ko",
-            "homeUrl": "https://tkor114.com"
+            "homeUrl": "https://tkor131.com"
           }
         ]
       },

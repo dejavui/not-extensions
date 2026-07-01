@@ -15552,7 +15552,7 @@
         ]
       },
       {
-        "name": "Goc Truyen Tranh",
+        "name": "GocTruyenTranh",
         "packageName": "eu.kanade.tachiyomi.extension.vi.goctruyentranh",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.goctruyentranh-v1.4.12.apk",
@@ -15564,8 +15564,8 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4535869188674243344",
-            "name": "Goc Truyen Tranh",
+            "id": "8162695314495646445",
+            "name": "GocTruyenTranh",
             "language": "vi",
             "homeUrl": "https://goctruyentranh.com"
           }

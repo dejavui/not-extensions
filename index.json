@@ -423,12 +423,12 @@
         "name": "Comic Growl",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicgrowl",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comicgrowl.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "13",
+        "versionName": "1.4.13",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -888,12 +888,6 @@
             "homeUrl": "https://www.dragonball-multiverse.com"
           },
           {
-            "id": "5582703984897222132",
-            "name": "Dragon Ball Multiverse Parody",
-            "language": "fr",
-            "homeUrl": "https://www.dragonball-multiverse.com"
-          },
-          {
             "id": "7492246554765916610",
             "name": "Dragon Ball Multiverse",
             "language": "tr",
@@ -1047,6 +1041,12 @@
             "id": "8795012289956874023",
             "name": "Dragon Ball Multiverse",
             "language": "lmo",
+            "homeUrl": "https://www.dragonball-multiverse.com"
+          },
+          {
+            "id": "5582703984897222132",
+            "name": "Dragon Ball Multiverse Parody",
+            "language": "fr",
             "homeUrl": "https://www.dragonball-multiverse.com"
           }
         ]
@@ -2098,6 +2098,12 @@
             "homeUrl": "https://hentaihand.com"
           },
           {
+            "id": "4992571563369273240",
+            "name": "HentaiHand",
+            "language": "ja",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
             "id": "1438773694780928937",
             "name": "HentaiHand",
             "language": "en",
@@ -2110,21 +2116,9 @@
             "homeUrl": "https://hentaihand.com"
           },
           {
-            "id": "4992571563369273240",
+            "id": "7561346598466986562",
             "name": "HentaiHand",
-            "language": "ja",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "7302549142935671434",
-            "name": "HentaiHand",
-            "language": "other",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "6189674531673390664",
-            "name": "HentaiHand",
-            "language": "eo",
+            "language": "bg",
             "homeUrl": "https://hentaihand.com"
           },
           {
@@ -2134,39 +2128,9 @@
             "homeUrl": "https://hentaihand.com"
           },
           {
-            "id": "6818645358118704394",
+            "id": "7302549142935671434",
             "name": "HentaiHand",
-            "language": "cs",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "5494684486943087247",
-            "name": "HentaiHand",
-            "language": "ar",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "3548394435548008920",
-            "name": "HentaiHand",
-            "language": "sk",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "4197081087116305652",
-            "name": "HentaiHand",
-            "language": "mn",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "299569391162966579",
-            "name": "HentaiHand",
-            "language": "uk",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "3078530910469685147",
-            "name": "HentaiHand",
-            "language": "la",
+            "language": "other",
             "homeUrl": "https://hentaihand.com"
           },
           {
@@ -2176,99 +2140,9 @@
             "homeUrl": "https://hentaihand.com"
           },
           {
-            "id": "1049245690865797006",
+            "id": "5494684486943087247",
             "name": "HentaiHand",
-            "language": "es",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "8272502917504358946",
-            "name": "HentaiHand",
-            "language": "it",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "2772498967425526818",
-            "name": "HentaiHand",
-            "language": "ko",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "392245224742696225",
-            "name": "HentaiHand",
-            "language": "th",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "6173663752022195918",
-            "name": "HentaiHand",
-            "language": "pl",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "2304134427430911086",
-            "name": "HentaiHand",
-            "language": "fr",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "2516244587139644000",
-            "name": "HentaiHand",
-            "language": "pt-BR",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "8300414741852788090",
-            "name": "HentaiHand",
-            "language": "de",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "4855613465785451164",
-            "name": "HentaiHand",
-            "language": "fi",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "5788099943016900736",
-            "name": "HentaiHand",
-            "language": "ru",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "6490746811386262494",
-            "name": "HentaiHand",
-            "language": "hu",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "202981519301875762",
-            "name": "HentaiHand",
-            "language": "id",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "474754362133655719",
-            "name": "HentaiHand",
-            "language": "vi",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "7899387259192038112",
-            "name": "HentaiHand",
-            "language": "nl",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "1337874080374168573",
-            "name": "HentaiHand",
-            "language": "hi",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "6304497572870246566",
-            "name": "HentaiHand",
-            "language": "tr",
+            "language": "ar",
             "homeUrl": "https://hentaihand.com"
           },
           {
@@ -2290,9 +2164,135 @@
             "homeUrl": "https://hentaihand.com"
           },
           {
-            "id": "7561346598466986562",
+            "id": "299569391162966579",
             "name": "HentaiHand",
-            "language": "bg",
+            "language": "uk",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "6304497572870246566",
+            "name": "HentaiHand",
+            "language": "tr",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "4855613465785451164",
+            "name": "HentaiHand",
+            "language": "fi",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "3078530910469685147",
+            "name": "HentaiHand",
+            "language": "la",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "4197081087116305652",
+            "name": "HentaiHand",
+            "language": "mn",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "6189674531673390664",
+            "name": "HentaiHand",
+            "language": "eo",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "3548394435548008920",
+            "name": "HentaiHand",
+            "language": "sk",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "6818645358118704394",
+            "name": "HentaiHand",
+            "language": "cs",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "2772498967425526818",
+            "name": "HentaiHand",
+            "language": "ko",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "5788099943016900736",
+            "name": "HentaiHand",
+            "language": "ru",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "8272502917504358946",
+            "name": "HentaiHand",
+            "language": "it",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "1049245690865797006",
+            "name": "HentaiHand",
+            "language": "es",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "2516244587139644000",
+            "name": "HentaiHand",
+            "language": "pt-BR",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "392245224742696225",
+            "name": "HentaiHand",
+            "language": "th",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "2304134427430911086",
+            "name": "HentaiHand",
+            "language": "fr",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "202981519301875762",
+            "name": "HentaiHand",
+            "language": "id",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "474754362133655719",
+            "name": "HentaiHand",
+            "language": "vi",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "8300414741852788090",
+            "name": "HentaiHand",
+            "language": "de",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "6173663752022195918",
+            "name": "HentaiHand",
+            "language": "pl",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "6490746811386262494",
+            "name": "HentaiHand",
+            "language": "hu",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "7899387259192038112",
+            "name": "HentaiHand",
+            "language": "nl",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
+            "id": "1337874080374168573",
+            "name": "HentaiHand",
+            "language": "hi",
             "homeUrl": "https://hentaihand.com"
           }
         ]
@@ -3475,12 +3475,6 @@
             "homeUrl": "https://www.luscious.net"
           },
           {
-            "id": "5826725746643311801",
-            "name": "Luscious",
-            "language": "pt-BR",
-            "homeUrl": "https://www.luscious.net"
-          },
-          {
             "id": "2638955581892699679",
             "name": "Luscious",
             "language": "th",
@@ -3490,6 +3484,12 @@
             "id": "4625881812440927464",
             "name": "Luscious",
             "language": "all",
+            "homeUrl": "https://www.luscious.net"
+          },
+          {
+            "id": "5826725746643311801",
+            "name": "Luscious",
+            "language": "pt-BR",
             "homeUrl": "https://www.luscious.net"
           }
         ]
@@ -3848,14 +3848,8 @@
         "extensionLib": "1.4",
         "versionCode": "210",
         "versionName": "1.4.210",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
-          {
-            "id": "2499283573021220255",
-            "name": "MangaDex",
-            "language": "en",
-            "homeUrl": "https://mangadex.org"
-          },
           {
             "id": "4638673959522768501",
             "name": "MangaDex",
@@ -3959,6 +3953,12 @@
             "homeUrl": "https://mangadex.org"
           },
           {
+            "id": "2499283573021220255",
+            "name": "MangaDex",
+            "language": "en",
+            "homeUrl": "https://mangadex.org"
+          },
+          {
             "id": "2819252027406613931",
             "name": "MangaDex",
             "language": "eo",
@@ -4043,15 +4043,15 @@
             "homeUrl": "https://mangadex.org"
           },
           {
-            "id": "1573550798452063564",
-            "name": "MangaDex",
-            "language": "jv",
-            "homeUrl": "https://mangadex.org"
-          },
-          {
             "id": "1411768577036936240",
             "name": "MangaDex",
             "language": "ja",
+            "homeUrl": "https://mangadex.org"
+          },
+          {
+            "id": "1573550798452063564",
+            "name": "MangaDex",
+            "language": "jv",
             "homeUrl": "https://mangadex.org"
           },
           {
@@ -4515,12 +4515,6 @@
             "homeUrl": "https://mangatoon.mobi"
           },
           {
-            "id": "2064722193112934135",
-            "name": "MangaToon (Limited)",
-            "language": "pt-BR",
-            "homeUrl": "https://mangatoon.mobi"
-          },
-          {
             "id": "6266226783871841407",
             "name": "MangaToon (Limited)",
             "language": "th",
@@ -4536,6 +4530,12 @@
             "id": "3509597554682217593",
             "name": "MangaToon (Limited)",
             "language": "ja",
+            "homeUrl": "https://mangatoon.mobi"
+          },
+          {
+            "id": "2064722193112934135",
+            "name": "MangaToon (Limited)",
+            "language": "pt-BR",
             "homeUrl": "https://mangatoon.mobi"
           }
         ]
@@ -6555,12 +6555,12 @@
         "name": "XGMN",
         "packageName": "eu.kanade.tachiyomi.extension.all.xgmn",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.xgmn-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-all.xgmn-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xgmn.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7645,12 +7645,12 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.33.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
+        "versionCode": "33",
+        "versionName": "1.4.33",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11045,12 +11045,12 @@
         "name": "MangaReader.in",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangareadercc",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadercc.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -13137,7 +13137,7 @@
             "id": "8061953015808280611",
             "name": "ReadComicOnline",
             "language": "en",
-            "homeUrl": "https://rcostation.xyz"
+            "homeUrl": "https://readcomiconline.li"
           }
         ]
       },
@@ -15335,19 +15335,19 @@
             "id": "5583626852311652499",
             "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf410.com"
+            "homeUrl": "https://wfwf411.com"
           },
           {
             "id": "7074060458114951398",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
             "language": "ko",
-            "homeUrl": "https://wfwf410.com"
+            "homeUrl": "https://wfwf411.com"
           },
           {
             "id": "4225505094399546613",
             "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
             "language": "ko",
-            "homeUrl": "https://wfwf410.com"
+            "homeUrl": "https://wfwf411.com"
           }
         ]
       },
@@ -15392,7 +15392,7 @@
         ]
       },
       {
-        "name": "Cuu Truyen",
+        "name": "CuuTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.cuutruyen-v1.4.1.apk",
@@ -15404,8 +15404,8 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8050301774562645387",
-            "name": "Cuu Truyen",
+            "id": "8222087175453285202",
+            "name": "CuuTruyen",
             "language": "vi",
             "homeUrl": "https://cuutruyen.net"
           }

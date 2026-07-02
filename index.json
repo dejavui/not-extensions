@@ -15392,7 +15392,7 @@
         ]
       },
       {
-        "name": "CuuTruyen",
+        "name": "Cuu Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/refs/heads/repo/apk/tachiyomi-vi.cuutruyen-v1.4.1.apk",
@@ -15404,8 +15404,8 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8222087175453285202",
-            "name": "CuuTruyen",
+            "id": "8050301774562645387",
+            "name": "Cuu Truyen",
             "language": "vi",
             "homeUrl": "https://cuutruyen.net"
           }

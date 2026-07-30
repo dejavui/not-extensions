@@ -16061,20 +16061,20 @@
         "name": "HentaiVNBond",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivnbond",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.hentaivnbond-v1.4.54.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.hentaivnbond-v1.4.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/hentaivnbond/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.hentaivnbond-v1.4.54.jar"
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.hentaivnbond-v1.4.55.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
+        "versionCode": "55",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "8851758440110273803",
             "name": "HentaiVNBond",
             "language": "vi",
-            "homeUrl": "https://hentaivn.cfd"
+            "homeUrl": "https://hentaivn.tax"
           }
         ]
       },

@@ -1142,13 +1142,13 @@
         "name": "E-Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.ehentai-v1.6.28.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.ehentai-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/ehentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-all.ehentai-v1.6.28.jar"
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-all.ehentai-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "28",
-        "versionName": "1.6.28",
+        "versionCode": "29",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2504,13 +2504,13 @@
         "name": "Hitomi",
         "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.hitomi-v1.6.41.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.hitomi-v1.6.42.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/hitomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-all.hitomi-v1.6.41.jar"
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-all.hitomi-v1.6.42.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "41",
-        "versionName": "1.6.41",
+        "versionCode": "42",
+        "versionName": "1.6.42",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

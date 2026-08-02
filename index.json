@@ -2504,13 +2504,13 @@
         "name": "Hitomi",
         "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.hitomi-v1.6.42.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.hitomi-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/hitomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-all.hitomi-v1.6.42.jar"
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-all.hitomi-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "42",
-        "versionName": "1.6.42",
+        "versionCode": "43",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

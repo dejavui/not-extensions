@@ -16100,6 +16100,27 @@
         ]
       },
       {
+        "name": "HentaiVN Is Real",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivnisreal",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.hentaivnisreal-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/hentaivnisreal/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.hentaivnisreal-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3637253413870545126",
+            "name": "HentaiVN Is Real",
+            "language": "vi",
+            "homeUrl": "https://hentaivnreal.com"
+          }
+        ]
+      },
+      {
         "name": "HentaiVN.plus",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
         "resources": {

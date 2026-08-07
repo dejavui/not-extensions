@@ -11477,13 +11477,13 @@
         "name": "MangaGeko",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-en.mangarawclub-v1.4.33.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-en.mangarawclub-v1.4.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangarawclub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-en.mangarawclub-v1.4.33.jar"
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-en.mangarawclub-v1.4.34.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "33",
-        "versionName": "1.4.33",
+        "versionCode": "34",
+        "versionName": "1.4.34",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16292,13 +16292,13 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.lxhentai-v1.6.34.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.lxhentai-v1.6.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.lxhentai-v1.6.34.jar"
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.lxhentai-v1.6.35.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "34",
-        "versionName": "1.6.34",
+        "versionCode": "35",
+        "versionName": "1.6.35",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

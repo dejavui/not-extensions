@@ -16310,6 +16310,27 @@
         ]
       },
       {
+        "name": "LxManga.org (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.lxmangaorg",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.lxmangaorg-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/lxmangaorg/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.lxmangaorg-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2252098186268656747",
+            "name": "LxManga.org (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://lxmanga.org"
+          }
+        ]
+      },
+      {
         "name": "MatoDex",
         "packageName": "eu.kanade.tachiyomi.extension.vi.matodex",
         "resources": {

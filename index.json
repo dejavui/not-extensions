@@ -16791,13 +16791,13 @@
         "name": "SayHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.sayhentai",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.sayhentai-v1.4.23.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.sayhentai-v1.4.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/sayhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.sayhentai-v1.4.23.jar"
+          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.sayhentai-v1.4.24.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "23",
-        "versionName": "1.4.23",
+        "versionCode": "24",
+        "versionName": "1.4.24",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

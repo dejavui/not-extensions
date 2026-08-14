@@ -1699,16 +1699,6 @@
       "sha256": "b31162483df69c5338091b129948392993434b809e6383dd3b3acf14f4169ad6"
     }
   },
-  "eu.kanade.tachiyomi.extension.en.coffeemanga": {
-    "apk": {
-      "name": "tachiyomi-en.coffeemanga-v1.4.57.apk",
-      "sha256": "9ffb801297d64206eadde94a599da51c8cf998b49eb473378051584b50c230b0"
-    },
-    "jar": {
-      "name": "tachiyomi-en.coffeemanga-v1.4.57.jar",
-      "sha256": "1eff776fd8417b75b76ffeaecf3e0e20196b63f651f9302abb04200083b50574"
-    }
-  },
   "eu.kanade.tachiyomi.extension.en.collectedcurios": {
     "apk": {
       "name": "tachiyomi-en.collectedcurios-v1.4.2.apk",

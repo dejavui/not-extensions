@@ -17591,20 +17591,20 @@
         "name": "NetTruyen0209",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyen0209",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.nettruyen0209-v1.4.11.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/4d41d90/tachiyomi-vi.nettruyen0209-v1.4.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/nettruyen0209/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.nettruyen0209-v1.4.11.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/4d41d90/tachiyomi-vi.nettruyen0209-v1.4.12.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7512224737233822423",
             "name": "NetTruyen0209",
             "language": "vi",
-            "homeUrl": "https://nettruyen12s.com"
+            "homeUrl": "https://nettruyen13s.com"
           }
         ]
       },
@@ -18221,20 +18221,20 @@
         "name": "TruyenTuoiTho",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.truyentuoitho-v1.4.55.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/4d41d90/tachiyomi-vi.truyentuoitho-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.truyentuoitho-v1.4.55.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/4d41d90/tachiyomi-vi.truyentuoitho-v1.4.56.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "401563321854321005",
             "name": "TruyenTuoiTho",
             "language": "vi",
-            "homeUrl": "https://truyentuoitho.online"
+            "homeUrl": "https://truyentuoitho.com"
           }
         ]
       },
@@ -18372,20 +18372,20 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-vi.vinahentai-v1.6.13.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/4d41d90/tachiyomi-vi.vinahentai-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-vi.vinahentai-v1.6.13.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/4d41d90/tachiyomi-vi.vinahentai-v1.6.14.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "13",
-        "versionName": "1.6.13",
+        "versionCode": "14",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4572372176917567711",
             "name": "VinaHentai",
             "language": "vi",
-            "homeUrl": "https://vinahentai.blog"
+            "homeUrl": "https://vinahentai.wiki"
           }
         ]
       },

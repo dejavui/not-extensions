@@ -884,9 +884,9 @@
         "name": "Dragon Ball Multiverse",
         "packageName": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.dragonballmultiverse-v1.4.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-all.dragonballmultiverse-v1.4.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/dragonballmultiverse/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-all.dragonballmultiverse-v1.4.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-all.dragonballmultiverse-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "8",
@@ -8541,13 +8541,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-en.atsumaru-v1.6.20.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-en.atsumaru-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-en.atsumaru-v1.6.20.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-en.atsumaru-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "20",
-        "versionName": "1.6.20",
+        "versionCode": "21",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9742,13 +9742,13 @@
         "name": "Eva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.evascans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-en.evascans-v1.4.34.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-en.evascans-v1.4.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/evascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-en.evascans-v1.4.34.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-en.evascans-v1.4.35.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "versionCode": "35",
+        "versionName": "1.4.35",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -13667,13 +13667,13 @@
         "name": "MurimScan",
         "packageName": "eu.kanade.tachiyomi.extension.en.murimscan",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-en.murimscan-v1.4.49.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-en.murimscan-v1.4.50.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/murimscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/dejavui/not-extensions/repo/jar/tachiyomi-en.murimscan-v1.4.49.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/819c13c/tachiyomi-en.murimscan-v1.4.50.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "49",
-        "versionName": "1.4.49",
+        "versionCode": "50",
+        "versionName": "1.4.50",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

@@ -192,7 +192,7 @@
   "eu.kanade.tachiyomi.extension.all.dragonballmultiverse": {
     "apk": {
       "name": "tachiyomi-all.dragonballmultiverse-v1.4.8.apk",
-      "sha256": "46bfea767c3f1403160ff21c5953e5e34e95e874067f7f921558811a7991412d"
+      "sha256": "25b6f573fad4beafec40a469a2cd037575087bc4d4666f4f5e8e76d3f9515028"
     },
     "jar": {
       "name": "tachiyomi-all.dragonballmultiverse-v1.4.8.jar",
@@ -1521,12 +1521,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.atsumaru": {
     "apk": {
-      "name": "tachiyomi-en.atsumaru-v1.6.20.apk",
-      "sha256": "a759a50e4546df4108f09e7df669cd0555b1075a56d21c3c570cdcff550475cf"
+      "name": "tachiyomi-en.atsumaru-v1.6.21.apk",
+      "sha256": "28d8114c3ae67ac5465f21181e0a269fa6666fe805e039072d065341cab3f81a"
     },
     "jar": {
-      "name": "tachiyomi-en.atsumaru-v1.6.20.jar",
-      "sha256": "a5643037b9cf5d3212c53a1718f865de16a44ecd4d1c110069c576fb3b6420d3"
+      "name": "tachiyomi-en.atsumaru-v1.6.21.jar",
+      "sha256": "837b9240e876a5acb9db9a011ca81d22257c4461064ecba8ad7fc2f99fe9251d"
     }
   },
   "eu.kanade.tachiyomi.extension.en.aurora": {
@@ -2091,12 +2091,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.evascans": {
     "apk": {
-      "name": "tachiyomi-en.evascans-v1.4.34.apk",
-      "sha256": "45581b81f12d5369cb6f1a10eb41d0fdff1b70d742a9a4b42b34b1104e23f6a1"
+      "name": "tachiyomi-en.evascans-v1.4.35.apk",
+      "sha256": "d2d88f7c9621281e8f55b94ca1a2c94defe42c06e8c48c606f6108051268ce9d"
     },
     "jar": {
-      "name": "tachiyomi-en.evascans-v1.4.34.jar",
-      "sha256": "4600deed8ae03a2f449ac9638ec2213908e98b469f43728ba882869bf87b066b"
+      "name": "tachiyomi-en.evascans-v1.4.35.jar",
+      "sha256": "2c03f21d83f8bca09fc0906b01657acdab0b59ea09d6deeec89843cacd859c29"
     }
   },
   "eu.kanade.tachiyomi.extension.en.existentialcomics": {
@@ -3951,12 +3951,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.murimscan": {
     "apk": {
-      "name": "tachiyomi-en.murimscan-v1.4.49.apk",
-      "sha256": "84879502351ab7b8c9fd23cb9f14a5e19f95ca501564b261e6a063d39c9f7437"
+      "name": "tachiyomi-en.murimscan-v1.4.50.apk",
+      "sha256": "291c21df3e078d012bc8186e8189dbf15ba4aa5940206d02028566236b59c83d"
     },
     "jar": {
-      "name": "tachiyomi-en.murimscan-v1.4.49.jar",
-      "sha256": "1efdac2f3c4252899cc751d9e3a9c535fe04ba8c7ef3ab99be472d1d102fb8e2"
+      "name": "tachiyomi-en.murimscan-v1.4.50.jar",
+      "sha256": "6cc46aed4508d81c6e00d80f27db37042c0aa9775236ce52a15f208f5798a0ff"
     }
   },
   "eu.kanade.tachiyomi.extension.en.myadultcomics": {

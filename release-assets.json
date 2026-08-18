@@ -1521,12 +1521,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.atsumaru": {
     "apk": {
-      "name": "tachiyomi-en.atsumaru-v1.6.21.apk",
-      "sha256": "28d8114c3ae67ac5465f21181e0a269fa6666fe805e039072d065341cab3f81a"
+      "name": "tachiyomi-en.atsumaru-v1.6.22.apk",
+      "sha256": "87591b3e9e2bcaf7f8ac6ad0c7b8900856ea3ee87d7ba324e9e8ff0352e4dadd"
     },
     "jar": {
-      "name": "tachiyomi-en.atsumaru-v1.6.21.jar",
-      "sha256": "387ef0aac3d8ed4dcba87748e85040f27569419ab247708afe3f17780073acee"
+      "name": "tachiyomi-en.atsumaru-v1.6.22.jar",
+      "sha256": "3734707dbc5e9bcd977cc54f26f4198a7d6fac2ebb04b2e9dd35f25f27952f3f"
     }
   },
   "eu.kanade.tachiyomi.extension.en.aurora": {

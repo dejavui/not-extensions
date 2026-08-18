@@ -17302,13 +17302,13 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1116a5c-1/tachiyomi-vi.lxhentai-v1.6.36.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/22c9416/tachiyomi-vi.lxhentai-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1116a5c-1/tachiyomi-vi.lxhentai-v1.6.36.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/22c9416/tachiyomi-vi.lxhentai-v1.6.37.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "36",
-        "versionName": "1.6.36",
+        "versionCode": "37",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

@@ -4047,13 +4047,13 @@
         "name": "MangaDex",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-all.mangadex-v1.4.211.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2300b60/tachiyomi-all.mangadex-v1.4.212.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangadex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1116a5c-0/tachiyomi-all.mangadex-v1.4.211.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2300b60/tachiyomi-all.mangadex-v1.4.212.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "211",
-        "versionName": "1.4.211",
+        "versionCode": "212",
+        "versionName": "1.4.212",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -8541,13 +8541,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0326422/tachiyomi-en.atsumaru-v1.6.22.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2300b60/tachiyomi-en.atsumaru-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0326422/tachiyomi-en.atsumaru-v1.6.22.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2300b60/tachiyomi-en.atsumaru-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "22",
-        "versionName": "1.6.22",
+        "versionCode": "23",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17302,13 +17302,13 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/22c9416/tachiyomi-vi.lxhentai-v1.6.37.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2300b60/tachiyomi-vi.lxhentai-v1.6.38.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/22c9416/tachiyomi-vi.lxhentai-v1.6.37.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2300b60/tachiyomi-vi.lxhentai-v1.6.38.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "37",
-        "versionName": "1.6.37",
+        "versionCode": "38",
+        "versionName": "1.6.38",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

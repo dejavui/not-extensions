@@ -661,12 +661,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.mangadex": {
     "apk": {
-      "name": "tachiyomi-all.mangadex-v1.4.211.apk",
-      "sha256": "2e32ec31e143b8de815f2772b5123136d08eb891b0cdaa07842aff5a299684d9"
+      "name": "tachiyomi-all.mangadex-v1.4.212.apk",
+      "sha256": "649ff6632d2d137ab4cabd315966d6868a42457ef2f0ce04fdfe2cf0949641ab"
     },
     "jar": {
-      "name": "tachiyomi-all.mangadex-v1.4.211.jar",
-      "sha256": "86af84871ebbea87484c05bcae1d923f7853809692d16652265c126f7e094a90"
+      "name": "tachiyomi-all.mangadex-v1.4.212.jar",
+      "sha256": "93127332be462994de235e8ebf67cc46bac268f84a1805130ca55c4c55e5db08"
     }
   },
   "eu.kanade.tachiyomi.extension.all.mangadna": {
@@ -1521,12 +1521,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.atsumaru": {
     "apk": {
-      "name": "tachiyomi-en.atsumaru-v1.6.22.apk",
-      "sha256": "87591b3e9e2bcaf7f8ac6ad0c7b8900856ea3ee87d7ba324e9e8ff0352e4dadd"
+      "name": "tachiyomi-en.atsumaru-v1.6.23.apk",
+      "sha256": "ac3f9e436e266b52dbc761281e0c2b2413325f0a952b356d37fec6cc85eed678"
     },
     "jar": {
-      "name": "tachiyomi-en.atsumaru-v1.6.22.jar",
-      "sha256": "3734707dbc5e9bcd977cc54f26f4198a7d6fac2ebb04b2e9dd35f25f27952f3f"
+      "name": "tachiyomi-en.atsumaru-v1.6.23.jar",
+      "sha256": "0db23f83b88333268ceac4a10cedbbad798f65e42a40f9096f94185cc2bd3ce5"
     }
   },
   "eu.kanade.tachiyomi.extension.en.aurora": {
@@ -5671,12 +5671,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.lxhentai": {
     "apk": {
-      "name": "tachiyomi-vi.lxhentai-v1.6.37.apk",
-      "sha256": "fdf99601b62472490639f4c0aeb85ec237c539bbb06e487b9e9e4066f2b29b48"
+      "name": "tachiyomi-vi.lxhentai-v1.6.38.apk",
+      "sha256": "5942e19cae94a9c775a1f2f0e285935908f84b185418102c96030ce90d526057"
     },
     "jar": {
-      "name": "tachiyomi-vi.lxhentai-v1.6.37.jar",
-      "sha256": "4fc048e362872f31348591878d384257ab15ec90445de1bbf5af0e845d510a6f"
+      "name": "tachiyomi-vi.lxhentai-v1.6.38.jar",
+      "sha256": "2cc82192b03ceed46406a5b48ad8f80bcbbd5ed401f86a5b9df1c73eda29959a"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.lxmangaorg": {

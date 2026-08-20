@@ -10015,13 +10015,13 @@
         "name": "Goda",
         "packageName": "eu.kanade.tachiyomi.extension.en.goda",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-en.goda-v1.4.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/a5252a2/tachiyomi-en.goda-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1116a5c-0/tachiyomi-en.goda-v1.4.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a5252a2/tachiyomi-en.goda-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11869,13 +11869,13 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/dejavui/not-extensions@repo/apk/tachiyomi-en.mangadotnet-v1.6.17.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/a5252a2/tachiyomi-en.mangadotnet-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1116a5c-0/tachiyomi-en.mangadotnet-v1.6.17.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a5252a2/tachiyomi-en.mangadotnet-v1.6.18.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "17",
-        "versionName": "1.6.17",
+        "versionCode": "18",
+        "versionName": "1.6.18",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

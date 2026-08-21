@@ -691,12 +691,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.mangafire": {
     "apk": {
-      "name": "tachiyomi-all.mangafire-v1.6.29.apk",
-      "sha256": "ee07e5e9bb564a12f7e26b1d9ca95df67b3b4ff42ffc61eabc78d05212835b5e"
+      "name": "tachiyomi-all.mangafire-v1.6.30.apk",
+      "sha256": "4ae0f88681d4d121152ce637e6a7e6d5b7a1dd6d7dc77835817c8dd42c4c2bb5"
     },
     "jar": {
-      "name": "tachiyomi-all.mangafire-v1.6.29.jar",
-      "sha256": "30defa2494d82d538752d9bef865a4679c96545d0bd6f328cd093123b1f31521"
+      "name": "tachiyomi-all.mangafire-v1.6.30.jar",
+      "sha256": "083301b591e129392ed69df8cbaf6715dbd1d75007818de841ee32685bdb72ef"
     }
   },
   "eu.kanade.tachiyomi.extension.all.mangaforfree": {
@@ -1761,12 +1761,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comix": {
     "apk": {
-      "name": "tachiyomi-en.comix-v1.4.34.apk",
-      "sha256": "bbc0c7ab82bffaab6ab1374444df8a184eae966e61cf08fb85763e60ed8edaac"
+      "name": "tachiyomi-en.comix-v1.6.35.apk",
+      "sha256": "65f2cc67ded434caf222cdc8b55b9df293e0446f0cc990189903df140a6e9022"
     },
     "jar": {
-      "name": "tachiyomi-en.comix-v1.4.34.jar",
-      "sha256": "17075618c1c36ff493f4987cbf9ad88215bd5c0f46730053e4e135fa363c39ab"
+      "name": "tachiyomi-en.comix-v1.6.35.jar",
+      "sha256": "fa713a12ed93aa74d290ccd5f327a46ffd4432236c9f2c30ea5e7289f49c03a7"
     }
   },
   "eu.kanade.tachiyomi.extension.en.coolmic": {
@@ -4957,6 +4957,16 @@
     "jar": {
       "name": "tachiyomi-en.theduckwebcomics-v1.4.3.jar",
       "sha256": "a56ea047f60e0ac82c2d5b25d8db7a060b53871bf894b1b314641b17af01693f"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.thegirlfromrandomchattingmangaonline": {
+    "apk": {
+      "name": "tachiyomi-en.thegirlfromrandomchattingmangaonline-v1.6.1.apk",
+      "sha256": "e20b245657203c6f6256995dfa3736f5302a428a53d0ff5564ea51bb5823ed2f"
+    },
+    "jar": {
+      "name": "tachiyomi-en.thegirlfromrandomchattingmangaonline-v1.6.1.jar",
+      "sha256": "bbe9cf7a61b5eba73b034d2b034d2255df771001e1812293f3aa22c4ed7f3ba6"
     }
   },
   "eu.kanade.tachiyomi.extension.en.thepropertyofhate": {

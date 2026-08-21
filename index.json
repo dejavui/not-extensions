@@ -4476,13 +4476,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-all.mangafire-v1.6.29.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f674eba/tachiyomi-all.mangafire-v1.6.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-all.mangafire-v1.6.29.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f674eba/tachiyomi-all.mangafire-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "29",
-        "versionName": "1.6.29",
+        "versionCode": "30",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9045,13 +9045,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-en.comix-v1.4.34.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f674eba/tachiyomi-en.comix-v1.6.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-en.comix-v1.4.34.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f674eba/tachiyomi-en.comix-v1.6.35.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "35",
+        "versionName": "1.6.35",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15794,6 +15794,27 @@
             "name": "The Duck Webcomics",
             "language": "en",
             "homeUrl": "https://www.theduckwebcomics.com"
+          }
+        ]
+      },
+      {
+        "name": "The Girl from Random Chatting Manga Online",
+        "packageName": "eu.kanade.tachiyomi.extension.en.thegirlfromrandomchattingmangaonline",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f674eba/tachiyomi-en.thegirlfromrandomchattingmangaonline-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/thegirlfromrandomchattingmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f674eba/tachiyomi-en.thegirlfromrandomchattingmangaonline-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7628399752617522749",
+            "name": "The Girl from Random Chatting Manga Online",
+            "language": "en",
+            "homeUrl": "https://thegirlfromrandomchatting.com"
           }
         ]
       },

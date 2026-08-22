@@ -3729,6 +3729,33 @@
         ]
       },
       {
+        "name": "Manga18fx",
+        "packageName": "eu.kanade.tachiyomi.extension.all.manga18fx",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-all.manga18fx-v1.6.58.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/manga18fx/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-all.manga18fx-v1.6.58.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "58",
+        "versionName": "1.6.58",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5575864808495704378",
+            "name": "Manga18fx",
+            "language": "all",
+            "homeUrl": "https://manga18fx.com"
+          },
+          {
+            "id": "3157287889751723714",
+            "name": "Manga18fx",
+            "language": "en",
+            "homeUrl": "https://manga18fx.com"
+          }
+        ]
+      },
+      {
         "name": "Manga18Me",
         "packageName": "eu.kanade.tachiyomi.extension.all.manga18me",
         "resources": {
@@ -11572,27 +11599,6 @@
         ]
       },
       {
-        "name": "Manga18fx",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manga18fx",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-en.manga18fx-v1.4.57.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/manga18fx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-en.manga18fx-v1.4.57.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "57",
-        "versionName": "1.4.57",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "3157287889751723714",
-            "name": "Manga18fx",
-            "language": "en",
-            "homeUrl": "https://manga18fx.com"
-          }
-        ]
-      },
-      {
         "name": "Manga 18x",
         "packageName": "eu.kanade.tachiyomi.extension.en.manga18x",
         "resources": {
@@ -13180,13 +13186,13 @@
         "name": "ManhwaHub",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwahub",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-en.manhwahub-v1.4.5.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-en.manhwahub-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/manhwahub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-en.manhwahub-v1.4.5.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-en.manhwahub-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "5",
-        "versionName": "1.4.5",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -13415,13 +13421,13 @@
         "name": "ManhwaZ",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwaz",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-en.manhwaz-v1.4.42.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-en.manhwaz-v1.6.42.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/manhwaz/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-en.manhwaz-v1.4.42.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-en.manhwaz-v1.6.42.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "42",
-        "versionName": "1.4.42",
+        "versionName": "1.6.42",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17449,13 +17455,13 @@
         "name": "MeHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.mehentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.mehentai-v1.4.12.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-vi.mehentai-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/mehentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.mehentai-v1.4.12.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-vi.mehentai-v1.6.12.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -17864,13 +17870,13 @@
         "name": "SayHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.sayhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.sayhentai-v1.4.24.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-vi.sayhentai-v1.6.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/sayhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.sayhentai-v1.4.24.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-vi.sayhentai-v1.6.24.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "24",
-        "versionName": "1.4.24",
+        "versionName": "1.6.24",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18368,13 +18374,13 @@
         "name": "UmeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.umetruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.umetruyen-v1.4.9.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-vi.umetruyen-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/umetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.umetruyen-v1.4.9.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1755770/tachiyomi-vi.umetruyen-v1.6.9.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

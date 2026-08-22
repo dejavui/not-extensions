@@ -695,13 +695,13 @@
         "name": "Comikey",
         "packageName": "eu.kanade.tachiyomi.extension.all.comikey",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-all.comikey-v1.4.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0e08452/tachiyomi-all.comikey-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-all.comikey-v1.4.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0e08452/tachiyomi-all.comikey-v1.6.9.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "extensionLib": "1.6",
+        "versionCode": "9",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12328,6 +12328,27 @@
             "name": "MangaManiacs",
             "language": "en",
             "homeUrl": "https://mangamaniacs.org"
+          }
+        ]
+      },
+      {
+        "name": "MangaMelon",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangamelon",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0e08452/tachiyomi-en.mangamelon-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangamelon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0e08452/tachiyomi-en.mangamelon-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7505916148185744347",
+            "name": "MangaMelon",
+            "language": "en",
+            "homeUrl": "https://mangamelon.com"
           }
         ]
       },

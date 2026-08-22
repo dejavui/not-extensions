@@ -5519,6 +5519,16 @@
       "sha256": "ec3ebba0686d1554bae4ea37799704b177015eca6225a1aeeb38b305cb9b8a2e"
     }
   },
+  "eu.kanade.tachiyomi.extension.vi.fantasticdreamers": {
+    "apk": {
+      "name": "tachiyomi-vi.fantasticdreamers-v1.6.1.apk",
+      "sha256": "42a8a0f6cc5188facd283d47b42733369c965ea5187bc1d3d2effc11b457a0ee"
+    },
+    "jar": {
+      "name": "tachiyomi-vi.fantasticdreamers-v1.6.1.jar",
+      "sha256": "4ec0cb7c5463f90eb776f72d3b843fc31591b58a0985636cfb57869240053dd3"
+    }
+  },
   "eu.kanade.tachiyomi.extension.vi.fastscan": {
     "apk": {
       "name": "tachiyomi-vi.fastscan-v1.6.4.apk",

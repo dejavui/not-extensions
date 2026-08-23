@@ -31,12 +31,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.asmhentai": {
     "apk": {
-      "name": "tachiyomi-all.asmhentai-v1.6.11.apk",
-      "sha256": "1a24b9b8b46d68f31a4b328c0b7a7abf5a510f1e7156de065786d1d4fb49a6d8"
+      "name": "tachiyomi-all.asmhentai-v1.6.12.apk",
+      "sha256": "496121df85a002e51295c015e691f0e346a188d7f745ef5578377a603ebcf048"
     },
     "jar": {
-      "name": "tachiyomi-all.asmhentai-v1.6.11.jar",
-      "sha256": "b75a5f709a0c53a7c57ee73e8276a62a84e63db994518945a97d444117e64e5c"
+      "name": "tachiyomi-all.asmhentai-v1.6.12.jar",
+      "sha256": "247b238ca781e8928ccb8e914218432dfa69fe07a7900bcf80c5cec64864eebf"
     }
   },
   "eu.kanade.tachiyomi.extension.all.baobua": {
@@ -361,32 +361,32 @@
   },
   "eu.kanade.tachiyomi.extension.all.hentaienvy": {
     "apk": {
-      "name": "tachiyomi-all.hentaienvy-v1.6.9.apk",
-      "sha256": "40b9dad442af5cb16ecdf78da9baf9e37fefd4abfe1925344b25a8a3bf2cac67"
+      "name": "tachiyomi-all.hentaienvy-v1.6.10.apk",
+      "sha256": "b82d1706765e4bfbf0a05663121369ee34d28a0c926c8c67f4a9a83b8f466db4"
     },
     "jar": {
-      "name": "tachiyomi-all.hentaienvy-v1.6.9.jar",
-      "sha256": "6251b2496c611fea943e764d4c6315decf0d48ab88388ec717d31f025d08388a"
+      "name": "tachiyomi-all.hentaienvy-v1.6.10.jar",
+      "sha256": "155c8b81aff9cd106838ce4ce71ec98d3f62a577400438c88ba9ed40f40f34e1"
     }
   },
   "eu.kanade.tachiyomi.extension.all.hentaiera": {
     "apk": {
-      "name": "tachiyomi-all.hentaiera-v1.6.11.apk",
-      "sha256": "6329a8f65b1139ad30c03c64291a40b5c7c7522edae6ccc98aa9d0bddd23f42d"
+      "name": "tachiyomi-all.hentaiera-v1.6.12.apk",
+      "sha256": "2ac79334a0736badf4215f11e85d88457ab3392b4e8787c0431d44be52a79b18"
     },
     "jar": {
-      "name": "tachiyomi-all.hentaiera-v1.6.11.jar",
-      "sha256": "34b81531a1e38315e4be59eea209335df8dc47efb652b857fb6670847bc983f6"
+      "name": "tachiyomi-all.hentaiera-v1.6.12.jar",
+      "sha256": "3074fbb1aecfe37cb2cd08222003253f6f37c13ac505a6c777b071e36b606e7e"
     }
   },
   "eu.kanade.tachiyomi.extension.all.hentaifox": {
     "apk": {
-      "name": "tachiyomi-all.hentaifox-v1.6.17.apk",
-      "sha256": "43d3648760120a7493638ca490400945e7dbde2eada6b33f29d4dee061a73fab"
+      "name": "tachiyomi-all.hentaifox-v1.6.18.apk",
+      "sha256": "f7f07fa98d4ae3ec734e6f52230ae782aaa4d7b057638153afc93fdec3f19fd0"
     },
     "jar": {
-      "name": "tachiyomi-all.hentaifox-v1.6.17.jar",
-      "sha256": "e27c78ec3137a9171f5508d14850a53ef0ecbf5df998e370393bdff62055bb8e"
+      "name": "tachiyomi-all.hentaifox-v1.6.18.jar",
+      "sha256": "dc64e88a6d9e52181fbc0813af0a667ed9f25cffd2d77db5992f90d4206ac71b"
     }
   },
   "eu.kanade.tachiyomi.extension.all.hentaihand": {
@@ -411,22 +411,22 @@
   },
   "eu.kanade.tachiyomi.extension.all.hentairox": {
     "apk": {
-      "name": "tachiyomi-all.hentairox-v1.6.9.apk",
-      "sha256": "e609be4e59d4a0dacd27ac9c3fcf171c03b89670ecf2a492e8b5982656f94dc4"
+      "name": "tachiyomi-all.hentairox-v1.6.10.apk",
+      "sha256": "10fbca691b3f876d8b65673c2cc6bd149669c92f7e69ad60be528d3263ead48d"
     },
     "jar": {
-      "name": "tachiyomi-all.hentairox-v1.6.9.jar",
-      "sha256": "e01839714b11c3231e502cfb70c26a7976824f18500014cd0a95e6814944801c"
+      "name": "tachiyomi-all.hentairox-v1.6.10.jar",
+      "sha256": "c595ea94c4ed1d985d244bfb104ed4ea47f4a8719240a5c84dc93e7e5f92e084"
     }
   },
   "eu.kanade.tachiyomi.extension.all.hentaizap": {
     "apk": {
-      "name": "tachiyomi-all.hentaizap-v1.6.10.apk",
-      "sha256": "bf5919819f24b07291d4ec79b6876dbc35c096cbb9b723f0ac666d1c8122a786"
+      "name": "tachiyomi-all.hentaizap-v1.6.11.apk",
+      "sha256": "a119dfcff336b1f60fcd5aee27870d96b31eada0b6ba6ff8a69436ef54bb919a"
     },
     "jar": {
-      "name": "tachiyomi-all.hentaizap-v1.6.10.jar",
-      "sha256": "d504936538941022099853f231d68b4adf8a1f1205512ef941b0ede4fa4bc9db"
+      "name": "tachiyomi-all.hentaizap-v1.6.11.jar",
+      "sha256": "6cc63ca5e018eff8e3455a6736b0da83a245a9f0360b11ec7347f4f1b48d35f4"
     }
   },
   "eu.kanade.tachiyomi.extension.all.hitomi": {
@@ -471,12 +471,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.imhentai": {
     "apk": {
-      "name": "tachiyomi-all.imhentai-v1.6.24.apk",
-      "sha256": "98dd2b5283d7d698b3912fd5fd25c774f7f2d06690ae366b5a80b0446ecddef9"
+      "name": "tachiyomi-all.imhentai-v1.6.25.apk",
+      "sha256": "ff93a9060f9fa727b4c6ab0bec59b56bb8ec2f71b54755b6d8edaea272c4bacd"
     },
     "jar": {
-      "name": "tachiyomi-all.imhentai-v1.6.24.jar",
-      "sha256": "47177e806ffb95390205d111b7084c433019e47925ee1b4f43441df7e53e57bf"
+      "name": "tachiyomi-all.imhentai-v1.6.25.jar",
+      "sha256": "3b62591365cbfb495d5bc05274bc1104b5075a262f838739fa0056c2b3e33b3c"
     }
   },
   "eu.kanade.tachiyomi.extension.all.izneo": {
@@ -931,22 +931,22 @@
   },
   "eu.kanade.tachiyomi.extension.all.nhentaito": {
     "apk": {
-      "name": "tachiyomi-all.nhentaito-v1.6.9.apk",
-      "sha256": "ba80d71fa4903c33ca7dc2991cb6fb99b73ee8df91ef06ef79f5e13fb5988bb1"
+      "name": "tachiyomi-all.nhentaito-v1.6.10.apk",
+      "sha256": "b983400689da41c0e62dccadc436356603a955e31d5c68ad94ea44ef0d675eee"
     },
     "jar": {
-      "name": "tachiyomi-all.nhentaito-v1.6.9.jar",
-      "sha256": "252d5b4d80d41dfcc977ea186005976b6c99bbedca78de963368e118687af100"
+      "name": "tachiyomi-all.nhentaito-v1.6.10.jar",
+      "sha256": "230bf808d207745dda8ccc6dcd8ac3ca1480a70027b103e707f4177cc9efa630"
     }
   },
   "eu.kanade.tachiyomi.extension.all.nhentaixxx": {
     "apk": {
-      "name": "tachiyomi-all.nhentaixxx-v1.6.10.apk",
-      "sha256": "7b793dc45a13fcf713bbe226ad176b8c1f020f67b74197fe42beadbd625f5317"
+      "name": "tachiyomi-all.nhentaixxx-v1.6.11.apk",
+      "sha256": "7d31208245443b43e59aa628c50eeaa142bc0ca726b1847637e156e6ff02c2f0"
     },
     "jar": {
-      "name": "tachiyomi-all.nhentaixxx-v1.6.10.jar",
-      "sha256": "0f2fb55e9d67e693894ee67f10361a1745a095c11e4bfe1b731d8142ccdbf871"
+      "name": "tachiyomi-all.nhentaixxx-v1.6.11.jar",
+      "sha256": "24f2ff33ca78ae1bf8d3414e1c68dbf0152bf49acdd18da8069d2f63960b72ec"
     }
   },
   "eu.kanade.tachiyomi.extension.all.niadd": {

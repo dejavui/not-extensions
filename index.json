@@ -230,13 +230,13 @@
         "name": "AsmHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.asmhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.asmhentai-v1.6.11.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.asmhentai-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/asmhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.asmhentai-v1.6.11.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.asmhentai-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "11",
-        "versionName": "1.6.11",
+        "versionCode": "12",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1991,13 +1991,13 @@
         "name": "HentaiEnvy",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaienvy",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaienvy-v1.6.9.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaienvy-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/hentaienvy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaienvy-v1.6.9.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaienvy-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "9",
-        "versionName": "1.6.9",
+        "versionCode": "10",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2054,13 +2054,13 @@
         "name": "HentaiEra",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaiera",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaiera-v1.6.11.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaiera-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/hentaiera/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaiera-v1.6.11.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaiera-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "11",
-        "versionName": "1.6.11",
+        "versionCode": "12",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2117,13 +2117,13 @@
         "name": "HentaiFox",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaifox",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaifox-v1.6.17.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaifox-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/hentaifox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaifox-v1.6.17.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaifox-v1.6.18.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "17",
-        "versionName": "1.6.17",
+        "versionCode": "18",
+        "versionName": "1.6.18",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2402,13 +2402,13 @@
         "name": "HentaiRox",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentairox",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentairox-v1.6.9.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentairox-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/hentairox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentairox-v1.6.9.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentairox-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "9",
-        "versionName": "1.6.9",
+        "versionCode": "10",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2441,13 +2441,13 @@
         "name": "HentaiZap",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaizap",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaizap-v1.6.10.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaizap-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/hentaizap/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.hentaizap-v1.6.10.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.hentaizap-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "10",
-        "versionName": "1.6.10",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2780,13 +2780,13 @@
         "name": "IMHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.imhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.imhentai-v1.6.24.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.imhentai-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/imhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.imhentai-v1.6.24.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.imhentai-v1.6.25.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "24",
-        "versionName": "1.6.24",
+        "versionCode": "25",
+        "versionName": "1.6.25",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -5676,13 +5676,13 @@
         "name": "NHentai.to",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentaito",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.nhentaito-v1.6.9.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.nhentaito-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/lib-multisrc/galleryadults/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.nhentaito-v1.6.9.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.nhentaito-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "9",
-        "versionName": "1.6.9",
+        "versionCode": "10",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -5721,13 +5721,13 @@
         "name": "NHentai.xxx",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentaixxx",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.nhentaixxx-v1.6.10.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.nhentaixxx-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/lib-multisrc/galleryadults/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f822aa1/tachiyomi-all.nhentaixxx-v1.6.10.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7fe5775/tachiyomi-all.nhentaixxx-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "10",
-        "versionName": "1.6.10",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

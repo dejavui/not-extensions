@@ -16971,9 +16971,9 @@
         "name": "Dilib",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dilib",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.dilib-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/16a2eeb/tachiyomi-vi.dilib-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/dilib/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-vi.dilib-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/16a2eeb/tachiyomi-vi.dilib-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "2",
@@ -17097,9 +17097,9 @@
         "name": "GantzVN",
         "packageName": "eu.kanade.tachiyomi.extension.vi.gantzvn",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2c7bca4/tachiyomi-vi.gantzvn-v1.6.54.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/16a2eeb/tachiyomi-vi.gantzvn-v1.6.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/gantzvn/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2c7bca4/tachiyomi-vi.gantzvn-v1.6.54.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/16a2eeb/tachiyomi-vi.gantzvn-v1.6.54.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "54",
@@ -18310,9 +18310,9 @@
         "name": "Truyen tranh dam my",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyentranhdammy",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2c7bca4/tachiyomi-vi.truyentranhdammy-v1.6.56.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/16a2eeb/tachiyomi-vi.truyentranhdammy-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyentranhdammy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2c7bca4/tachiyomi-vi.truyentranhdammy-v1.6.56.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/16a2eeb/tachiyomi-vi.truyentranhdammy-v1.6.56.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "56",

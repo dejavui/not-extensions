@@ -1099,6 +1099,16 @@
       "sha256": "760494bd232ddaa028096a2340ae8d68772f9c14d04e3a4929372430ca2bef10"
     }
   },
+  "eu.kanade.tachiyomi.extension.all.saymanhwa": {
+    "apk": {
+      "name": "tachiyomi-all.saymanhwa-v1.6.1.apk",
+      "sha256": "a340dd5424123e57e7f98defeb6b186a84e648f0de5e14006c01e42e3a178246"
+    },
+    "jar": {
+      "name": "tachiyomi-all.saymanhwa-v1.6.1.jar",
+      "sha256": "ca65b185043694707aa6575903073db175025df663e7d9bd736014510e85445e"
+    }
+  },
   "eu.kanade.tachiyomi.extension.all.seraphicdeviltry": {
     "apk": {
       "name": "tachiyomi-all.seraphicdeviltry-v1.6.55.apk",

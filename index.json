@@ -6342,6 +6342,93 @@
         ]
       },
       {
+        "name": "SayManhwa",
+        "packageName": "eu.kanade.tachiyomi.extension.all.saymanhwa",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/60e1371/tachiyomi-all.saymanhwa-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/saymanhwa/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/60e1371/tachiyomi-all.saymanhwa-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7915151531599641879",
+            "name": "SayManhwa",
+            "language": "ar",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "718198470352266702",
+            "name": "SayManhwa",
+            "language": "de",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "160957764321519511",
+            "name": "SayManhwa",
+            "language": "en",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "4746791862486594870",
+            "name": "SayManhwa",
+            "language": "es",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "8842126332542772866",
+            "name": "SayManhwa",
+            "language": "fil",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "1085765242853690038",
+            "name": "SayManhwa",
+            "language": "fr",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "2860030111448556554",
+            "name": "SayManhwa",
+            "language": "id",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "3346867097478116902",
+            "name": "SayManhwa",
+            "language": "ja",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "6718937619873538111",
+            "name": "SayManhwa",
+            "language": "pt",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "3836842608420894997",
+            "name": "SayManhwa",
+            "language": "th",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "8278038049426902994",
+            "name": "SayManhwa",
+            "language": "vi",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "6326978194357900073",
+            "name": "SayManhwa",
+            "language": "zh",
+            "homeUrl": "https://saymanhwa.com"
+          }
+        ]
+      },
+      {
         "name": "SeraphicDeviltry",
         "packageName": "eu.kanade.tachiyomi.extension.all.seraphicdeviltry",
         "resources": {

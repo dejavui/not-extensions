@@ -16992,6 +16992,27 @@
         ]
       },
       {
+        "name": "CuuTruyenCC",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyencc",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/bb97f8e/tachiyomi-vi.cuutruyencc-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/cuutruyencc/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/bb97f8e/tachiyomi-vi.cuutruyencc-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1782203858811081089",
+            "name": "CuuTruyenCC",
+            "language": "vi",
+            "homeUrl": "https://cuutruyen.cc"
+          }
+        ]
+      },
+      {
         "name": "CuuTruyen (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyenmoe",
         "resources": {

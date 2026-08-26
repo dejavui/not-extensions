@@ -5479,6 +5479,16 @@
       "sha256": "c75c963b84fd4faba365cec848d027e5f471e79038f2a046138acc3023e6e450"
     }
   },
+  "eu.kanade.tachiyomi.extension.vi.cuutruyencc": {
+    "apk": {
+      "name": "tachiyomi-vi.cuutruyencc-v1.6.1.apk",
+      "sha256": "28927095b577203c73d606d3543adb6358a438ca266b0eec24c4e3f7dee006f2"
+    },
+    "jar": {
+      "name": "tachiyomi-vi.cuutruyencc-v1.6.1.jar",
+      "sha256": "c2c8d7835911586596e07560e9fa8351c7c811364d4c0bd4608363129e8d24e6"
+    }
+  },
   "eu.kanade.tachiyomi.extension.vi.cuutruyenmoe": {
     "apk": {
       "name": "tachiyomi-vi.cuutruyenmoe-v1.6.3.apk",

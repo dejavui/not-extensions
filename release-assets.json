@@ -701,12 +701,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.mangafire": {
     "apk": {
-      "name": "tachiyomi-all.mangafire-v1.6.31.apk",
-      "sha256": "dfc14df59d72f34e46f7d456c2c3f5c42d801c71021ce69f6e3b67639d0135a1"
+      "name": "tachiyomi-all.mangafire-v1.6.32.apk",
+      "sha256": "fdb0488240185d614679643858fb70f9b00492fe258ca1ea82ab0198c148057d"
     },
     "jar": {
-      "name": "tachiyomi-all.mangafire-v1.6.31.jar",
-      "sha256": "32b3e473d23a94e7882e719cf9b2cc33471d94c230235b4e2fe6350589465609"
+      "name": "tachiyomi-all.mangafire-v1.6.32.jar",
+      "sha256": "c71d72315503e5a449f641bfa54619ad2bd246658eb108dc3d8ddfc30b8ab5de"
     }
   },
   "eu.kanade.tachiyomi.extension.all.mangaforfree": {
@@ -3901,12 +3901,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mgreadio": {
     "apk": {
-      "name": "tachiyomi-en.mgreadio-v1.4.1.apk",
-      "sha256": "d578579828b50067dda70f490b1e41dfbadf38855ba12d297f468ef030b2ffd5"
+      "name": "tachiyomi-en.mgreadio-v1.6.2.apk",
+      "sha256": "fa0dd4739fdc34b191c68bd40a72a2d44234eda642c5d5cf5c7129c3bd8db49b"
     },
     "jar": {
-      "name": "tachiyomi-en.mgreadio-v1.4.1.jar",
-      "sha256": "c0a5c79cf3e5867fbcd47feae71c1a62f545787d9dec21117bde1951d0cba0c4"
+      "name": "tachiyomi-en.mgreadio-v1.6.2.jar",
+      "sha256": "a5ac75cca5bc40bfe84d77d786ae9b3c59df410593cd1c46dec8141ee3eebd43"
     }
   },
   "eu.kanade.tachiyomi.extension.en.milftoon": {
@@ -6007,6 +6007,16 @@
     "jar": {
       "name": "tachiyomi-vi.teamlanhlung-v1.6.36.jar",
       "sha256": "5f44c8b8463705c99201c364642bfc8a47df618e148c89bce796480c02ab9e6c"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.vi.teletruyen": {
+    "apk": {
+      "name": "tachiyomi-vi.teletruyen-v1.6.1.apk",
+      "sha256": "4b676781481851ac9693efa02755e9836aa67af64ad7bfcc4a58bbe810a6794b"
+    },
+    "jar": {
+      "name": "tachiyomi-vi.teletruyen-v1.6.1.jar",
+      "sha256": "b66c6812c8a24a2da34fe0ea68274467ae4bb4ae0f14e203ddd1a83753e30e22"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.thienthaitruyen": {

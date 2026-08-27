@@ -4503,13 +4503,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2c7bca4/tachiyomi-all.mangafire-v1.6.31.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/afed56f/tachiyomi-all.mangafire-v1.6.32.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2c7bca4/tachiyomi-all.mangafire-v1.6.31.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/afed56f/tachiyomi-all.mangafire-v1.6.32.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "31",
-        "versionName": "1.6.31",
+        "versionCode": "32",
+        "versionName": "1.6.32",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -13658,13 +13658,13 @@
         "name": "Mgread.io",
         "packageName": "eu.kanade.tachiyomi.extension.en.mgreadio",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-en.mgreadio-v1.4.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/afed56f/tachiyomi-en.mgreadio-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mgreadio/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-1/tachiyomi-en.mgreadio-v1.4.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/afed56f/tachiyomi-en.mgreadio-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18117,6 +18117,27 @@
             "name": "Team L\u1ea1nh L\u00f9ng",
             "language": "vi",
             "homeUrl": "https://lanhlungteam2.top"
+          }
+        ]
+      },
+      {
+        "name": "TeleTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.teletruyen",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/afed56f/tachiyomi-vi.teletruyen-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/teletruyen/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/afed56f/tachiyomi-vi.teletruyen-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7833855011739264901",
+            "name": "TeleTruyen",
+            "language": "vi",
+            "homeUrl": "https://teletruyen.com"
           }
         ]
       },

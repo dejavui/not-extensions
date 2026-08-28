@@ -1791,12 +1791,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comix": {
     "apk": {
-      "name": "tachiyomi-en.comix-v1.6.35.apk",
-      "sha256": "65f2cc67ded434caf222cdc8b55b9df293e0446f0cc990189903df140a6e9022"
+      "name": "tachiyomi-en.comix-v1.6.36.apk",
+      "sha256": "5e784d2f61e2e66e0d718d6de54280783f25eec78028113e0af8cb71dcd1a177"
     },
     "jar": {
-      "name": "tachiyomi-en.comix-v1.6.35.jar",
-      "sha256": "fa713a12ed93aa74d290ccd5f327a46ffd4432236c9f2c30ea5e7289f49c03a7"
+      "name": "tachiyomi-en.comix-v1.6.36.jar",
+      "sha256": "99919ed585b2ccbde5e3ff21d0d7ce5fdfe8b9f19a0a31bc36e881bd6f1e5e57"
     }
   },
   "eu.kanade.tachiyomi.extension.en.coolmic": {
@@ -2811,12 +2811,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.leslievictims": {
     "apk": {
-      "name": "tachiyomi-en.leslievictims-v1.4.1.apk",
-      "sha256": "c4fc38036c7836f4c32f3c5203280b5743797b5732cd04b0a4ad700a620655a5"
+      "name": "tachiyomi-en.leslievictims-v1.4.2.apk",
+      "sha256": "d8a592c2267a841488b73f103f296d0b73197b7810b146f3cc94e7b33aa27ef1"
     },
     "jar": {
-      "name": "tachiyomi-en.leslievictims-v1.4.1.jar",
-      "sha256": "79b541fe37749e1f4ca2cdae777611ca68707a1e2b413f84a36587d10343d2e5"
+      "name": "tachiyomi-en.leslievictims-v1.4.2.jar",
+      "sha256": "5822e48dd86ff3691fd99e13a2e0d0731ef4a7ade03674c8e1d779566771f77a"
     }
   },
   "eu.kanade.tachiyomi.extension.en.lhtranslation": {
@@ -4541,12 +4541,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.readonepiecemangaonline": {
     "apk": {
-      "name": "tachiyomi-en.readonepiecemangaonline-v1.4.8.apk",
-      "sha256": "d67d63dc23281abf7fb82bf2c840c194534e328b9d8c937c6ab5ddf162ad9014"
+      "name": "tachiyomi-en.readonepiecemangaonline-v1.4.9.apk",
+      "sha256": "b592330531b2ed09f17d24bd33ebe82977fa3ceee5c47b1b95e53e02e1f7b5ef"
     },
     "jar": {
-      "name": "tachiyomi-en.readonepiecemangaonline-v1.4.8.jar",
-      "sha256": "e50f7a3c4b3e6c3b9a785e777b0f9a619bbc732d74af75150908f750beb12057"
+      "name": "tachiyomi-en.readonepiecemangaonline-v1.4.9.jar",
+      "sha256": "71d6fe2fb9205bcb073df4f07398df5e8684f4942462506faaaf108164760f46"
     }
   },
   "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo": {
@@ -4561,12 +4561,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline": {
     "apk": {
-      "name": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
-      "sha256": "a43984eb955e90a1689377efeccc32e6a84b8d854dbc21eec123e51bb0ef17db"
+      "name": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.11.apk",
+      "sha256": "9f146496614e3bb561d46f04063532abf99e2b66e85b41c2fe67bd2a347c677a"
     },
     "jar": {
-      "name": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.jar",
-      "sha256": "67af3aa656276ea1cb96e492ef0739e254ea85425a4ad87223d212b58dcae8ae"
+      "name": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.11.jar",
+      "sha256": "85ccefe20b5b309ff2789778a8871866fc4b57c23b08b08f3c28c3bcc0e619a6"
     }
   },
   "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline": {
@@ -6171,12 +6171,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.truyentuoitho": {
     "apk": {
-      "name": "tachiyomi-vi.truyentuoitho-v1.4.56.apk",
-      "sha256": "f64509abdaee1969ba96699cfcf287d46333a3ea0d92c9c74c894c4980b552e8"
+      "name": "tachiyomi-vi.truyentuoitho-v1.6.58.apk",
+      "sha256": "48ce220557fa5ebcd3bb019ada34f4259c0cdb3c618ac318daccf9b086969767"
     },
     "jar": {
-      "name": "tachiyomi-vi.truyentuoitho-v1.4.56.jar",
-      "sha256": "9ad32b4d9bb5e217f016047a86f01a2b3c3f3e232d837e3803a6ab27edc1cb75"
+      "name": "tachiyomi-vi.truyentuoitho-v1.6.58.jar",
+      "sha256": "9779980df5213163c9f239c2afc65798af4158a8fd61b47d767a46f735239881"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.truyentvn": {

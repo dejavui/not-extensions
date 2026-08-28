@@ -5621,12 +5621,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.hentaicube": {
     "apk": {
-      "name": "tachiyomi-vi.hentaicube-v1.6.92.apk",
-      "sha256": "c80c70c732902ef92ee717c840f42ab3dfa4f2399c3405436b8647b16c17d435"
+      "name": "tachiyomi-vi.hentaicube-v1.6.93.apk",
+      "sha256": "f36d51f7ddbed68cf8250b5bf711c6e349c44cd2b695e7f6422a4cd1653c0262"
     },
     "jar": {
-      "name": "tachiyomi-vi.hentaicube-v1.6.92.jar",
-      "sha256": "458232146de08b90361e51775510918e8e3dcc23c93ade538d39cf4ee057b4ad"
+      "name": "tachiyomi-vi.hentaicube-v1.6.93.jar",
+      "sha256": "8366045d3494bcd5282cf2b7557fc8d88c44025655f6111ab3bc623c20e28947"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.hentaivnbond": {

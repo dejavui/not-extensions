@@ -5490,9 +5490,9 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-all.nhentai-v1.6.62.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/91dce6b/tachiyomi-all.nhentai-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d26800a-0/tachiyomi-all.nhentai-v1.6.62.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/91dce6b/tachiyomi-all.nhentai-v1.6.62.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "62",
@@ -17289,9 +17289,9 @@
         "name": "HentaiCB",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/57ece2c/tachiyomi-vi.hentaicube-v1.6.93.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/91dce6b/tachiyomi-vi.hentaicube-v1.6.93.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/57ece2c/tachiyomi-vi.hentaicube-v1.6.93.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/91dce6b/tachiyomi-vi.hentaicube-v1.6.93.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "93",

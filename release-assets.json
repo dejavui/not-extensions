@@ -5471,22 +5471,22 @@
   },
   "eu.kanade.tachiyomi.extension.vi.cuutruyen": {
     "apk": {
-      "name": "tachiyomi-vi.cuutruyen-v1.6.3.apk",
-      "sha256": "d5138ccc87755c45e257bc9f18c6ae28b31af019d0c57f64f6a253548db6082a"
+      "name": "tachiyomi-vi.cuutruyen-v1.6.4.apk",
+      "sha256": "3bd4bc50a2b7a71b9621412bf2a3b7f23bf17c8cfca02ec1a95332f9c5f74192"
     },
     "jar": {
-      "name": "tachiyomi-vi.cuutruyen-v1.6.3.jar",
-      "sha256": "5db3b2e43fb06b61995915642aae1bb0d3af73814ecbf2ae0f8ec709360c92bb"
+      "name": "tachiyomi-vi.cuutruyen-v1.6.4.jar",
+      "sha256": "cbd4326b5317aba95eda972357b83e2cde2e59eb33262e5c383ced808cd42699"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.cuutruyencc": {
     "apk": {
-      "name": "tachiyomi-vi.cuutruyencc-v1.6.1.apk",
-      "sha256": "39cd43b815dbe1cddf5c9e867750ffa5c392c54bf15c47f11dc2b461817e12e4"
+      "name": "tachiyomi-vi.cuutruyencc-v1.6.2.apk",
+      "sha256": "eb815364bedbd597250bed90212035b029a26697b65ac42ea6f0ad015c3dc43b"
     },
     "jar": {
-      "name": "tachiyomi-vi.cuutruyencc-v1.6.1.jar",
-      "sha256": "fd5d88e9832b3a60765b2c0f8bd9518e056475109a120af53b4047a7c53ca6e8"
+      "name": "tachiyomi-vi.cuutruyencc-v1.6.2.jar",
+      "sha256": "09a5baa07fb8bdbf0844e5d05fcb9b8f62b9bc6dead6e6a0868836b3c14371f1"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.cuutruyenmoe": {

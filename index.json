@@ -17210,13 +17210,13 @@
         "name": "Cuu Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.cuutruyen-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyen-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/cuutruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.cuutruyen-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyen-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
+        "versionCode": "4",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17235,13 +17235,13 @@
         "name": "CuuTruyenCC",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyencc",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.cuutruyencc-v1.6.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyencc-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/cuutruyencc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.cuutruyencc-v1.6.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyencc-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
-        "versionName": "1.6.1",
+        "versionCode": "2",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

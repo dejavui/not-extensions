@@ -6159,6 +6159,16 @@
       "sha256": "64e5d4610845eeb7b775c598219e3bffe0a1aeff3d0db1f8f415d9f3afed9c65"
     }
   },
+  "eu.kanade.tachiyomi.extension.vi.truyenqqvn": {
+    "apk": {
+      "name": "tachiyomi-vi.truyenqqvn-v1.6.1.apk",
+      "sha256": "3f938ffe6e28c5c11632a5c8b5ce78bc81eab8b224f6eb94497e21174a76ade0"
+    },
+    "jar": {
+      "name": "tachiyomi-vi.truyenqqvn-v1.6.1.jar",
+      "sha256": "a0a2be63d4af085f770e5cc8cad433b6c2f28c3020b1f0e13d5323c2be530243"
+    }
+  },
   "eu.kanade.tachiyomi.extension.vi.truyentini": {
     "apk": {
       "name": "tachiyomi-vi.truyentini-v1.6.55.apk",

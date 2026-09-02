@@ -17235,9 +17235,9 @@
         "name": "CuuTruyenCC",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyencc",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyencc-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/a90c7fe/tachiyomi-vi.cuutruyencc-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/cuutruyencc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyencc-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a90c7fe/tachiyomi-vi.cuutruyencc-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",

@@ -5482,11 +5482,11 @@
   "eu.kanade.tachiyomi.extension.vi.cuutruyencc": {
     "apk": {
       "name": "tachiyomi-vi.cuutruyencc-v1.6.2.apk",
-      "sha256": "eb815364bedbd597250bed90212035b029a26697b65ac42ea6f0ad015c3dc43b"
+      "sha256": "22c8847fbed20b1335d4d0f71c6bb765d88501e9bcf76440820d2814a8c18da2"
     },
     "jar": {
       "name": "tachiyomi-vi.cuutruyencc-v1.6.2.jar",
-      "sha256": "09a5baa07fb8bdbf0844e5d05fcb9b8f62b9bc6dead6e6a0868836b3c14371f1"
+      "sha256": "5340d576b9d74e10c87f541d7c857c6d89ad69e6ccd8c93c65c4ec107cc8c049"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.cuutruyenmoe": {

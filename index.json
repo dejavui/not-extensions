@@ -17318,13 +17318,13 @@
         "name": "Cuu Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyen-v1.6.4.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/724b501/tachiyomi-vi.cuutruyen-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/cuutruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8d6e4d1/tachiyomi-vi.cuutruyen-v1.6.4.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/724b501/tachiyomi-vi.cuutruyen-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

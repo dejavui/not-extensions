@@ -18514,20 +18514,20 @@
         "name": "ThienThaiTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.thienthaitruyen-v1.6.7.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/18e2e36/tachiyomi-vi.thienthaitruyen-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/thienthaitruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.thienthaitruyen-v1.6.7.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/18e2e36/tachiyomi-vi.thienthaitruyen-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4424472966200672277",
             "name": "ThienThaiTruyen",
             "language": "vi",
-            "homeUrl": "https://thienthaitruyen13.com"
+            "homeUrl": "https://thienthaitruyen14.com"
           }
         ]
       },
@@ -19085,20 +19085,20 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.zettruyen-v1.6.12.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/18e2e36/tachiyomi-vi.zettruyen-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.zettruyen-v1.6.12.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/18e2e36/tachiyomi-vi.zettruyen-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "893747327087652119",
             "name": "ZetTruyen",
             "language": "vi",
-            "homeUrl": "https://www.zettruyen.work"
+            "homeUrl": "https://www.zettruyen1.com"
           }
         ]
       }

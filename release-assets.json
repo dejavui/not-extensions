@@ -6031,12 +6031,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.thienthaitruyen": {
     "apk": {
-      "name": "tachiyomi-vi.thienthaitruyen-v1.6.7.apk",
-      "sha256": "99f4e3918774c52077fca4541da580c761f4cd0cf12a78949a45f46b121bc131"
+      "name": "tachiyomi-vi.thienthaitruyen-v1.6.8.apk",
+      "sha256": "4c0a72c7f70dc5fbaeddba80d4a0b2e9fe423200891b95eab0fd896962debd2f"
     },
     "jar": {
-      "name": "tachiyomi-vi.thienthaitruyen-v1.6.7.jar",
-      "sha256": "f0d3d4000c4a6a179157033869bb3afd1140d23068c0b10ecf618bbac7515cbb"
+      "name": "tachiyomi-vi.thienthaitruyen-v1.6.8.jar",
+      "sha256": "ac06d0b1d9b4258ffc28d26957d6643e763f8748626da2b2e4993cd5495f1123"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.thohamngu": {
@@ -6301,12 +6301,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.zettruyen": {
     "apk": {
-      "name": "tachiyomi-vi.zettruyen-v1.6.12.apk",
-      "sha256": "35ec0c2d4820f6a6428458a23fc73220d1312189604210f0820182459e911c3a"
+      "name": "tachiyomi-vi.zettruyen-v1.6.13.apk",
+      "sha256": "d7bfb573ae22976b1f143f55ffb9750569b08942860751ccb3474b2385be2431"
     },
     "jar": {
-      "name": "tachiyomi-vi.zettruyen-v1.6.12.jar",
-      "sha256": "3b2f2a8a0414148a6e3259f1cae20b7d6678ad33eda72b6ad67c99586e30d8f0"
+      "name": "tachiyomi-vi.zettruyen-v1.6.13.jar",
+      "sha256": "3dfa24e820468c12191718e1c2d569f24e16c75d113d8f3978a07ddf11105035"
     }
   }
 }

@@ -11038,6 +11038,27 @@
         ]
       },
       {
+        "name": "Hunlight Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.hunlightcomics",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/33e287b/tachiyomi-en.hunlightcomics-v1.6.54.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/hunlightcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/33e287b/tachiyomi-en.hunlightcomics-v1.6.54.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106054",
+        "versionName": "1.6.54",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3876544289472679486",
+            "name": "Hunlight Comics",
+            "language": "en",
+            "homeUrl": "https://hunlightcomics.com"
+          }
+        ]
+      },
+      {
         "name": "Hyakuro Translations",
         "packageName": "eu.kanade.tachiyomi.extension.en.hyakuro",
         "resources": {
@@ -17493,20 +17514,20 @@
         "name": "DamCoNuong",
         "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.damconuong-v1.6.10.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/33e287b/tachiyomi-vi.damconuong-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.damconuong-v1.6.10.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/33e287b/tachiyomi-vi.damconuong-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2680345917627448572",
             "name": "DamCoNuong",
             "language": "vi",
-            "homeUrl": "https://damconuong.mobi"
+            "homeUrl": "https://damconuong.uno"
           }
         ]
       },
@@ -18664,20 +18685,20 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6144c56-1/tachiyomi-vi.toptruyen-v1.6.44.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/33e287b/tachiyomi-vi.toptruyen-v1.6.45.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.toptruyen-v1.6.44.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/33e287b/tachiyomi-vi.toptruyen-v1.6.45.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106044",
-        "versionName": "1.6.44",
+        "versionCode": "106045",
+        "versionName": "1.6.45",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone11.com"
+            "homeUrl": "https://www.toptruyenzonee.com"
           }
         ]
       },

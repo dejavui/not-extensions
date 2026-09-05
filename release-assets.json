@@ -2559,6 +2559,16 @@
       "sha256": "ffb37647fa84fa68730f1bd9986cdc46fd76a818c35eb9dbc8cfd4a87ae7be38"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.hunlightcomics": {
+    "apk": {
+      "name": "tachiyomi-en.hunlightcomics-v1.6.54.apk",
+      "sha256": "475e1bfdd65e528615b36b095d09f557c925e4554cbda3e05f6a604275505be2"
+    },
+    "jar": {
+      "name": "tachiyomi-en.hunlightcomics-v1.6.54.jar",
+      "sha256": "def6e883f08fd8bcfaa8922c5cfe792e67b3e166c9186089903a117e93cc47c2"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.hyakuro": {
     "apk": {
       "name": "tachiyomi-en.hyakuro-v1.4.1.apk",
@@ -5501,12 +5511,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.damconuong": {
     "apk": {
-      "name": "tachiyomi-vi.damconuong-v1.6.10.apk",
-      "sha256": "07571baa5010f3bad9cfafe724f894170f5859facffcdfa47377c6df2dab6d9e"
+      "name": "tachiyomi-vi.damconuong-v1.6.11.apk",
+      "sha256": "9a0f858215601a2bd37d349c358e9e249c257b33813c2bd853af3a23bae4f6c7"
     },
     "jar": {
-      "name": "tachiyomi-vi.damconuong-v1.6.10.jar",
-      "sha256": "6deee7ef30563b9e80cf634d71ef0f76d2f70901b95a47c4052df9233a1b3f0a"
+      "name": "tachiyomi-vi.damconuong-v1.6.11.jar",
+      "sha256": "57c279902d4c09cd855bd35531527100e25b9d719d38389012640a16446d3161"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.daomeoden": {
@@ -6051,12 +6061,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.toptruyen": {
     "apk": {
-      "name": "tachiyomi-vi.toptruyen-v1.6.44.apk",
-      "sha256": "147ed3b81d168d0476a5bbce782adcda6f2341cbbd7b04b3d27cc61d1028d501"
+      "name": "tachiyomi-vi.toptruyen-v1.6.45.apk",
+      "sha256": "8c19001281a0a6a0fbe0e4f0a44a1efc1d77bf64e00c83b020918a1e79330d96"
     },
     "jar": {
-      "name": "tachiyomi-vi.toptruyen-v1.6.44.jar",
-      "sha256": "a1d43d594cbc5fef9d8b8fe4b316da6248f871ca9f523d5cea470914b9a017a2"
+      "name": "tachiyomi-vi.toptruyen-v1.6.45.jar",
+      "sha256": "c0cf825a86b302168a9a96e048e079830bc7ce542a35b5087f6c9752a173805c"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.tranh18": {

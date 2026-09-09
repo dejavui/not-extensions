@@ -881,6 +881,27 @@
         ]
       },
       {
+        "name": "Doujiva",
+        "packageName": "eu.kanade.tachiyomi.extension.all.doujiva",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-all.doujiva-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/doujiva/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-all.doujiva-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1868981745168096185",
+            "name": "Doujiva",
+            "language": "all",
+            "homeUrl": "https://doujiva.com"
+          }
+        ]
+      },
+      {
         "name": "Dragon Ball Multiverse",
         "packageName": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
         "resources": {
@@ -8727,13 +8748,13 @@
         "name": "SilentQuill",
         "packageName": "eu.kanade.tachiyomi.extension.en.armageddon",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-0/tachiyomi-en.armageddon-v1.6.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.armageddon-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/silentquill/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-0/tachiyomi-en.armageddon-v1.6.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.armageddon-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9287,6 +9308,27 @@
             "name": "Collected Curios",
             "language": "en",
             "homeUrl": "https://www.collectedcurios.com"
+          }
+        ]
+      },
+      {
+        "name": "Colorized Mangas",
+        "packageName": "eu.kanade.tachiyomi.extension.en.colorizedmangas",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.colorizedmangas-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/colorizedmangas/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.colorizedmangas-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2348696469980851942",
+            "name": "Colorized Mangas",
+            "language": "en",
+            "homeUrl": "https://colorizedmangas.com"
           }
         ]
       },
@@ -12887,13 +12929,13 @@
         "name": "MangaKatana",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangakatana",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-en.mangakatana-v1.4.12.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.mangakatana-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangakatana/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-en.mangakatana-v1.4.12.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.mangakatana-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104012",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15059,13 +15101,13 @@
         "name": "Philia Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.philiascans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-en.philiascans-v1.4.59.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.philiascans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/philiascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-en.philiascans-v1.4.59.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-en.philiascans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104059",
-        "versionName": "1.4.59",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -18081,13 +18123,13 @@
         "name": "MeDamTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.medamtruyen-v1.6.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-vi.medamtruyen-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/medamtruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.medamtruyen-v1.6.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-vi.medamtruyen-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18601,13 +18643,13 @@
         "name": "SoaiCaComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.soaicacomic-v1.6.4.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-vi.soaicacomic-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.soaicacomic-v1.6.4.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-vi.soaicacomic-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18622,13 +18664,13 @@
         "name": "Team Lanh Lung",
         "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.teamlanhlung-v1.6.38.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-vi.teamlanhlung-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8b58ec5/tachiyomi-vi.teamlanhlung-v1.6.38.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6561d4c/tachiyomi-vi.teamlanhlung-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

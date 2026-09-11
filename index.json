@@ -4095,13 +4095,13 @@
         "name": "MangaDex",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-0/tachiyomi-all.mangadex-v1.4.212.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-all.mangadex-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangadex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.mangadex-v1.4.212.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-all.mangadex-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104212",
-        "versionName": "1.4.212",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9042,13 +9042,13 @@
         "name": "BatCave",
         "packageName": "eu.kanade.tachiyomi.extension.en.batcave",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-0/tachiyomi-en.batcave-v1.6.11.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.batcave-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/batcave/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-en.batcave-v1.6.11.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.batcave-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9105,13 +9105,13 @@
         "name": "BookWalker",
         "packageName": "eu.kanade.tachiyomi.extension.en.bookwalker",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5c05984/tachiyomi-en.bookwalker-v1.4.7.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.bookwalker-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/bookwalker/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5c05984/tachiyomi-en.bookwalker-v1.4.7.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.bookwalker-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11209,13 +11209,13 @@
         "name": "J-Novel",
         "packageName": "eu.kanade.tachiyomi.extension.en.jnovel",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5c05984/tachiyomi-en.jnovel-v1.4.4.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.jnovel-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/jnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5c05984/tachiyomi-en.jnovel-v1.4.4.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.jnovel-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -15613,13 +15613,13 @@
         "name": "RitharScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.ritharscans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-en.ritharscans-v1.6.24.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.ritharscans-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/ritharscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-en.ritharscans-v1.6.24.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/e2f7b70/tachiyomi-en.ritharscans-v1.6.25.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106024",
-        "versionName": "1.6.24",
+        "versionCode": "106025",
+        "versionName": "1.6.25",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

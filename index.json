@@ -17896,13 +17896,13 @@
         "name": "MatoDex",
         "packageName": "eu.kanade.tachiyomi.extension.vi.matodex",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.matodex-v1.6.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/a8f63f1/tachiyomi-vi.matodex-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/matodex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.matodex-v1.6.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a8f63f1/tachiyomi-vi.matodex-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

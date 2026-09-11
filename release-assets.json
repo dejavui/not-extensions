@@ -5691,12 +5691,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.matodex": {
     "apk": {
-      "name": "tachiyomi-vi.matodex-v1.6.1.apk",
-      "sha256": "89ab4ded08e4f2ec337e6e9e8e386ac01e0f0cecadbae34a2544ac31d6a93a78"
+      "name": "tachiyomi-vi.matodex-v1.6.2.apk",
+      "sha256": "e85294747a49fbe086bc9cb5f02777086ab0ffa8b3bcd865b3cd4b392c52c00d"
     },
     "jar": {
-      "name": "tachiyomi-vi.matodex-v1.6.1.jar",
-      "sha256": "3608fd6891aafe38807a9cb237dae226e75fc2687bab656873dea8fd1acf8cfa"
+      "name": "tachiyomi-vi.matodex-v1.6.2.jar",
+      "sha256": "5eac84adf6e176c6f4013efce68953db653767f21528d597c1d9de616c0cb7c7"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.medamtruyen": {

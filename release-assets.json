@@ -6001,12 +6001,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.tranh18": {
     "apk": {
-      "name": "tachiyomi-vi.tranh18-v1.6.6.apk",
-      "sha256": "7a1f0db9d5845373b9f27a008cb792aa2b00195b97b2321c884d221c7c0300be"
+      "name": "tachiyomi-vi.tranh18-v1.6.7.apk",
+      "sha256": "02fa784903c84a50e0410e1302c7b315cff7ff3c6b651c8bf2dbfc2d0f8a09a0"
     },
     "jar": {
-      "name": "tachiyomi-vi.tranh18-v1.6.6.jar",
-      "sha256": "10e369a9f325b4cac4f0183941179921253ff9fad45ef062396679920d8a73ad"
+      "name": "tachiyomi-vi.tranh18-v1.6.7.jar",
+      "sha256": "7186db3027358e62ff83b6f9f380b0988ec1cab6b7e56dde622efa44a7048e8a"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.truyen18": {

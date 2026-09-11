@@ -6002,11 +6002,11 @@
   "eu.kanade.tachiyomi.extension.vi.tranh18": {
     "apk": {
       "name": "tachiyomi-vi.tranh18-v1.6.7.apk",
-      "sha256": "02fa784903c84a50e0410e1302c7b315cff7ff3c6b651c8bf2dbfc2d0f8a09a0"
+      "sha256": "0d03b65a37cfc69f68fa43a9242e07f559993281d5062be661534e8fb8d89ac3"
     },
     "jar": {
       "name": "tachiyomi-vi.tranh18-v1.6.7.jar",
-      "sha256": "7186db3027358e62ff83b6f9f380b0988ec1cab6b7e56dde622efa44a7048e8a"
+      "sha256": "6e56496f6fc8356f110b5e993de8406531a5679806b27ddbdfdc83c1c20b75bd"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.truyen18": {

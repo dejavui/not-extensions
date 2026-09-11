@@ -5969,6 +5969,16 @@
       "sha256": "d05b650a97760547c420be28da0c65661689e0b7fe5950b6b7e28efae9365cb5"
     }
   },
+  "eu.kanade.tachiyomi.extension.vi.thegioitruyen": {
+    "apk": {
+      "name": "tachiyomi-vi.thegioitruyen-v1.6.1.apk",
+      "sha256": "4f14391ac1e3d920d3c8375ee523e28ec4dfa3e4af9c0ae408f4443e2d152265"
+    },
+    "jar": {
+      "name": "tachiyomi-vi.thegioitruyen-v1.6.1.jar",
+      "sha256": "e631841072c69ff48198e73d093450a1ab1b024d9ee8c88d6070eec126f3dabd"
+    }
+  },
   "eu.kanade.tachiyomi.extension.vi.thienthaitruyen": {
     "apk": {
       "name": "tachiyomi-vi.thienthaitruyen-v1.6.8.apk",

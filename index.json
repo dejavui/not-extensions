@@ -18497,6 +18497,27 @@
         ]
       },
       {
+        "name": "TheGioiTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.thegioitruyen",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/48773d2/tachiyomi-vi.thegioitruyen-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/thegioitruyen/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/48773d2/tachiyomi-vi.thegioitruyen-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8289200729363633299",
+            "name": "TheGioiTruyen",
+            "language": "vi",
+            "homeUrl": "https://thegioitruyen.vn"
+          }
+        ]
+      },
+      {
         "name": "ThienThaiTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
         "resources": {

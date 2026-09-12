@@ -6221,12 +6221,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.vinahentai": {
     "apk": {
-      "name": "tachiyomi-vi.vinahentai-v1.6.15.apk",
-      "sha256": "9d9623dbe7a34fc2409a2cdae6ff157c12b9cad8c9e5b8883f0b82df58237eb6"
+      "name": "tachiyomi-vi.vinahentai-v1.6.16.apk",
+      "sha256": "896e8413cc040edaeb2ea69da8f74cdca0b6d5234d4330b24f51ae604d3750e7"
     },
     "jar": {
-      "name": "tachiyomi-vi.vinahentai-v1.6.15.jar",
-      "sha256": "e7701c9a11077fcbeb348d26bb876b7cd8ee2a3d50333868a2220e7486d6e608"
+      "name": "tachiyomi-vi.vinahentai-v1.6.16.jar",
+      "sha256": "ceb80cf6ef58d4aa609651004863300f8741e959a9750ca4e1d67069117497ae"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.vitruyen": {

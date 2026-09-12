@@ -19675,20 +19675,20 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.vinahentai-v1.6.15.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b961ed1/tachiyomi-vi.vinahentai-v1.6.16.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.vinahentai-v1.6.15.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b961ed1/tachiyomi-vi.vinahentai-v1.6.16.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106015",
-        "versionName": "1.6.15",
+        "versionCode": "106016",
+        "versionName": "1.6.16",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4572372176917567711",
             "name": "VinaHentai",
             "language": "vi",
-            "homeUrl": "https://vinahentai.lat"
+            "homeUrl": "https://vinahentai.click"
           }
         ]
       },

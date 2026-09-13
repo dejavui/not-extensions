@@ -5682,11 +5682,11 @@
   "eu.kanade.tachiyomi.extension.vi.lxhentai": {
     "apk": {
       "name": "tachiyomi-vi.lxhentai-v1.6.40.apk",
-      "sha256": "ff759bb43a0d6b57352a2cf4f3010224b8d6ee0e1c986c1f5d52c5ec25b977e1"
+      "sha256": "71bc8768a2c923a137fbc21aaf402231c75dae9d479910e8c366973d2145f085"
     },
     "jar": {
       "name": "tachiyomi-vi.lxhentai-v1.6.40.jar",
-      "sha256": "6f7555c876c2f15b2d54bd4b2d83ba8b4580d3cc0cd5d53b88d6299741545169"
+      "sha256": "1f33905708a7ee98460536d5ac5bd3d2786250d61be6a4269c300184196f3128"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.lxmangaorg": {

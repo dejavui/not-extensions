@@ -5462,11 +5462,11 @@
   "eu.kanade.tachiyomi.extension.vi.daomeoden": {
     "apk": {
       "name": "tachiyomi-vi.daomeoden-v1.6.3.apk",
-      "sha256": "bede29b40635decb4ea197d977066ff96175b849705df09fa6563f349d27a0d1"
+      "sha256": "dd113d4875944d4f6d6b9728a32607eac36bd5330d8b9f5346cda9c3ab1b12c9"
     },
     "jar": {
       "name": "tachiyomi-vi.daomeoden-v1.6.3.jar",
-      "sha256": "21b91d0239b7e45a8f3793c1599d00cf82c810acb15d19822097376f0a1155bc"
+      "sha256": "a381e4ecec3beb256d64adceb64d07a8045a6ef8bb6a61f437c754cb16fa4402"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.dilib": {
@@ -5682,11 +5682,11 @@
   "eu.kanade.tachiyomi.extension.vi.lxhentai": {
     "apk": {
       "name": "tachiyomi-vi.lxhentai-v1.6.40.apk",
-      "sha256": "71bc8768a2c923a137fbc21aaf402231c75dae9d479910e8c366973d2145f085"
+      "sha256": "1e0dd06ae3c9e64105e9402fecffe3db0088a254cd55e422a3333fe703939d1d"
     },
     "jar": {
       "name": "tachiyomi-vi.lxhentai-v1.6.40.jar",
-      "sha256": "1f33905708a7ee98460536d5ac5bd3d2786250d61be6a4269c300184196f3128"
+      "sha256": "0a18b9def618c783bab58eaab2df1618760ec1d788a5f0e54fa63f4f87664ab7"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.lxmangaorg": {
@@ -6252,21 +6252,21 @@
   "eu.kanade.tachiyomi.extension.vi.yurineko": {
     "apk": {
       "name": "tachiyomi-vi.yurineko-v1.6.7.apk",
-      "sha256": "2fa75b13c7aaec4de3e17d8c8f3f886baf29cefc9c6c9705c4d041e865fc4c86"
+      "sha256": "53faf1d91280e686b4c4f4b953385f69912793fb244aa431b774d9232a0938aa"
     },
     "jar": {
       "name": "tachiyomi-vi.yurineko-v1.6.7.jar",
-      "sha256": "714587e56a0cfd5630fc4d7e57cba356355e008eb270778c34c64de3b884f8a2"
+      "sha256": "cdf52efc48e1a27f71c0a521bef3f64f4170d8c6520854b66f4bf0f7d818def1"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.zettruyen": {
     "apk": {
       "name": "tachiyomi-vi.zettruyen-v1.6.13.apk",
-      "sha256": "6ba4556f613471d512460f48f90b2a3bc545ac083f7e98b632f1629cd6b55be2"
+      "sha256": "8daac04168193084adf9412ae9ef712b960d39a32af46e99088c4ea9482c0541"
     },
     "jar": {
       "name": "tachiyomi-vi.zettruyen-v1.6.13.jar",
-      "sha256": "3dfa24e820468c12191718e1c2d569f24e16c75d113d8f3978a07ddf11105035"
+      "sha256": "9f949a088c410e93cc4ea1d9068d2abc53bac5cfb5d72ea7077eefbe64c8d687"
     }
   }
 }

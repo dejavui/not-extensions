@@ -18059,9 +18059,9 @@
         "name": "DaoMeoDen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.daomeoden",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.daomeoden-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.daomeoden-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/daomeoden/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.daomeoden-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.daomeoden-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -18521,9 +18521,9 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/a58cc6b/tachiyomi-vi.lxhentai-v1.6.40.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.lxhentai-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a58cc6b/tachiyomi-vi.lxhentai-v1.6.40.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.lxhentai-v1.6.40.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106040",
@@ -19738,9 +19738,9 @@
         "name": "YuriNeko",
         "packageName": "eu.kanade.tachiyomi.extension.vi.yurineko",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.yurineko-v1.6.7.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.yurineko-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/yurineko/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.yurineko-v1.6.7.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.yurineko-v1.6.7.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106007",
@@ -19759,9 +19759,9 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.zettruyen-v1.6.13.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.zettruyen-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.zettruyen-v1.6.13.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.zettruyen-v1.6.13.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106013",

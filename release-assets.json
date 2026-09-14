@@ -1281,12 +1281,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.xcomic": {
     "apk": {
-      "name": "tachiyomi-all.xcomic-v1.6.6.apk",
-      "sha256": "b1547b01c822554a183b126c1fdc172e1b063c82c90dc616a472d008a4eda314"
+      "name": "tachiyomi-all.xcomic-v1.6.7.apk",
+      "sha256": "86f90298ad4412795a0eb2407e074b83cb05a13fd5e68d9cdbaaefc846e82b59"
     },
     "jar": {
-      "name": "tachiyomi-all.xcomic-v1.6.6.jar",
-      "sha256": "4e9466839299bfc156bfbac39b338398ac42a50fd5e09938c90e716cdbb1122f"
+      "name": "tachiyomi-all.xcomic-v1.6.7.jar",
+      "sha256": "ebdef1ce8d0fdc223068ad25907b7f8d5af0d4804d713802b391fc681cfb670f"
     }
   },
   "eu.kanade.tachiyomi.extension.all.xgmn": {
@@ -5391,12 +5391,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.zinmanganet": {
     "apk": {
-      "name": "tachiyomi-en.zinmanganet-v1.4.52.apk",
-      "sha256": "734bdb89cd180aa14e09ee2094a545e758c35ad20934927cbf96975ab03822b3"
+      "name": "tachiyomi-en.zinmanganet-v1.6.55.apk",
+      "sha256": "95ec77452ba41ab8826ef9dd9681e543f9222deaca654803e475e617e122e5db"
     },
     "jar": {
-      "name": "tachiyomi-en.zinmanganet-v1.4.52.jar",
-      "sha256": "4f40bfaf1ceadeb97a9f1aee68c08955488b3ede0f0d354b80a9af68fb69d345"
+      "name": "tachiyomi-en.zinmanganet-v1.6.55.jar",
+      "sha256": "5dc74aee2370c1c4efda0cc4d0364852750ade6654e66fb8ea4dc05ea6d57ee7"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.ariverse": {

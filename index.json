@@ -7647,13 +7647,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-0/tachiyomi-all.xcomic-v1.6.6.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/fda8aab/tachiyomi-all.xcomic-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.xcomic-v1.6.6.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fda8aab/tachiyomi-all.xcomic-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -7768,6 +7768,18 @@
             "id": "2745995474917358674",
             "name": "XCOMIC",
             "language": "zh",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": "7613068814739763778",
+            "name": "XCOMIC",
+            "language": "zh-Hant",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -17908,20 +17920,20 @@
         "name": "Zinmanga.net",
         "packageName": "eu.kanade.tachiyomi.extension.en.zinmanganet",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-en.zinmanganet-v1.4.52.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/fda8aab/tachiyomi-en.zinmanganet-v1.6.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/zinmanganet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-en.zinmanganet-v1.4.52.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fda8aab/tachiyomi-en.zinmanganet-v1.6.55.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104052",
-        "versionName": "1.4.52",
+        "extensionLib": "1.6",
+        "versionCode": "106055",
+        "versionName": "1.6.55",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1987105317893699901",
             "name": "Zinmanga.net",
             "language": "en",
-            "homeUrl": "https://zinmanga.net"
+            "homeUrl": "https://www.zinmanga.net"
           }
         ]
       },

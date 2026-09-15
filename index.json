@@ -863,9 +863,9 @@
         "name": "DeviantArt",
         "packageName": "eu.kanade.tachiyomi.extension.all.deviantart",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-0/tachiyomi-all.deviantart-v1.6.11.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/963bd92/tachiyomi-all.deviantart-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/deviantart/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.deviantart-v1.6.11.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/963bd92/tachiyomi-all.deviantart-v1.6.11.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106011",

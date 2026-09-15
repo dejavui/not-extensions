@@ -182,11 +182,11 @@
   "eu.kanade.tachiyomi.extension.all.deviantart": {
     "apk": {
       "name": "tachiyomi-all.deviantart-v1.6.11.apk",
-      "sha256": "b46ab5f42ce7d829657d30a3f29b749278c413443c8bdd7e5c85d5bd7e80f4cc"
+      "sha256": "5d1c8e907272eff3c52aba1de9c5c4f42b1edc5d0faaf288f874562d13449c14"
     },
     "jar": {
       "name": "tachiyomi-all.deviantart-v1.6.11.jar",
-      "sha256": "49ba5a3a1574a6a3aec5fb01ad75dbc83dcd1e2c08d611b977ad88c39e3a6b1b"
+      "sha256": "87812f9fd2993d78c839d1db01e6cf09cfd106ce15416fe6a049a1a60d7e1b0e"
     }
   },
   "eu.kanade.tachiyomi.extension.all.doujiva": {

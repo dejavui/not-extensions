@@ -6051,12 +6051,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.truyenggvn": {
     "apk": {
-      "name": "tachiyomi-vi.truyenggvn-v1.6.1.apk",
-      "sha256": "ea358d7fef2e8b5e2eb711b71bc5ebbab7186c200a064f8dc4ba5f19227e7fc7"
+      "name": "tachiyomi-vi.truyenggvn-v1.6.2.apk",
+      "sha256": "ae4cc725fa191049325451bea302624198910d1869c89e6488a0d3763633784e"
     },
     "jar": {
-      "name": "tachiyomi-vi.truyenggvn-v1.6.1.jar",
-      "sha256": "cea1097ab096040a3163333d23d0e0512eef28d9f4bd79aa281e4c629b620b87"
+      "name": "tachiyomi-vi.truyenggvn-v1.6.2.jar",
+      "sha256": "cfa71dd2881be146ed96a4ad192f6cf92248e67180835a85369b9cdb2398b70a"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.truyenhentai18": {

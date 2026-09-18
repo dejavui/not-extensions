@@ -18355,27 +18355,6 @@
         ]
       },
       {
-        "name": "CManga",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.cmanga",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f937648-1/tachiyomi-vi.cmanga-v1.6.5.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/cmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.cmanga-v1.6.5.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5975790728262229465",
-            "name": "CManga",
-            "language": "vi",
-            "homeUrl": "https://cmangax18.com"
-          }
-        ]
-      },
-      {
         "name": "Cuu Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
         "resources": {
@@ -18691,27 +18670,6 @@
             "name": "HentaiCB",
             "language": "vi",
             "homeUrl": "https://2tencb.pro"
-          }
-        ]
-      },
-      {
-        "name": "HentaiVNBond",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivnbond",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1235213/tachiyomi-vi.hentaivnbond-v1.6.58.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/hentaivnbond/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1235213/tachiyomi-vi.hentaivnbond-v1.6.58.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "8851758440110273803",
-            "name": "HentaiVNBond",
-            "language": "vi",
-            "homeUrl": "https://hentaivn.tax"
           }
         ]
       },

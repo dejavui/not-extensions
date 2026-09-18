@@ -5409,16 +5409,6 @@
       "sha256": "33448df310f8319e893ca8a037b8b67c35c6dc2985647bff1b37fd6d5d936281"
     }
   },
-  "eu.kanade.tachiyomi.extension.vi.cmanga": {
-    "apk": {
-      "name": "tachiyomi-vi.cmanga-v1.6.5.apk",
-      "sha256": "2cfe9d6e4199f7b94ed1d6b52f3c082d42c4bbaa4169590607c4a13c36ab56a9"
-    },
-    "jar": {
-      "name": "tachiyomi-vi.cmanga-v1.6.5.jar",
-      "sha256": "7cc94d887244ab181f20da0b6c959fd8e16ed73aa09f3068e06d7c48bf4a6fea"
-    }
-  },
   "eu.kanade.tachiyomi.extension.vi.cuutruyen": {
     "apk": {
       "name": "tachiyomi-vi.cuutruyen-v1.6.6.apk",
@@ -5567,16 +5557,6 @@
     "jar": {
       "name": "tachiyomi-vi.hentaicube-v1.6.94.jar",
       "sha256": "67247ad7c96366a77832c6fa400670a85dad23affd734768d2da3e7a30402a81"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.vi.hentaivnbond": {
-    "apk": {
-      "name": "tachiyomi-vi.hentaivnbond-v1.6.58.apk",
-      "sha256": "e84af766065e171ba87b6a7c17c86f26b32a5aaebee4f91279fb5fbf9867a5b6"
-    },
-    "jar": {
-      "name": "tachiyomi-vi.hentaivnbond-v1.6.58.jar",
-      "sha256": "98409062f0e89d514e89ea9b38c07bf9797e200c07014d0318f749dffa613f4e"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.hentaivnisreal": {

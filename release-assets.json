@@ -81,12 +81,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.comicgrowl": {
     "apk": {
-      "name": "tachiyomi-all.comicgrowl-v1.4.13.apk",
-      "sha256": "961d8bcbecc223030181827716e48a5776c823b8f19e116798c849a76604f51d"
+      "name": "tachiyomi-all.comicgrowl-v1.6.1.apk",
+      "sha256": "3fcde12e2c91cb4a20f8cc9006170db115d877d4d8ba691fb1d0ae2cc044cc58"
     },
     "jar": {
-      "name": "tachiyomi-all.comicgrowl-v1.4.13.jar",
-      "sha256": "9848ce0152ffb193e84cedeb7753d6ecb168dc99bee8a6b7976d1034c1572fce"
+      "name": "tachiyomi-all.comicgrowl-v1.6.1.jar",
+      "sha256": "12130059a6a5ed48779ed8d99a44a9a64a4095cd7b8b42eaf5c7ca532262d301"
     }
   },
   "eu.kanade.tachiyomi.extension.all.comicklive": {
@@ -1811,12 +1811,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comix": {
     "apk": {
-      "name": "tachiyomi-en.comix-v1.6.38.apk",
-      "sha256": "b8c4e63b98993595d3ad390fe85187cdc2b3ba750a4562160e61206f46ea7245"
+      "name": "tachiyomi-en.comix-v1.6.39.apk",
+      "sha256": "bad25559611cd30b6d1041ce7ef699bed7891982a017904d098f6a011ff565aa"
     },
     "jar": {
-      "name": "tachiyomi-en.comix-v1.6.38.jar",
-      "sha256": "f3574c58946ec6c87a45a36b9d129cc049bc7e49a1247b7c15fd7764b15ad1ae"
+      "name": "tachiyomi-en.comix-v1.6.39.jar",
+      "sha256": "c8d302cacb05a46bfa7faf069a4f8f27b5d60b345dddbfe42a2f44a7b1bf20a6"
     }
   },
   "eu.kanade.tachiyomi.extension.en.coolmic": {
@@ -3131,12 +3131,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mangadistrict": {
     "apk": {
-      "name": "tachiyomi-en.mangadistrict-v1.4.69.apk",
-      "sha256": "cae817976fc0b0dfbb34f4c962073cc027d02b61989ebc0abc0f16eda1a387e1"
+      "name": "tachiyomi-en.mangadistrict-v1.6.72.apk",
+      "sha256": "9c5baa600a3bb8c302eccdda6306f4db12c6c29f0645e4ed25fa3a778b856565"
     },
     "jar": {
-      "name": "tachiyomi-en.mangadistrict-v1.4.69.jar",
-      "sha256": "2d94de322c8db97121495d1523cd75c51477b1b560bc9e9d2185954bf9fd293f"
+      "name": "tachiyomi-en.mangadistrict-v1.6.72.jar",
+      "sha256": "58c06f8dd35b203c7f068bc173ea30b4c0c4ff0a64082c217a25043a8529e2a1"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangadotnet": {

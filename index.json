@@ -452,9 +452,9 @@
         "name": "Comick (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicklive",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/50ca50f/tachiyomi-all.comicklive-v1.6.5.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2f3f8c5/tachiyomi-all.comicklive-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/comicklive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/50ca50f/tachiyomi-all.comicklive-v1.6.5.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2f3f8c5/tachiyomi-all.comicklive-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",

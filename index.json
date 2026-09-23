@@ -6184,9 +6184,9 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-all.nhentai-v1.6.62.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/84da9d6/tachiyomi-all.nhentai-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.nhentai-v1.6.62.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/84da9d6/tachiyomi-all.nhentai-v1.6.62.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106062",
@@ -19639,9 +19639,9 @@
         "name": "Tranh18",
         "packageName": "eu.kanade.tachiyomi.extension.vi.tranh18",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/63dc140/tachiyomi-vi.tranh18-v1.6.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/84da9d6/tachiyomi-vi.tranh18-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/tranh18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/63dc140/tachiyomi-vi.tranh18-v1.6.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/84da9d6/tachiyomi-vi.tranh18-v1.6.8.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106008",

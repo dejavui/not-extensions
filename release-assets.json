@@ -932,11 +932,11 @@
   "eu.kanade.tachiyomi.extension.all.nhentai": {
     "apk": {
       "name": "tachiyomi-all.nhentai-v1.6.62.apk",
-      "sha256": "39959bdb6250912526b17de66b575a3446b2654fb835987b1807cf4475a0b5d3"
+      "sha256": "65c2596a64dd52427ac47e942e1428eecee51aff01eb1460c4028b21b7d9dc8b"
     },
     "jar": {
       "name": "tachiyomi-all.nhentai-v1.6.62.jar",
-      "sha256": "0cb9248299192ed800f6f9062bc78ac3e3bb84a1d9d412a4a79a772e86deb2da"
+      "sha256": "1f9dc38cac81fa1fc192bd9a246c132949a07f73fce96c4e2c3c020bbe5888d2"
     }
   },
   "eu.kanade.tachiyomi.extension.all.nhentaicom": {
@@ -6002,11 +6002,11 @@
   "eu.kanade.tachiyomi.extension.vi.tranh18": {
     "apk": {
       "name": "tachiyomi-vi.tranh18-v1.6.8.apk",
-      "sha256": "ec9799591df8717c30404818e16ca2aa3ffe9462489212c9364f59b9daeca7e4"
+      "sha256": "674f4d64de338daa71dd5266cf25820753089325b5f9806608ee5596c6b656cf"
     },
     "jar": {
       "name": "tachiyomi-vi.tranh18-v1.6.8.jar",
-      "sha256": "283f9b188b48213ce4919eba771d40aeb7279a1867c70b8b847e5270d5d302fc"
+      "sha256": "d9f2ad989d9c2f86cee3eb0866a7a8b1085a1624cce8a57b11857371635cb862"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.truyen18": {

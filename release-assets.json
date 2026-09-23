@@ -6212,11 +6212,11 @@
   "eu.kanade.tachiyomi.extension.vi.vitruyen": {
     "apk": {
       "name": "tachiyomi-vi.vitruyen-v1.6.3.apk",
-      "sha256": "7ab823069b14b48c4fde384ca5fe3e2337b5aea499ea83b6ab05d15ba8c00ec5"
+      "sha256": "385089fe6205ae8fed4c9f94aacf964c6ec26c9bdd06c42dc715046f302eb78b"
     },
     "jar": {
       "name": "tachiyomi-vi.vitruyen-v1.6.3.jar",
-      "sha256": "dc5bb1251da029953a4b0d791b0e63d6557384f14176d31f1debf3f25bd4d09a"
+      "sha256": "32952dc688d0e341aec3f085dc115d9de782c53a73967e33024752cc4a58e324"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.yurigarden": {

@@ -20084,9 +20084,9 @@
         "name": "ViTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vitruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-vi.vitruyen-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/54f8c0c/tachiyomi-vi.vitruyen-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/vitruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.vitruyen-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/54f8c0c/tachiyomi-vi.vitruyen-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",

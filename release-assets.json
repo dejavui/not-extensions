@@ -92,11 +92,11 @@
   "eu.kanade.tachiyomi.extension.all.comicklive": {
     "apk": {
       "name": "tachiyomi-all.comicklive-v1.6.5.apk",
-      "sha256": "a2c4cce73e299e1bb8fcd26d1ad8e8a086f1ac362250a99647cd9cfe2fe4c46d"
+      "sha256": "5bebf4abc4f3b9aeceaea236e97dc989c11ef53795394273d0d73f6db0ec29ef"
     },
     "jar": {
       "name": "tachiyomi-all.comicklive-v1.6.5.jar",
-      "sha256": "dba86a6ca76e2c7ef9eeb8261744fed860825d82d21cd0d203e0b163f62945d2"
+      "sha256": "f00187c827a8978c777cc357fc2a6d4a30efe1a438c096f593a3ec676de779f3"
     }
   },
   "eu.kanade.tachiyomi.extension.all.comicskingdom": {
@@ -672,11 +672,11 @@
   "eu.kanade.tachiyomi.extension.all.mangacrazy": {
     "apk": {
       "name": "tachiyomi-all.mangacrazy-v1.6.55.apk",
-      "sha256": "613ab5dd7fe1c0724c54691e13c508ecb069363ceadc96a17b1767a23419174b"
+      "sha256": "d23b9cff42ed35fdb1285373871d9b5c1402b69caa5940724c6984baf653a7ac"
     },
     "jar": {
       "name": "tachiyomi-all.mangacrazy-v1.6.55.jar",
-      "sha256": "3ef91704459d17e9972f5efc2339dcc42fe873c51fd121fd43ca20e999a0723f"
+      "sha256": "616ac8b50a3961778c1dd30e4bef2f49b010e0ca80b41d45bdfc4ed91e95bbec"
     }
   },
   "eu.kanade.tachiyomi.extension.all.mangadex": {
@@ -1251,12 +1251,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.webtoons": {
     "apk": {
-      "name": "tachiyomi-all.webtoons-v1.4.57.apk",
-      "sha256": "c26e010fe6765af40ca1447a34935974ff5ed96727bf92f189a19bc80b536e7d"
+      "name": "tachiyomi-all.webtoons-v1.6.1.apk",
+      "sha256": "1cd6d62be6ce3ca0d3969744295df986ca4c8af46b3a282309ecc43755a4cfe1"
     },
     "jar": {
-      "name": "tachiyomi-all.webtoons-v1.4.57.jar",
-      "sha256": "ce4807df07d4173dd6ae965de6ea99fb6c162e0dc9e08b8226346b015ae613da"
+      "name": "tachiyomi-all.webtoons-v1.6.1.jar",
+      "sha256": "c15f58af1936364301d00102422245d5ab2a2a15793af145e7db5982e1efab80"
     }
   },
   "eu.kanade.tachiyomi.extension.all.xarthunter": {
@@ -1281,12 +1281,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.xcomic": {
     "apk": {
-      "name": "tachiyomi-all.xcomic-v1.6.7.apk",
-      "sha256": "4fdf503d948d9109b401158c6f25d41b834e537df5e9a5507d705a908266b693"
+      "name": "tachiyomi-all.xcomic-v1.6.8.apk",
+      "sha256": "c73cb3ffbdc8eca7cf383ca0ce3529c10499582c74a6a4f9ddab3db32be2ca32"
     },
     "jar": {
-      "name": "tachiyomi-all.xcomic-v1.6.7.jar",
-      "sha256": "ebdef1ce8d0fdc223068ad25907b7f8d5af0d4804d713802b391fc681cfb670f"
+      "name": "tachiyomi-all.xcomic-v1.6.8.jar",
+      "sha256": "217d232d146bb93d916ba01745fe0d753d9af0a9b9f5a00fc9ff61e3444575b7"
     }
   },
   "eu.kanade.tachiyomi.extension.all.xgmn": {
@@ -2071,12 +2071,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.emaqi": {
     "apk": {
-      "name": "tachiyomi-en.emaqi-v1.4.1.apk",
-      "sha256": "d1158ae6cdd2734fc42b7fff120ca50649f01948ac91bf53ed9b7477d92d21f0"
+      "name": "tachiyomi-en.emaqi-v1.6.1.apk",
+      "sha256": "3955844e7792b910d846c9dc8e4d6f23ec5d7087a35bfc16661d1be6dc5ef6a8"
     },
     "jar": {
-      "name": "tachiyomi-en.emaqi-v1.4.1.jar",
-      "sha256": "9af1f524612613a1c5975be1efd8418d1c5897e19cc8413eb29de016d4e267a1"
+      "name": "tachiyomi-en.emaqi-v1.6.1.jar",
+      "sha256": "d74d4b881ce5b2a3cabf91c79d5dbb258fa7d18a64e333c32ce81be08eed9718"
     }
   },
   "eu.kanade.tachiyomi.extension.en.erisscans": {
@@ -4081,12 +4081,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.nuviatoon": {
     "apk": {
-      "name": "tachiyomi-en.nuviatoon-v1.4.1.apk",
-      "sha256": "74f9a991d0bc7d295aad09ea548aa52450faff9535632533f21c1f137ba411a7"
+      "name": "tachiyomi-en.nuviatoon-v1.6.1.apk",
+      "sha256": "68e771668756ddf0ad5990cc4e478b63ff66e8bacf00d3cd25228b4b8964c5a1"
     },
     "jar": {
-      "name": "tachiyomi-en.nuviatoon-v1.4.1.jar",
-      "sha256": "7fcf0b03d95b80246a7db17f3c8e3f565fd9d6a515362cb5e227ea6b2ed412ec"
+      "name": "tachiyomi-en.nuviatoon-v1.6.1.jar",
+      "sha256": "c10dcd837117fe36bd4e67a5405af08b7d1b5619a9544970a21279dd957aa57d"
     }
   },
   "eu.kanade.tachiyomi.extension.en.nuxscans": {

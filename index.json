@@ -452,9 +452,9 @@
         "name": "Comick (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicklive",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-all.comicklive-v1.6.5.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.comicklive-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/comicklive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2f3f8c5/tachiyomi-all.comicklive-v1.6.5.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.comicklive-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -4084,9 +4084,9 @@
         "name": "MangaCrazy",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangacrazy",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-all.mangacrazy-v1.6.55.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.mangacrazy-v1.6.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangacrazy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/50ca50f/tachiyomi-all.mangacrazy-v1.6.55.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.mangacrazy-v1.6.55.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106055",
@@ -7564,13 +7564,13 @@
         "name": "Webtoons.com",
         "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-all.webtoons-v1.4.57.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.webtoons-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/webtoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.webtoons-v1.4.57.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.webtoons-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104057",
-        "versionName": "1.4.57",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7663,13 +7663,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-all.xcomic-v1.6.7.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.xcomic-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fda8aab/tachiyomi-all.xcomic-v1.6.7.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.xcomic-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10686,13 +10686,13 @@
         "name": "emaqi",
         "packageName": "eu.kanade.tachiyomi.extension.en.emaqi",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-en.emaqi-v1.4.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-en.emaqi-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/emaqi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-en.emaqi-v1.4.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-en.emaqi-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15572,13 +15572,13 @@
         "name": "Nuvia Toon",
         "packageName": "eu.kanade.tachiyomi.extension.en.nuviatoon",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-en.nuviatoon-v1.4.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-en.nuviatoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/nuviatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-en.nuviatoon-v1.4.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-en.nuviatoon-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

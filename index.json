@@ -10539,13 +10539,13 @@
         "name": "Dynasty Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.dynasty",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-en.dynasty-v1.4.31.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b938989/tachiyomi-en.dynasty-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/dynasty/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-en.dynasty-v1.4.31.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b938989/tachiyomi-en.dynasty-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104031",
-        "versionName": "1.4.31",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14455,13 +14455,13 @@
         "name": "Mangatown",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangatown",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-1/tachiyomi-en.mangatown-v1.4.10.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b938989/tachiyomi-en.mangatown-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangatown/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-en.mangatown-v1.4.10.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b938989/tachiyomi-en.mangatown-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17590,6 +17590,27 @@
             "name": "Toonizy",
             "language": "en",
             "homeUrl": "https://toonizy.com"
+          }
+        ]
+      },
+      {
+        "name": "Toonz",
+        "packageName": "eu.kanade.tachiyomi.extension.en.toonz",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b938989/tachiyomi-en.toonz-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/toonz/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b938989/tachiyomi-en.toonz-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "225310046014902430",
+            "name": "Toonz",
+            "language": "en",
+            "homeUrl": "https://toonz.to"
           }
         ]
       },

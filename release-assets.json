@@ -2001,12 +2001,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.dynasty": {
     "apk": {
-      "name": "tachiyomi-en.dynasty-v1.4.31.apk",
-      "sha256": "1c51e5b683ad3bd1071da29892dff3ef4f05fdd4137a6c7d3980002cec2d2960"
+      "name": "tachiyomi-en.dynasty-v1.6.0.apk",
+      "sha256": "82842e417263e9167ede84e9ac83013da4ebb97ff6a9cb4c83eac79098249e1f"
     },
     "jar": {
-      "name": "tachiyomi-en.dynasty-v1.4.31.jar",
-      "sha256": "a9dbdf4d32bdc966617cc9f95599b4cf89bf334c8ddfe02f9663b7b7ee368429"
+      "name": "tachiyomi-en.dynasty-v1.6.0.jar",
+      "sha256": "8936299873adabb7834d3982ffec0785e7ff3c9b6f3b4c6839e918605769e558"
     }
   },
   "eu.kanade.tachiyomi.extension.en.eggporncomics": {
@@ -3551,12 +3551,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mangatown": {
     "apk": {
-      "name": "tachiyomi-en.mangatown-v1.4.10.apk",
-      "sha256": "c6ab26ce9d7a1eb64b9e32debca37cf1b9c1f8f38f1b8bb315f877deeae06680"
+      "name": "tachiyomi-en.mangatown-v1.6.1.apk",
+      "sha256": "233071bf1a8f3621d50da813fa74da151a9451e1e87c8c31fb6e6ac22b6e8d0a"
     },
     "jar": {
-      "name": "tachiyomi-en.mangatown-v1.4.10.jar",
-      "sha256": "6ddaef827c67391dc54a5c4f0c530e6d21b00bed4b785a3d8ae0124c3cf63288"
+      "name": "tachiyomi-en.mangatown-v1.6.1.jar",
+      "sha256": "c926cc0383630f5299d5bbd29a9ca3f1a2875aa59b5d6092c3014bbb2e0266b2"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangatrend": {
@@ -5037,6 +5037,16 @@
     "jar": {
       "name": "tachiyomi-en.toonizy-v1.4.52.jar",
       "sha256": "9423f6ec1f4f76fbdac1a801ec08e71d18370fab7f117e12e067d26f849c344f"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.toonz": {
+    "apk": {
+      "name": "tachiyomi-en.toonz-v1.6.1.apk",
+      "sha256": "c4749edbd0cda395f083b0924fe732cdbeae3625531fac5960855d290d4dc5db"
+    },
+    "jar": {
+      "name": "tachiyomi-en.toonz-v1.6.1.jar",
+      "sha256": "63d3a01490cd35dee1dc0ed693de7371e182a150863654562ef7503e6b8e7c61"
     }
   },
   "eu.kanade.tachiyomi.extension.en.topmanhua": {

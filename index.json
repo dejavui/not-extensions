@@ -19618,9 +19618,9 @@
         "name": "TruyenQQ.com.vn",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqqcomvn",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-1/tachiyomi-vi.truyenqqcomvn-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.truyenqqcomvn-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyenqqcomvn/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.truyenqqcomvn-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.truyenqqcomvn-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -19916,9 +19916,9 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-vi.zettruyen-v1.6.13.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.zettruyen-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6514bb5/tachiyomi-vi.zettruyen-v1.6.13.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.zettruyen-v1.6.13.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106013",

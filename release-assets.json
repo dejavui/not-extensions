@@ -661,12 +661,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.mangaball": {
     "apk": {
-      "name": "tachiyomi-all.mangaball-v1.6.2.apk",
-      "sha256": "da913d4c1e46e0eb0a49cf16647b427ef34715ed976f759951da8593fdf39261"
+      "name": "tachiyomi-all.mangaball-v1.6.3.apk",
+      "sha256": "4e479d36f295af5cad50e2a982dd51b4f0ea2c5bb7364a438f293b3fd1d8af9f"
     },
     "jar": {
-      "name": "tachiyomi-all.mangaball-v1.6.2.jar",
-      "sha256": "0607f3685558cd8647eab0b9f75bfacb9de1ec0a47e1c516b089ca1aa5991ffb"
+      "name": "tachiyomi-all.mangaball-v1.6.3.jar",
+      "sha256": "f80417561b4d597c8e0e089e2c98547b0e4a32b61cdb63a2fc1fbb25d95d7eef"
     }
   },
   "eu.kanade.tachiyomi.extension.all.mangacrazy": {

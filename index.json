@@ -3637,13 +3637,13 @@
         "name": "Manga Ball",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaball",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c7a2926/tachiyomi-all.mangaball-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8fc1c58/tachiyomi-all.mangaball-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangaball/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c7a2926/tachiyomi-all.mangaball-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8fc1c58/tachiyomi-all.mangaball-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

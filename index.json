@@ -5572,13 +5572,13 @@
         "name": "Manhwa18.cc",
         "packageName": "eu.kanade.tachiyomi.extension.all.manhwa18cc",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/eef88a8/tachiyomi-all.manhwa18cc-v1.6.63.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-all.manhwa18cc-v1.6.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/manhwa18cc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/eef88a8/tachiyomi-all.manhwa18cc-v1.6.63.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-all.manhwa18cc-v1.6.64.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106063",
-        "versionName": "1.6.63",
+        "versionCode": "106064",
+        "versionName": "1.6.64",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -10791,13 +10791,13 @@
         "name": "Scythe Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.erosscans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-en.erosscans-v1.6.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.erosscans-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/erosscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5c05984/tachiyomi-en.erosscans-v1.6.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.erosscans-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12901,13 +12901,13 @@
         "name": "MangaDot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-en.mangadotnet-v1.6.23.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.mangadotnet-v1.6.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/50ca50f/tachiyomi-en.mangadotnet-v1.6.23.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.mangadotnet-v1.6.24.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106023",
-        "versionName": "1.6.23",
+        "versionCode": "106024",
+        "versionName": "1.6.24",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17072,13 +17072,13 @@
         "name": "Tapas",
         "packageName": "eu.kanade.tachiyomi.extension.en.tapastic",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/23b6201/tachiyomi-en.tapastic-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.tapastic-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/tapastic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/23b6201/tachiyomi-en.tapastic-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.tapastic-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

@@ -5442,11 +5442,11 @@
   "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui": {
     "apk": {
       "name": "tachiyomi-vi.goctruyentranhvui-v1.6.18.apk",
-      "sha256": "85af0339cf13b091b497c585560d38dd75b671d6fe2813250719f48560ab6d9c"
+      "sha256": "c2fe0d49178d417488f19523056754991a677b1e87309e3baa0664608748a41b"
     },
     "jar": {
       "name": "tachiyomi-vi.goctruyentranhvui-v1.6.18.jar",
-      "sha256": "059a735a369f0896071a48864fea41b1745e10d221f12c24f52dee09c2b2baed"
+      "sha256": "1794dfcb0b514537e24359870d5c3d2efb02f5e69ed8d6da810c7ea00b4c54e0"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.hentaicube": {

@@ -18868,6 +18868,27 @@
         ]
       },
       {
+        "name": "NetTruyenFull",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyenfull",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/3486824/tachiyomi-vi.nettruyenfull-v1.6.10.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/nettruyenfull/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/3486824/tachiyomi-vi.nettruyenfull-v1.6.10.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1482795918010466136",
+            "name": "NetTruyenFull",
+            "language": "vi",
+            "homeUrl": "https://nettruyenqq2026.com"
+          }
+        ]
+      },
+      {
         "name": "NetTruyenS (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyens",
         "resources": {

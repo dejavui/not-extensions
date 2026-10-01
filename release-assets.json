@@ -5719,6 +5719,16 @@
       "sha256": "86a2cbe217b60ad462e7253a332b659549f7852ffe3d5f7d6bb54d033ff8f271"
     }
   },
+  "eu.kanade.tachiyomi.extension.vi.nettruyenfull": {
+    "apk": {
+      "name": "tachiyomi-vi.nettruyenfull-v1.6.10.apk",
+      "sha256": "1fb2074780759ec49cb5a9733c32eacc2dcb28f955489bf248f24f4d02910428"
+    },
+    "jar": {
+      "name": "tachiyomi-vi.nettruyenfull-v1.6.10.jar",
+      "sha256": "c7df3132fbd830ed1a9785efebcb50da14af6b2b211ac2ff9a98a33bfb3c7b1d"
+    }
+  },
   "eu.kanade.tachiyomi.extension.vi.nettruyens": {
     "apk": {
       "name": "tachiyomi-vi.nettruyens-v1.6.0.apk",

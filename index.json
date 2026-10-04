@@ -19774,13 +19774,13 @@
         "name": "TruyenQQ.com.vn",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqqcomvn",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.truyenqqcomvn-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6898c72/tachiyomi-vi.truyenqqcomvn-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyenqqcomvn/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.truyenqqcomvn-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6898c72/tachiyomi-vi.truyenqqcomvn-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

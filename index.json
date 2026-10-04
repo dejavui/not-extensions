@@ -3664,13 +3664,13 @@
         "name": "Manga Ball",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaball",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8fc1c58/tachiyomi-all.mangaball-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-all.mangaball-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangaball/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8fc1c58/tachiyomi-all.mangaball-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-all.mangaball-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -7354,13 +7354,13 @@
         "name": "V2PH",
         "packageName": "eu.kanade.tachiyomi.extension.all.v2ph",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-0/tachiyomi-all.v2ph-v1.4.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-all.v2ph-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/v2ph/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.v2ph-v1.4.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-all.v2ph-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -9977,13 +9977,13 @@
         "name": "ComicHubFree",
         "packageName": "eu.kanade.tachiyomi.extension.en.comichubfree",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-0/tachiyomi-en.comichubfree-v1.4.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.comichubfree-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comichubfree/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-en.comichubfree-v1.4.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.comichubfree-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11808,20 +11808,20 @@
         "name": "Jinmangas",
         "packageName": "eu.kanade.tachiyomi.extension.en.jinmangas",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-en.jinmangas-v1.6.55.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.jinmangas-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/jinmangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-en.jinmangas-v1.6.55.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.jinmangas-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5727368826344311935",
             "name": "Jinmangas",
             "language": "en",
-            "homeUrl": "https://jinmangas.com"
+            "homeUrl": "https://mangafree.info"
           }
         ]
       },
@@ -12486,24 +12486,20 @@
         "name": "Madara Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.madarascans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/93808ff/tachiyomi-en.madarascans-v1.6.4.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.madarascans-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/madarascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/93808ff/tachiyomi-en.madarascans-v1.6.4.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.madarascans-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9025563662441338944",
             "name": "Madara Scans",
             "language": "en",
-            "homeUrl": "https://madarascans.org",
-            "mirrorUrls": [
-              "https://madarascans.org",
-              "https://madarascans.com"
-            ]
+            "homeUrl": "https://madarascans.net"
           }
         ]
       },
@@ -13636,13 +13632,13 @@
         "name": "Mangafreak",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangafreak",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c7a2926/tachiyomi-en.mangafreak-v1.6.0.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.mangafreak-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangafreak/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c7a2926/tachiyomi-en.mangafreak-v1.6.0.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.mangafreak-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15308,13 +15304,13 @@
         "name": "MyAdultComics",
         "packageName": "eu.kanade.tachiyomi.extension.en.myadultcomics",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-1/tachiyomi-en.myadultcomics-v1.4.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.myadultcomics-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/myadultcomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-en.myadultcomics-v1.4.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f04e7f3/tachiyomi-en.myadultcomics-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

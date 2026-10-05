@@ -4911,22 +4911,22 @@
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
-      "name": "tachiyomi-en.templescan-v1.6.56.apk",
-      "sha256": "5c964c10b341e095988f9cd580e03d9864f8ecda358a20e9004c0ed0cf34b8b6"
+      "name": "tachiyomi-en.templescan-v1.6.57.apk",
+      "sha256": "4d7a85079d5d494e0545bd00f88b9447f5d07486c1babe788d25ad31529317dc"
     },
     "jar": {
-      "name": "tachiyomi-en.templescan-v1.6.56.jar",
-      "sha256": "91140bacb0e5f4648f1606b71c691aef3e490b1e2bb5a42ed66f2eb4f51cfc7f"
+      "name": "tachiyomi-en.templescan-v1.6.57.jar",
+      "sha256": "3d96905832aea15940bebebea901594a40a1ef7bbebeb40072069f493b8537d3"
     }
   },
   "eu.kanade.tachiyomi.extension.en.theblank": {
     "apk": {
-      "name": "tachiyomi-en.theblank-v1.4.58.apk",
-      "sha256": "d1895bbc14e8752b579921e3c769f7536a7416d1b8f6cf1ab8141b0fa8035045"
+      "name": "tachiyomi-en.theblank-v1.6.0.apk",
+      "sha256": "5ad76e28e834356307aaac02a2cbb13afa9f24c59afc3ad035dde0402fb280bf"
     },
     "jar": {
-      "name": "tachiyomi-en.theblank-v1.4.58.jar",
-      "sha256": "c564d19be62dd83351c0b3d2f7d20c3a9a51d0b963ed37db240d5b52b796f20a"
+      "name": "tachiyomi-en.theblank-v1.6.0.jar",
+      "sha256": "27549668ca9cf0498cea63868bdfa44846d18f21b15d07b7794bd1d39129a9c8"
     }
   },
   "eu.kanade.tachiyomi.extension.en.theduckwebcomics": {

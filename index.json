@@ -17182,13 +17182,13 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-en.templescan-v1.6.56.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.templescan-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-en.templescan-v1.6.56.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.templescan-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -17203,13 +17203,13 @@
         "name": "The Blank",
         "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-en.theblank-v1.4.58.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.theblank-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1235213/tachiyomi-en.theblank-v1.4.58.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.theblank-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104058",
-        "versionName": "1.4.58",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

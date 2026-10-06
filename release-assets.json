@@ -1041,12 +1041,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.pawchive": {
     "apk": {
-      "name": "tachiyomi-all.pawchive-v1.6.2.apk",
-      "sha256": "74abe9a06117a3477f28b8f4e75eb78d3ec1ecae2a9ae9582a171140b34cf9c6"
+      "name": "tachiyomi-all.pawchive-v1.6.3.apk",
+      "sha256": "23034377fa214d346736311389ff1fef3d8a8df6ff06b950f71130c6c55bf75d"
     },
     "jar": {
-      "name": "tachiyomi-all.pawchive-v1.6.2.jar",
-      "sha256": "dcc66d002d1d6b9c04d2d0cc778b91e831724d1a599a75e20073132b3518b264"
+      "name": "tachiyomi-all.pawchive-v1.6.3.jar",
+      "sha256": "241e957c802d9a3b987e415fb6aaf3782b6df26b8216f77afff8ca1c445ef678"
     }
   },
   "eu.kanade.tachiyomi.extension.all.peppercarrot": {
@@ -2421,12 +2421,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.hentaihere": {
     "apk": {
-      "name": "tachiyomi-en.hentaihere-v1.6.0.apk",
-      "sha256": "61d0c7952e34c0fe6a17d5043bf6d4feb9e99c46c7ed1f3ab0a4aa6a428b9e40"
+      "name": "tachiyomi-en.hentaihere-v1.6.1.apk",
+      "sha256": "a1d4128db4acdedb4e0db982a1a08bfaaca894215bd1ca5451ae0a756dd2b4ff"
     },
     "jar": {
-      "name": "tachiyomi-en.hentaihere-v1.6.0.jar",
-      "sha256": "bf0e712279935d2b17c7748a484055730fc5201181655529965c03238208bfd2"
+      "name": "tachiyomi-en.hentaihere-v1.6.1.jar",
+      "sha256": "f6eb0cceabc4907d3f24c933e10d7c2d3249c5551cd5cadf0ea8f1a31d534c45"
     }
   },
   "eu.kanade.tachiyomi.extension.en.hentaikisu": {
@@ -4797,6 +4797,16 @@
     "jar": {
       "name": "tachiyomi-en.sleepytranslations-v1.6.56.jar",
       "sha256": "9cd9bd3af9e0e6bb7120616e256ef9e5239bf85b9187cee1f72ccc9374a93c29"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.snafucomic": {
+    "apk": {
+      "name": "tachiyomi-en.snafucomic-v1.6.0.apk",
+      "sha256": "d3893ceb887423ce5bd56a37f20425c3aaf5a59d9ba7fe4f46840c403c5c7453"
+    },
+    "jar": {
+      "name": "tachiyomi-en.snafucomic-v1.6.0.jar",
+      "sha256": "55d909c3dccf904d4022135b9aed096e18ca7909fa065de4d58309c58684d0a6"
     }
   },
   "eu.kanade.tachiyomi.extension.en.solarandsundry": {

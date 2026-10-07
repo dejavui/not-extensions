@@ -525,13 +525,13 @@
         "name": "Comikey",
         "packageName": "eu.kanade.tachiyomi.extension.all.comikey",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-all.comikey-v1.6.11.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-all.comikey-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/02f29d3/tachiyomi-all.comikey-v1.6.11.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-all.comikey-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7546,13 +7546,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.xcomic-v1.6.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-all.xcomic-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6b02dfd/tachiyomi-all.xcomic-v1.6.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-all.xcomic-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17009,13 +17009,13 @@
         "name": "SpyFakku",
         "packageName": "eu.kanade.tachiyomi.extension.en.spyfakku",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-en.spyfakku-v1.6.0.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-en.spyfakku-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/spyfakku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-en.spyfakku-v1.6.0.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-en.spyfakku-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -17224,13 +17224,13 @@
         "name": "The Blank",
         "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.theblank-v1.6.0.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-en.theblank-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.theblank-v1.6.0.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-en.theblank-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -19073,13 +19073,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5772c00/tachiyomi-vi.moetruyen-v1.6.16.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-vi.moetruyen-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5772c00/tachiyomi-vi.moetruyen-v1.6.16.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-vi.moetruyen-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

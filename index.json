@@ -9827,6 +9827,27 @@
         ]
       },
       {
+        "name": "CartoonPorn",
+        "packageName": "eu.kanade.tachiyomi.extension.en.cartoonporn",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.cartoonporn-v1.6.55.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/cartoonporn/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.cartoonporn-v1.6.55.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106055",
+        "versionName": "1.6.55",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7034264791241222160",
+            "name": "CartoonPorn",
+            "language": "en",
+            "homeUrl": "https://cartoonporn.to"
+          }
+        ]
+      },
+      {
         "name": "Clone Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.clonemanga",
         "resources": {
@@ -10040,13 +10061,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8ff51c5/tachiyomi-en.comix-v1.6.42.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.comix-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8ff51c5/tachiyomi-en.comix-v1.6.42.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.comix-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12101,6 +12122,27 @@
             "name": "Kissmanga.in",
             "language": "en",
             "homeUrl": "https://kissmanga.in"
+          }
+        ]
+      },
+      {
+        "name": "Kitsune Dawn",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kitsunedawn",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.kitsunedawn-v1.6.22.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/kitsunedawn/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.kitsunedawn-v1.6.22.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7739452864322240494",
+            "name": "Kitsune Dawn",
+            "language": "en",
+            "homeUrl": "https://kitsunedawn.com"
           }
         ]
       },
@@ -17818,13 +17860,13 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b75d3a6/tachiyomi-en.webnex-v1.6.0.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.webnex-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b75d3a6/tachiyomi-en.webnex-v1.6.0.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.webnex-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18718,6 +18760,27 @@
             "name": "H\u1ecdc Vi\u1ec7n 2Ten",
             "language": "vi",
             "homeUrl": "https://hv2tcomics.net"
+          }
+        ]
+      },
+      {
+        "name": "Jelly Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.jellycomics",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-vi.jellycomics-v1.6.55.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/jellycomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-vi.jellycomics-v1.6.55.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106055",
+        "versionName": "1.6.55",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4660543217906056734",
+            "name": "Jelly Comics",
+            "language": "vi",
+            "homeUrl": "https://jellycomics.online"
           }
         ]
       },

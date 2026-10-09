@@ -6091,12 +6091,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.toptruyen": {
     "apk": {
-      "name": "tachiyomi-vi.toptruyen-v1.6.47.apk",
-      "sha256": "1e4f4f4d9496df38cbe7cbe86270d3da09c1eccf9a8b9decac511970fbd54ab9"
+      "name": "tachiyomi-vi.toptruyen-v1.6.48.apk",
+      "sha256": "a4bb60661cae16f5a181b8c40133c45f071462cdc2c7728be8e26fd8897f58d2"
     },
     "jar": {
-      "name": "tachiyomi-vi.toptruyen-v1.6.47.jar",
-      "sha256": "58bfb5cd0d1446112bc3bd55d6fbbe343b8e171f225fb68457ea662cb2c4bed9"
+      "name": "tachiyomi-vi.toptruyen-v1.6.48.jar",
+      "sha256": "302afd0657a10f3c61d078840ce02d21397f3cb74c6cbb54a08b9d988be722c4"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.tranh18": {

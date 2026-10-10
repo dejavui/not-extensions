@@ -5602,21 +5602,21 @@
   "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui": {
     "apk": {
       "name": "tachiyomi-vi.goctruyentranhvui-v1.6.18.apk",
-      "sha256": "c2fe0d49178d417488f19523056754991a677b1e87309e3baa0664608748a41b"
+      "sha256": "27bfb74742f8ec5420fffa7bb6ed0b092e9602a2a08f89de5714652f51d36cb2"
     },
     "jar": {
       "name": "tachiyomi-vi.goctruyentranhvui-v1.6.18.jar",
-      "sha256": "1794dfcb0b514537e24359870d5c3d2efb02f5e69ed8d6da810c7ea00b4c54e0"
+      "sha256": "90806e83ffbddad8d2e95579426849ba6a701170dbcb3d9cc003b143bb94d563"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.hentaicube": {
     "apk": {
       "name": "tachiyomi-vi.hentaicube-v1.6.95.apk",
-      "sha256": "cba5acbb5b8b20d76ce142adb3f000e9e4221a0d7ca11c56faaf03b493b96541"
+      "sha256": "64c7b2fdd52c92f83d9461dfb9614de27ffc589e5944dcf6021d853ac4fc7fe9"
     },
     "jar": {
       "name": "tachiyomi-vi.hentaicube-v1.6.95.jar",
-      "sha256": "4393ea60b800832e1a96c029766a0b105c6a2979943ed0842e36c45e81a740f7"
+      "sha256": "3339a97a0ed3730c6b074d94eb9af33fdb40cd4a8b06f6b7369156204868fe65"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.hentaivnisreal": {

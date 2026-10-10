@@ -18641,9 +18641,9 @@
         "name": "Goc Truyen Tranh Vui",
         "packageName": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5a5cf03/tachiyomi-vi.goctruyentranhvui-v1.6.18.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/4249c2d/tachiyomi-vi.goctruyentranhvui-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/goctruyentranhvui/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5a5cf03/tachiyomi-vi.goctruyentranhvui-v1.6.18.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/4249c2d/tachiyomi-vi.goctruyentranhvui-v1.6.18.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106018",
@@ -18662,9 +18662,9 @@
         "name": "HentaiCB",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/511a0d6/tachiyomi-vi.hentaicube-v1.6.95.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/4249c2d/tachiyomi-vi.hentaicube-v1.6.95.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/511a0d6/tachiyomi-vi.hentaicube-v1.6.95.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/4249c2d/tachiyomi-vi.hentaicube-v1.6.95.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106095",

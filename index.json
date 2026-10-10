@@ -1248,6 +1248,51 @@
         ]
       },
       {
+        "name": "FSI Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.all.fsicomics",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-all.fsicomics-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/fsicomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-all.fsicomics-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6559215119939537337",
+            "name": "FSI Comics",
+            "language": "en",
+            "homeUrl": "https://fsicomics.com"
+          },
+          {
+            "id": "602403175358649566",
+            "name": "FSI Comics",
+            "language": "es",
+            "homeUrl": "https://es.fsicomics.com"
+          },
+          {
+            "id": "8864443696116780443",
+            "name": "FSI Comics",
+            "language": "de",
+            "homeUrl": "https://de.fsicomics.com"
+          },
+          {
+            "id": "3957062723829771136",
+            "name": "FSI Comics",
+            "language": "fr",
+            "homeUrl": "https://fr.fsicomics.com"
+          },
+          {
+            "id": "439087378480236546",
+            "name": "FSI Comics",
+            "language": "it",
+            "homeUrl": "https://it.fsicomics.com"
+          }
+        ]
+      },
+      {
         "name": "FTV Hunter",
         "packageName": "eu.kanade.tachiyomi.extension.all.ftvhunter",
         "resources": {
@@ -3037,13 +3082,13 @@
         "name": "Komga",
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b75d3a6/tachiyomi-all.komga-v1.6.71.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-all.komga-v1.6.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/komga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b75d3a6/tachiyomi-all.komga-v1.6.71.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-all.komga-v1.6.72.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106071",
-        "versionName": "1.6.71",
+        "versionCode": "106072",
+        "versionName": "1.6.72",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9536,13 +9581,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-en.atsumaru-v1.6.24.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.atsumaru-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1235213/tachiyomi-en.atsumaru-v1.6.24.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.atsumaru-v1.6.25.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106024",
-        "versionName": "1.6.24",
+        "versionCode": "106025",
+        "versionName": "1.6.25",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10061,13 +10106,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.comix-v1.6.43.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.comix-v1.6.44.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8dec679/tachiyomi-en.comix-v1.6.43.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.comix-v1.6.44.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106043",
-        "versionName": "1.6.43",
+        "versionCode": "106044",
+        "versionName": "1.6.44",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12927,13 +12972,13 @@
         "name": "MangaDot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.mangadotnet-v1.6.24.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.mangadotnet-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/fa70485/tachiyomi-en.mangadotnet-v1.6.24.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.mangadotnet-v1.6.25.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106024",
-        "versionName": "1.6.24",
+        "versionCode": "106025",
+        "versionName": "1.6.25",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15892,9 +15937,9 @@
         "name": "Paradise Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.paradisescans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-en.paradisescans-v1.6.23.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.paradisescans-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/paradisescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-en.paradisescans-v1.6.23.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.paradisescans-v1.6.23.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106023",
@@ -17266,13 +17311,13 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.templescan-v1.6.57.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.templescan-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/370c848/tachiyomi-en.templescan-v1.6.57.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.templescan-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106057",
-        "versionName": "1.6.57",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -17280,6 +17325,27 @@
             "name": "Temple Scan",
             "language": "en",
             "homeUrl": "https://templetoons.com"
+          }
+        ]
+      },
+      {
+        "name": "Read The Beginning After The End Manga Online",
+        "packageName": "eu.kanade.tachiyomi.extension.en.thebeginningaftertheendmangaonline",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.thebeginningaftertheendmangaonline-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/thebeginningaftertheendmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.thebeginningaftertheendmangaonline-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1751128597475577885",
+            "name": "Read The Beginning After The End Manga Online",
+            "language": "en",
+            "homeUrl": "https://w22.thebeginningaftertheendmanga.com"
           }
         ]
       },
@@ -17595,6 +17661,27 @@
             "name": "TopManhua.net",
             "language": "en",
             "homeUrl": "https://topmanhua.net"
+          }
+        ]
+      },
+      {
+        "name": "Tower Of God Manga Online",
+        "packageName": "eu.kanade.tachiyomi.extension.en.towerofgodmangaonline",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.towerofgodmangaonline-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/towerofgodmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-en.towerofgodmangaonline-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7174981474350393136",
+            "name": "Tower Of God Manga Online",
+            "language": "en",
+            "homeUrl": "https://w82.thetowerofgod.com"
           }
         ]
       },
@@ -18431,13 +18518,13 @@
         "name": "DamCoNuong",
         "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8ff51c5/tachiyomi-vi.damconuong-v1.6.14.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-vi.damconuong-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8ff51c5/tachiyomi-vi.damconuong-v1.6.14.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-vi.damconuong-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -19178,13 +19265,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-vi.moetruyen-v1.6.17.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-vi.moetruyen-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0100e27/tachiyomi-vi.moetruyen-v1.6.17.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ad7b1a0/tachiyomi-vi.moetruyen-v1.6.18.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106017",
-        "versionName": "1.6.17",
+        "versionCode": "106018",
+        "versionName": "1.6.18",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

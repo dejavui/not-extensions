@@ -5561,12 +5561,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.doctruyen3q": {
     "apk": {
-      "name": "tachiyomi-vi.doctruyen3q-v1.6.39.apk",
-      "sha256": "75520ed0473352b05b7f54067962a20624a7a860fffddf2c0dd6a336aed45b63"
+      "name": "tachiyomi-vi.doctruyen3q-v1.6.40.apk",
+      "sha256": "43b5ddf035c2754b10b92d20b60748efd4d8ebdcf5db8e2e94dac56718658e11"
     },
     "jar": {
-      "name": "tachiyomi-vi.doctruyen3q-v1.6.39.jar",
-      "sha256": "c20ee3cb55b225a9f3407f9b0fa2548c567a8b49a7ff31c84fc405f736ed73d6"
+      "name": "tachiyomi-vi.doctruyen3q-v1.6.40.jar",
+      "sha256": "da801a8d03b33a4c1bc910e561d3e8825c95034c078019f6fd8a2fc9676e9165"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.doctruyen5s": {
@@ -5841,12 +5841,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.metruyen18": {
     "apk": {
-      "name": "tachiyomi-vi.metruyen18-v1.6.58.apk",
-      "sha256": "16262b097a6863b44acc62e72b21c6ea110f43b1e4ebfde9f0781906b734ebf8"
+      "name": "tachiyomi-vi.metruyen18-v1.6.59.apk",
+      "sha256": "6bd7d809935a6c0248c07fd534b8c4682baf1fe0e703c6fc8c34ae94e33f4b81"
     },
     "jar": {
-      "name": "tachiyomi-vi.metruyen18-v1.6.58.jar",
-      "sha256": "aba6e80e9879c5f02a4892dc2546a577312e31dcb6169c7334b5c640fd624c7c"
+      "name": "tachiyomi-vi.metruyen18-v1.6.59.jar",
+      "sha256": "1400b343eaf18eef938fdd63a528f0d2c96f1b517168efe6335ba8a968871cb4"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.mimi": {
@@ -5901,12 +5901,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.nettruyen0209": {
     "apk": {
-      "name": "tachiyomi-vi.nettruyen0209-v1.6.13.apk",
-      "sha256": "1aa80a6e93dd22bc6e8f2b429bc11165b0aa0084055d05679a2109bc429b9b97"
+      "name": "tachiyomi-vi.nettruyen0209-v1.6.14.apk",
+      "sha256": "3419b2dd7519f373792d15b62c5da2131b76f7d77744f0af150e89fa4ddb536b"
     },
     "jar": {
-      "name": "tachiyomi-vi.nettruyen0209-v1.6.13.jar",
-      "sha256": "6273f5d8bf95d9800e306dce726acefdd9fb48975a18086a19c85120270b045a"
+      "name": "tachiyomi-vi.nettruyen0209-v1.6.14.jar",
+      "sha256": "71786993916952e4edd4690caa5b57cd6db6cb06833c78bff787131ba70d8ab6"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.nettruyenco": {
@@ -5931,12 +5931,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.nettruyens": {
     "apk": {
-      "name": "tachiyomi-vi.nettruyens-v1.6.0.apk",
-      "sha256": "33ced11f63b948d2ba41f9b7ec21d7de1adfebefc31fe1170bf707c897e89434"
+      "name": "tachiyomi-vi.nettruyens-v1.6.1.apk",
+      "sha256": "6634c89cee3a5d62744fd1f9feb255f6bbc2aade4020ff41c68a066282c58854"
     },
     "jar": {
-      "name": "tachiyomi-vi.nettruyens-v1.6.0.jar",
-      "sha256": "ff38873c664993c4930b94294909ee5244c0eee6fac63bad2c56c69d0edf8ee7"
+      "name": "tachiyomi-vi.nettruyens-v1.6.1.jar",
+      "sha256": "22fc5bcad456f9ae00b5c6d7730aa325fdaf1351d17ea94932660d2b3dfdd8b2"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.nettruyenviet": {
@@ -6101,12 +6101,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.thienthaitruyen": {
     "apk": {
-      "name": "tachiyomi-vi.thienthaitruyen-v1.6.9.apk",
-      "sha256": "3e12ee44f4af08296ea1a2dcfc5c0b7e2328ce1555ad53963e99009e09b0526d"
+      "name": "tachiyomi-vi.thienthaitruyen-v1.6.10.apk",
+      "sha256": "935624f71261e0a4ca2db0bf7dfd69fbb15674ae4ad43289e43ab4a9511acbe7"
     },
     "jar": {
-      "name": "tachiyomi-vi.thienthaitruyen-v1.6.9.jar",
-      "sha256": "814035429c3c083cad4b864571d31afcb5e1a7c0460d05b470face754fe4b9b9"
+      "name": "tachiyomi-vi.thienthaitruyen-v1.6.10.jar",
+      "sha256": "e7718366b662d4259e3fadd389658ddc228b17219e2cf4bb25adaa7f558fbe61"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.thohamngu": {
@@ -6321,12 +6321,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.vinahentai": {
     "apk": {
-      "name": "tachiyomi-vi.vinahentai-v1.6.17.apk",
-      "sha256": "ecbfa98f0a6d3ce7e6701498034a55779fc9f228f1a1b0abe74c97029c6389a5"
+      "name": "tachiyomi-vi.vinahentai-v1.6.18.apk",
+      "sha256": "e4ee78c7b4c8f7fe837718dac0ac04cf24c155ed0c6a8a70f92831ff66c42551"
     },
     "jar": {
-      "name": "tachiyomi-vi.vinahentai-v1.6.17.jar",
-      "sha256": "29e19293aa33b4d814d921d70934c01a3ecb85663dbadb0cc27ead2368eb140c"
+      "name": "tachiyomi-vi.vinahentai-v1.6.18.jar",
+      "sha256": "9adfc03700502b8d6c173ddbb5a3c86a6c86dd4215c7ad84720021ad7053356d"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.vitruyen": {
@@ -6361,12 +6361,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.zettruyen": {
     "apk": {
-      "name": "tachiyomi-vi.zettruyen-v1.6.13.apk",
-      "sha256": "aa49176c4e43afc526bd0ff4c389956229368e40aeba582271a31af6a024188f"
+      "name": "tachiyomi-vi.zettruyen-v1.6.14.apk",
+      "sha256": "5c0dc704cfddf414bfbce0fac391b0d6726349be5a0a52426d9aecde39031cfe"
     },
     "jar": {
-      "name": "tachiyomi-vi.zettruyen-v1.6.13.jar",
-      "sha256": "d2a035436ef0a82a150e5481edc7187109ef4d7f5c393443a2c98b80ce79ba34"
+      "name": "tachiyomi-vi.zettruyen-v1.6.14.jar",
+      "sha256": "4d5761463ced03c1f55e9b026ea1370f85a6291abf9c7a92148056b1a3f0b138"
     }
   }
 }

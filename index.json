@@ -18581,20 +18581,20 @@
         "name": "DocTruyen3Q",
         "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8691547/tachiyomi-vi.doctruyen3q-v1.6.39.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.doctruyen3q-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/doctruyen3q/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8691547/tachiyomi-vi.doctruyen3q-v1.6.39.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.doctruyen3q-v1.6.40.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106039",
-        "versionName": "1.6.39",
+        "versionCode": "106040",
+        "versionName": "1.6.40",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6168143505244976507",
             "name": "DocTruyen3Q",
             "language": "vi",
-            "homeUrl": "https://doctruyen3qhub.vip"
+            "homeUrl": "https://doctruyen3qhub.fit"
           }
         ]
       },
@@ -19169,20 +19169,20 @@
         "name": "MeTruyen18",
         "packageName": "eu.kanade.tachiyomi.extension.vi.metruyen18",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-vi.metruyen18-v1.6.58.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.metruyen18-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/metruyen18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/37286f2/tachiyomi-vi.metruyen18-v1.6.58.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.metruyen18-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "6662865328420899419",
             "name": "MeTruyen18",
             "language": "vi",
-            "homeUrl": "https://metruyen18.pro"
+            "homeUrl": "https://damconuong.pet"
           }
         ]
       },
@@ -19311,20 +19311,20 @@
         "name": "NetTruyen0209",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyen0209",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8691547/tachiyomi-vi.nettruyen0209-v1.6.13.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.nettruyen0209-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/nettruyen0209/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8691547/tachiyomi-vi.nettruyen0209-v1.6.13.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.nettruyen0209-v1.6.14.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7512224737233822423",
             "name": "NetTruyen0209",
             "language": "vi",
-            "homeUrl": "https://nettruyen13s.com"
+            "homeUrl": "https://nettruyen14s.com"
           }
         ]
       },
@@ -19374,20 +19374,20 @@
         "name": "NetTruyenS (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyens",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-vi.nettruyens-v1.6.0.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.nettruyens-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/nettruyens/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-vi.nettruyens-v1.6.0.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.nettruyens-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6085559443545258070",
             "name": "NetTruyenS (unoriginal)",
             "language": "vi",
-            "homeUrl": "https://nettruyen13s.com"
+            "homeUrl": "https://nettruyen14s.com"
           }
         ]
       },
@@ -19731,20 +19731,20 @@
         "name": "ThienThaiTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2c6298b/tachiyomi-vi.thienthaitruyen-v1.6.9.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.thienthaitruyen-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/thienthaitruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2c6298b/tachiyomi-vi.thienthaitruyen-v1.6.9.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.thienthaitruyen-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4424472966200672277",
             "name": "ThienThaiTruyen",
             "language": "vi",
-            "homeUrl": "https://thienthaitruyen15.com"
+            "homeUrl": "https://thienthaitruyen16.com"
           }
         ]
       },
@@ -20197,20 +20197,20 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2c6298b/tachiyomi-vi.vinahentai-v1.6.17.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.vinahentai-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2c6298b/tachiyomi-vi.vinahentai-v1.6.17.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.vinahentai-v1.6.18.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106017",
-        "versionName": "1.6.17",
+        "versionCode": "106018",
+        "versionName": "1.6.18",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4572372176917567711",
             "name": "VinaHentai",
             "language": "vi",
-            "homeUrl": "https://vinahentai.help"
+            "homeUrl": "https://vinahentai.pics"
           }
         ]
       },
@@ -20281,20 +20281,20 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.zettruyen-v1.6.13.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.zettruyen-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/71cbef3/tachiyomi-vi.zettruyen-v1.6.13.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.zettruyen-v1.6.14.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "893747327087652119",
             "name": "ZetTruyen",
             "language": "vi",
-            "homeUrl": "https://www.zettruyen1.com"
+            "homeUrl": "https://www.zettruyen3.com"
           }
         ]
       }

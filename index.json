@@ -452,9 +452,9 @@
         "name": "Comick (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicklive",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c9b63e6/tachiyomi-all.comicklive-v1.6.6.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/e896fe3/tachiyomi-all.comicklive-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/comicklive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c9b63e6/tachiyomi-all.comicklive-v1.6.6.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/e896fe3/tachiyomi-all.comicklive-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -462,9 +462,189 @@
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "4972933717624256217",
+            "id": "8232539342970581070",
             "name": "Comick (Unoriginal)",
             "language": "all",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "4972933717624256217",
+            "name": "Comick (Unoriginal)",
+            "language": "en",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "1095063608575855195",
+            "name": "Comick (Unoriginal)",
+            "language": "ru",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "1242615521765763940",
+            "name": "Comick (Unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "3494454472553986530",
+            "name": "Comick (Unoriginal)",
+            "language": "fr",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "5107985495531372013",
+            "name": "Comick (Unoriginal)",
+            "language": "pl",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "8935908788702897887",
+            "name": "Comick (Unoriginal)",
+            "language": "id",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "7976210704034726483",
+            "name": "Comick (Unoriginal)",
+            "language": "tr",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "3726023637787405221",
+            "name": "Comick (Unoriginal)",
+            "language": "it",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "4425270083878931881",
+            "name": "Comick (Unoriginal)",
+            "language": "es",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "5456927204345304785",
+            "name": "Comick (Unoriginal)",
+            "language": "uk",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "4042311977545840779",
+            "name": "Comick (Unoriginal)",
+            "language": "de",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "2383498398383195108",
+            "name": "Comick (Unoriginal)",
+            "language": "ko",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "1760602273537165744",
+            "name": "Comick (Unoriginal)",
+            "language": "th",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "4145490410049708986",
+            "name": "Comick (Unoriginal)",
+            "language": "ro",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "3139638167324501617",
+            "name": "Comick (Unoriginal)",
+            "language": "ms",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "1887856725598271183",
+            "name": "Comick (Unoriginal)",
+            "language": "ja",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "5535756921059789785",
+            "name": "Comick (Unoriginal)",
+            "language": "sv",
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
+          },
+          {
+            "id": "2810925842440106828",
+            "name": "Comick (Unoriginal)",
+            "language": "no",
             "homeUrl": "https://comick.live",
             "mirrorUrls": [
               "https://comick.live",

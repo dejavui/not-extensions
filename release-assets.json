@@ -92,11 +92,11 @@
   "eu.kanade.tachiyomi.extension.all.comicklive": {
     "apk": {
       "name": "tachiyomi-all.comicklive-v1.6.6.apk",
-      "sha256": "7d28c99ca6e2a2a4b2211666f5b333c124febe35a236ff67ece6ffa874256027"
+      "sha256": "0b4b1e1f4140f5872a086e8983e9ed962b2aafe095ff671262d63bd041a1c34c"
     },
     "jar": {
       "name": "tachiyomi-all.comicklive-v1.6.6.jar",
-      "sha256": "aa15589c91db5ccc1b07bce97c7b3411be46503c0ecd49d24629f738495b6a71"
+      "sha256": "51ba1272de349445d5ce4c416c6a2d496a4ab1cbdbede5bb87bf81d9bfdbc6be"
     }
   },
   "eu.kanade.tachiyomi.extension.all.comicskingdom": {

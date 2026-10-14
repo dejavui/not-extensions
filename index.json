@@ -3030,122 +3030,122 @@
         "name": "Kagane",
         "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-all.kagane-v1.6.31.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-all.kagane-v1.6.32.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.kagane-v1.6.31.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-all.kagane-v1.6.32.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106031",
-        "versionName": "1.6.31",
+        "versionCode": "106032",
+        "versionName": "1.6.32",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4024736764982024684",
             "name": "Kagane",
             "language": "en",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "1157710231944574609",
             "name": "Kagane",
             "language": "ja",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "1720654391539317254",
             "name": "Kagane",
             "language": "ko",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "538178062602483073",
             "name": "Kagane",
             "language": "zh",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "6291099060619088371",
             "name": "Kagane",
             "language": "es",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "3249170492103400191",
             "name": "Kagane",
             "language": "es-419",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "6053574930456302165",
             "name": "Kagane",
             "language": "fr",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "253007717341293260",
             "name": "Kagane",
             "language": "de",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "3281832279225761326",
             "name": "Kagane",
             "language": "pt",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "8929946374100381402",
             "name": "Kagane",
             "language": "pt-BR",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "8751507648303673848",
             "name": "Kagane",
             "language": "ru",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "1471532184931679941",
             "name": "Kagane",
             "language": "it",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "7702420917357144001",
             "name": "Kagane",
             "language": "id",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "8791972639916297003",
             "name": "Kagane",
             "language": "vi",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "2006734767320263070",
             "name": "Kagane",
             "language": "th",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "1008382500205235233",
             "name": "Kagane",
             "language": "pl",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "9016992318016575502",
             "name": "Kagane",
             "language": "hi",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           },
           {
             "id": "7861921616625741963",
             "name": "Kagane",
             "language": "ar",
-            "homeUrl": "https://kagane.to"
+            "homeUrl": "https://kagane.org"
           }
         ]
       },
@@ -3216,65 +3216,53 @@
         "name": "SchaleNetwork",
         "packageName": "eu.kanade.tachiyomi.extension.all.koharu",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-0/tachiyomi-all.koharu-v1.4.20.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/koharu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-0/tachiyomi-all.koharu-v1.4.20.jar"
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-all.koharu-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/schalenetwork/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-all.koharu-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104020",
-        "versionName": "1.4.20",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "713326856395200688",
             "name": "SchaleNetwork",
             "language": "all",
-            "homeUrl": "https://schale.network",
+            "homeUrl": "https://shupogaki.moe",
             "mirrorUrls": [
-              "https://schale.network",
-              "https://anchira.to",
-              "https://gehenna.jp",
-              "https://niyaniya.moe",
-              "https://shupogaki.moe"
+              "https://shupogaki.moe",
+              "https://niyaniya.moe"
             ]
           },
           {
             "id": "1484902275639232927",
             "name": "SchaleNetwork",
             "language": "en",
-            "homeUrl": "https://schale.network",
+            "homeUrl": "https://shupogaki.moe",
             "mirrorUrls": [
-              "https://schale.network",
-              "https://anchira.to",
-              "https://gehenna.jp",
-              "https://niyaniya.moe",
-              "https://shupogaki.moe"
+              "https://shupogaki.moe",
+              "https://niyaniya.moe"
             ]
           },
           {
             "id": "8512356093551591735",
             "name": "SchaleNetwork",
             "language": "ja",
-            "homeUrl": "https://schale.network",
+            "homeUrl": "https://shupogaki.moe",
             "mirrorUrls": [
-              "https://schale.network",
-              "https://anchira.to",
-              "https://gehenna.jp",
-              "https://niyaniya.moe",
-              "https://shupogaki.moe"
+              "https://shupogaki.moe",
+              "https://niyaniya.moe"
             ]
           },
           {
             "id": "8839994618804276749",
             "name": "SchaleNetwork",
             "language": "zh",
-            "homeUrl": "https://schale.network",
+            "homeUrl": "https://shupogaki.moe",
             "mirrorUrls": [
-              "https://schale.network",
-              "https://anchira.to",
-              "https://gehenna.jp",
-              "https://niyaniya.moe",
-              "https://shupogaki.moe"
+              "https://shupogaki.moe",
+              "https://niyaniya.moe"
             ]
           }
         ]
@@ -9929,13 +9917,13 @@
         "name": "Battle In 5 Seconds After Meeting",
         "packageName": "eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeeting",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.battleinfivesecondsaftermeeting-v1.6.55.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.battleinfivesecondsaftermeeting-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/battleinfivesecondsaftermeeting/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.battleinfivesecondsaftermeeting-v1.6.55.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.battleinfivesecondsaftermeeting-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10307,13 +10295,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.comix-v1.6.47.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.comix-v1.6.49.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.comix-v1.6.47.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.comix-v1.6.49.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106047",
-        "versionName": "1.6.47",
+        "versionCode": "106049",
+        "versionName": "1.6.49",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11652,6 +11640,27 @@
         ]
       },
       {
+        "name": "HentaiPill",
+        "packageName": "eu.kanade.tachiyomi.extension.en.hentaipill",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.hentaipill-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/hentaipill/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.hentaipill-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5744141040135150417",
+            "name": "HentaiPill",
+            "language": "en",
+            "homeUrl": "https://hentaipill.com"
+          }
+        ]
+      },
+      {
         "name": "HentaiRead",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentairead",
         "resources": {
@@ -11697,13 +11706,13 @@
         "name": "HentaiSco",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentaisco",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.hentaisco-v1.6.55.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.hentaisco-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/hentaisco/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.hentaisco-v1.6.55.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.hentaisco-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11988,6 +11997,27 @@
         ]
       },
       {
+        "name": "ILikeComix",
+        "packageName": "eu.kanade.tachiyomi.extension.en.ilikecomix",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.ilikecomix-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/ilikecomix/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.ilikecomix-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "630837345003448937",
+            "name": "ILikeComix",
+            "language": "en",
+            "homeUrl": "https://ilikecomix.com"
+          }
+        ]
+      },
+      {
         "name": "I'm An Evil God",
         "packageName": "eu.kanade.tachiyomi.extension.en.imanevilgod",
         "resources": {
@@ -12135,6 +12165,27 @@
         ]
       },
       {
+        "name": "Kaiji Manga Online",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kaijimangaonline",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.kaijimangaonline-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/kaijimangaonline/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.kaijimangaonline-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4534836110470234374",
+            "name": "Kaiji Manga Online",
+            "language": "en",
+            "homeUrl": "https://w9.kaijimanga.com"
+          }
+        ]
+      },
+      {
         "name": "Kaizen Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.kaizenscan",
         "resources": {
@@ -12152,33 +12203,6 @@
             "name": "Kaizen Scan",
             "language": "en",
             "homeUrl": "https://kaizenscan.com"
-          }
-        ]
-      },
-      {
-        "name": "KaliScan",
-        "packageName": "eu.kanade.tachiyomi.extension.en.kaliscancom",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c7a2926/tachiyomi-en.kaliscancom-v1.6.0.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/kaliscancom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c7a2926/tachiyomi-en.kaliscancom-v1.6.0.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "7660637864742395387",
-            "name": "KaliScan",
-            "language": "en",
-            "homeUrl": "https://kaliscan.com",
-            "mirrorUrls": [
-              "https://kaliscan.com",
-              "https://kaliscan.me",
-              "https://kaliscan.io",
-              "https://mgjinx.com"
-            ]
           }
         ]
       },
@@ -14127,27 +14151,6 @@
         ]
       },
       {
-        "name": "MangaKa",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangaka",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.mangaka-v1.6.55.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangaka/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.mangaka-v1.6.55.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3253856465912445981",
-            "name": "MangaKa",
-            "language": "en",
-            "homeUrl": "https://mangaka.cc"
-          }
-        ]
-      },
-      {
         "name": "Mangakakalot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
         "resources": {
@@ -14741,27 +14744,6 @@
             "name": "Manga Trend",
             "language": "en",
             "homeUrl": "https://mangatrend.org"
-          }
-        ]
-      },
-      {
-        "name": "MangaTX",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangatx",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/93808ff/tachiyomi-en.mangatx-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangatx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/93808ff/tachiyomi-en.mangatx-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "3274683761704614629",
-            "name": "MangaTX",
-            "language": "en",
-            "homeUrl": "https://mangatx.cc"
           }
         ]
       },
@@ -16264,13 +16246,13 @@
         "name": "PornComix",
         "packageName": "eu.kanade.tachiyomi.extension.en.porncomix",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-en.porncomix-v1.6.0.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.porncomix-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/porncomix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-en.porncomix-v1.6.0.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.porncomix-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -17764,13 +17746,13 @@
         "name": "Toonizy",
         "packageName": "eu.kanade.tachiyomi.extension.en.toonizy",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.toonizy-v1.6.55.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.toonizy-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/toonizy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.toonizy-v1.6.55.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.toonizy-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18574,13 +18556,13 @@
         "name": "Zinmanga.net",
         "packageName": "eu.kanade.tachiyomi.extension.en.zinmanganet",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.zinmanganet-v1.6.56.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.zinmanganet-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/zinmanganet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.zinmanganet-v1.6.56.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6dd2f59/tachiyomi-en.zinmanganet-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19637,27 +19619,6 @@
             "name": "NhatTruyen",
             "language": "vi",
             "homeUrl": "https://nhattruyenqq.com"
-          }
-        ]
-      },
-      {
-        "name": "NhentaiClub",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.nhentaiclub",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-vi.nhentaiclub-v1.6.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/nhentaiclub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.nhentaiclub-v1.6.4.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "9124366814387777661",
-            "name": "NhentaiClub",
-            "language": "vi",
-            "homeUrl": "https://nhentaiclub.online"
           }
         ]
       },

@@ -2699,6 +2699,16 @@
       "sha256": "449ad3bb97bde1fc1c2dc4c5ecf683e87c4eb4580c43030da8b91ceb9ba7ccb8"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.kaliscanorg": {
+    "apk": {
+      "name": "tachiyomi-en.kaliscanorg-v1.6.55.apk",
+      "sha256": "d549558bb1d764aecffc02029e801d9246858aed5b639a5fddec9900ada1050f"
+    },
+    "jar": {
+      "name": "tachiyomi-en.kaliscanorg-v1.6.55.jar",
+      "sha256": "eedf96a1c9cf3da58549622afb98177f9543d9befe2712e9aee44f658588ce89"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.kappabeast": {
     "apk": {
       "name": "tachiyomi-en.kappabeast-v1.6.1.apk",

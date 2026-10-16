@@ -12162,6 +12162,27 @@
         ]
       },
       {
+        "name": "KaliScan.org (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kaliscanorg",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c9f6828/tachiyomi-en.kaliscanorg-v1.6.55.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/kaliscanorg/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c9f6828/tachiyomi-en.kaliscanorg-v1.6.55.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106055",
+        "versionName": "1.6.55",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5815628626283130746",
+            "name": "KaliScan.org (unoriginal)",
+            "language": "en",
+            "homeUrl": "https://kaliscan.org"
+          }
+        ]
+      },
+      {
         "name": "Kappa Beast",
         "packageName": "eu.kanade.tachiyomi.extension.en.kappabeast",
         "resources": {

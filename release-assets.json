@@ -6381,12 +6381,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.zettruyen": {
     "apk": {
-      "name": "tachiyomi-vi.zettruyen-v1.6.14.apk",
-      "sha256": "5c0dc704cfddf414bfbce0fac391b0d6726349be5a0a52426d9aecde39031cfe"
+      "name": "tachiyomi-vi.zettruyen-v1.6.15.apk",
+      "sha256": "5b3f28297d64dae302c200f8e1468a04bc7a790c882fb568e6bce474f150fb76"
     },
     "jar": {
-      "name": "tachiyomi-vi.zettruyen-v1.6.14.jar",
-      "sha256": "4d5761463ced03c1f55e9b026ea1370f85a6291abf9c7a92148056b1a3f0b138"
+      "name": "tachiyomi-vi.zettruyen-v1.6.15.jar",
+      "sha256": "82e34a6fc2aeecb374322b76d8db907438ec14213d31c55b1783a159652140d9"
     }
   }
 }

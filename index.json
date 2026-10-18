@@ -20589,20 +20589,20 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.zettruyen-v1.6.14.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f5b4f76/tachiyomi-vi.zettruyen-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/297dcbc/tachiyomi-vi.zettruyen-v1.6.14.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f5b4f76/tachiyomi-vi.zettruyen-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "893747327087652119",
             "name": "ZetTruyen",
             "language": "vi",
-            "homeUrl": "https://www.zettruyen3.com"
+            "homeUrl": "https://www.zettruyen4.com"
           }
         ]
       }

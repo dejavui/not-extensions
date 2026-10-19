@@ -1801,12 +1801,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comix": {
     "apk": {
-      "name": "tachiyomi-en.comix-v1.6.53.apk",
-      "sha256": "89872459d526dc252a6d94d08acc8bf8bdc11365eb03c6d74d9af569f00700be"
+      "name": "tachiyomi-en.comix-v1.6.54.apk",
+      "sha256": "8c99dc97d99338d2223e8b8204a9fa117883d7223d93f5de9b5be8dd780c56df"
     },
     "jar": {
-      "name": "tachiyomi-en.comix-v1.6.53.jar",
-      "sha256": "c568154a794048a28e10e2ad5042a6f4bbfb6391ba75f4aff699c082bb1f2a88"
+      "name": "tachiyomi-en.comix-v1.6.54.jar",
+      "sha256": "7feecfbef9ad28977663fc3bb7d66fd3155076ad6d4b135119b6f07f99443285"
     }
   },
   "eu.kanade.tachiyomi.extension.en.coolmic": {

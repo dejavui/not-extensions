@@ -3331,13 +3331,13 @@
         "name": "Komga",
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c9b63e6/tachiyomi-all.komga-v1.6.73.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-all.komga-v1.6.74.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/komga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c9b63e6/tachiyomi-all.komga-v1.6.73.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-all.komga-v1.6.74.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106073",
-        "versionName": "1.6.73",
+        "versionCode": "106074",
+        "versionName": "1.6.74",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10166,13 +10166,13 @@
         "name": "Comic Asura",
         "packageName": "eu.kanade.tachiyomi.extension.en.comicasura",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/93808ff/tachiyomi-en.comicasura-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-en.comicasura-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comicasura/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/93808ff/tachiyomi-en.comicasura-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-en.comicasura-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15571,13 +15571,13 @@
         "name": "Milftoon",
         "packageName": "eu.kanade.tachiyomi.extension.en.milftoon",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.milftoon-v1.6.57.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-en.milftoon-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/milftoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f46574f/tachiyomi-en.milftoon-v1.6.57.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-en.milftoon-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106057",
-        "versionName": "1.6.57",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18318,13 +18318,13 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/9cfa79a/tachiyomi-en.webnex-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-en.webnex-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/9cfa79a/tachiyomi-en.webnex-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/2eeabcd/tachiyomi-en.webnex-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

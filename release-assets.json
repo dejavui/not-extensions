@@ -1131,12 +1131,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.saymanhwa": {
     "apk": {
-      "name": "tachiyomi-all.saymanhwa-v1.6.2.apk",
-      "sha256": "f2bb439b190b304fa4356a8756f45d19f286c8190dcb5705e8f830b216745307"
+      "name": "tachiyomi-all.saymanhwa-v1.6.3.apk",
+      "sha256": "37948f29ec143c65b528b34a5292b22a2784207ad14750033b60aa8c5f30f366"
     },
     "jar": {
-      "name": "tachiyomi-all.saymanhwa-v1.6.2.jar",
-      "sha256": "bbfe440fbbb3d6b97f8e790effda299bed6b489fbea9a9ff4699df788880d2d0"
+      "name": "tachiyomi-all.saymanhwa-v1.6.3.jar",
+      "sha256": "ecb2b2db6e2f0144104c1575d5760e03fec2f318f60e9a146a2d23b1c7e94a8c"
     }
   },
   "eu.kanade.tachiyomi.extension.all.seraphicdeviltry": {

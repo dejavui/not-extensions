@@ -531,12 +531,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.kagane": {
     "apk": {
-      "name": "tachiyomi-all.kagane-v1.6.35.apk",
-      "sha256": "5b61c13fc932b77a771a42e79e0d42d1d7759cf0e89c1b31213e83478f74e36e"
+      "name": "tachiyomi-all.kagane-v1.6.36.apk",
+      "sha256": "291d64a9d4794ef318124195852b519a90f2315180ea7941e245285636cc9f45"
     },
     "jar": {
-      "name": "tachiyomi-all.kagane-v1.6.35.jar",
-      "sha256": "79982431449acdbea544388a5f558677408e7146b2aa5ea790adadd6c72b715e"
+      "name": "tachiyomi-all.kagane-v1.6.36.jar",
+      "sha256": "a40924c5e7128b8a5886f08b6f6333ffc052d7985d286d728d1e1637a75bc928"
     }
   },
   "eu.kanade.tachiyomi.extension.all.kemono": {
@@ -571,12 +571,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.koharu": {
     "apk": {
-      "name": "tachiyomi-all.koharu-v1.6.1.apk",
-      "sha256": "888de685ae96469133718a8af734c678cba7252793685c52dec65efc32f8cb0d"
+      "name": "tachiyomi-all.koharu-v1.6.2.apk",
+      "sha256": "c7e77d5682bbc4bffd51a429d6a046338ce609bf2f4da4cf77192aaaee8e045f"
     },
     "jar": {
-      "name": "tachiyomi-all.koharu-v1.6.1.jar",
-      "sha256": "739e1526e04e2b6cc2d7997d64b96745a6f725c0b6f0ab3e7dae4b98572b43a6"
+      "name": "tachiyomi-all.koharu-v1.6.2.jar",
+      "sha256": "f24bb1cfdead6d3dfce2eaae9fe5f2ea1a97927961745942e05b17692b9bc026"
     }
   },
   "eu.kanade.tachiyomi.extension.all.komga": {
@@ -3131,12 +3131,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mangabay": {
     "apk": {
-      "name": "tachiyomi-en.mangabay-v1.6.2.apk",
-      "sha256": "c4ec99d43aef51e871e5dd70f6379261a84a3b0e16b99cef98ed0e4a76be10bd"
+      "name": "tachiyomi-en.mangabay-v1.6.3.apk",
+      "sha256": "85daa7b86670bfe8c738d2973cdf22df3ccc3cd761839f348ee266952f337b20"
     },
     "jar": {
-      "name": "tachiyomi-en.mangabay-v1.6.2.jar",
-      "sha256": "81605e2fbd7385d94a7beb7f5b9a29614f82dfaf8fc7ecd73dab67f7dd4366ba"
+      "name": "tachiyomi-en.mangabay-v1.6.3.jar",
+      "sha256": "4665fb87ef8863571bae1268bea819206921b5f67656c330d3a6d6706a6a41de"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangabolt": {

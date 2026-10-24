@@ -2970,13 +2970,13 @@
         "name": "Kagane",
         "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7970252/tachiyomi-all.kagane-v1.6.35.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8f19648/tachiyomi-all.kagane-v1.6.36.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7970252/tachiyomi-all.kagane-v1.6.35.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8f19648/tachiyomi-all.kagane-v1.6.36.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106035",
-        "versionName": "1.6.35",
+        "versionCode": "106036",
+        "versionName": "1.6.36",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -3264,13 +3264,13 @@
         "name": "SchaleNetwork",
         "packageName": "eu.kanade.tachiyomi.extension.all.koharu",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/96f16e2/tachiyomi-all.koharu-v1.6.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8f19648/tachiyomi-all.koharu-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/schalenetwork/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/4e33180/tachiyomi-all.koharu-v1.6.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8f19648/tachiyomi-all.koharu-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -13116,13 +13116,13 @@
         "name": "Manga-Bay",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabay",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/448b9a9/tachiyomi-en.mangabay-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8f19648/tachiyomi-en.mangabay-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangabay/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/448b9a9/tachiyomi-en.mangabay-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8f19648/tachiyomi-en.mangabay-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

@@ -6261,12 +6261,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.truyenqqcomvn": {
     "apk": {
-      "name": "tachiyomi-vi.truyenqqcomvn-v1.6.4.apk",
-      "sha256": "53bc14b450f6f69def466ac170158dcc29df79d4ad222f46afd43fcc4d3e9763"
+      "name": "tachiyomi-vi.truyenqqcomvn-v1.6.5.apk",
+      "sha256": "052ed62e74a59e65b2ca6cfc8902c474439f119f53a908e892bb1445bbd6ece5"
     },
     "jar": {
-      "name": "tachiyomi-vi.truyenqqcomvn-v1.6.4.jar",
-      "sha256": "869b5b4239de44401b3caa8d37a584b3008dbb293dc04fed93d0a8b41fefbfed"
+      "name": "tachiyomi-vi.truyenqqcomvn-v1.6.5.jar",
+      "sha256": "f304178b1e2a02f7decf3c2c6221fbd9ee85339f4faa3c1564c5bd9518382d95"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.truyenqqvn": {

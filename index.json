@@ -18285,9 +18285,9 @@
         "name": "Fantastic Dreamers",
         "packageName": "eu.kanade.tachiyomi.extension.vi.fantasticdreamers",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/2ba5bde/tachiyomi-vi.fantasticdreamers-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.fantasticdreamers-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/fantasticdreamers/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.fantasticdreamers-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.fantasticdreamers-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -19582,9 +19582,9 @@
         "name": "TruyenGGVN",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenggvn",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-1/tachiyomi-vi.truyenggvn-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.truyenggvn-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyenggvn/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c08e682/tachiyomi-vi.truyenggvn-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.truyenggvn-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -19666,9 +19666,9 @@
         "name": "TruyenQQ",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqq",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5717f85-1/tachiyomi-vi.truyenqq-v1.6.25.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.truyenqq-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyenqq/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a6c5501-1/tachiyomi-vi.truyenqq-v1.6.25.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.truyenqq-v1.6.25.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106025",
@@ -19985,9 +19985,9 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f5b4f76/tachiyomi-vi.zettruyen-v1.6.15.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.zettruyen-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f5b4f76/tachiyomi-vi.zettruyen-v1.6.15.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/01c43b3/tachiyomi-vi.zettruyen-v1.6.15.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106015",

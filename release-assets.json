@@ -5951,12 +5951,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.nettruyen0209": {
     "apk": {
-      "name": "tachiyomi-vi.nettruyen0209-v1.6.14.apk",
-      "sha256": "1937c3646818beb8e57bae67de2d0ba4acfebe9308c576117c91dd97b0ed8b69"
+      "name": "tachiyomi-vi.nettruyen0209-v1.6.15.apk",
+      "sha256": "1798ed28fc4ce3e418c8cfd6d1224cf10190f6b1c4de52b8ece100757a1cb5b6"
     },
     "jar": {
-      "name": "tachiyomi-vi.nettruyen0209-v1.6.14.jar",
-      "sha256": "17051e47369ab75297611441adc4b19241ea5be3f989ffeba13e21dae71d57d7"
+      "name": "tachiyomi-vi.nettruyen0209-v1.6.15.jar",
+      "sha256": "be4d451c8b2954dcc728b1f34543ff26c50de050e361fdd2e1f5c29df3b871d2"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.nettruyenco": {

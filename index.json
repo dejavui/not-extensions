@@ -12254,6 +12254,27 @@
         ]
       },
       {
+        "name": "LuxManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.luxmanga",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.luxmanga-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/luxmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.luxmanga-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9066204719461145317",
+            "name": "LuxManga",
+            "language": "en",
+            "homeUrl": "https://luxmanga.org"
+          }
+        ]
+      },
+      {
         "name": "MadaraDex",
         "packageName": "eu.kanade.tachiyomi.extension.en.madaradex",
         "resources": {
@@ -16545,13 +16566,13 @@
         "name": "Saturday Morning Breakfast Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.saturdaymorningbreakfastcomics",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.0.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/saturdaymorningbreakfastcomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/eacaee8/tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.0.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17654,13 +17675,13 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/79788ff/tachiyomi-en.webnex-v1.6.7.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.webnex-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/79788ff/tachiyomi-en.webnex-v1.6.7.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.webnex-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17710,6 +17731,27 @@
             "name": "WebtoonClub",
             "language": "en",
             "homeUrl": "https://webtoonclub.com"
+          }
+        ]
+      },
+      {
+        "name": "WebtoonLib",
+        "packageName": "eu.kanade.tachiyomi.extension.en.webtoonlib",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.webtoonlib-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/webtoonlib/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/8812d02/tachiyomi-en.webtoonlib-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2442596821296482388",
+            "name": "WebtoonLib",
+            "language": "en",
+            "homeUrl": "https://webtoonlib.to"
           }
         ]
       },

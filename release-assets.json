@@ -3059,6 +3059,16 @@
       "sha256": "0b6272ea661439f0d0d78fc0206433e3a52aea72ea3ec6c6454bf99e5886ef23"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.luxmanga": {
+    "apk": {
+      "name": "tachiyomi-en.luxmanga-v1.6.0.apk",
+      "sha256": "8e0e4fb7e5764b70f534814afa92b1cf7afaa19d369a60142675989f128b275d"
+    },
+    "jar": {
+      "name": "tachiyomi-en.luxmanga-v1.6.0.jar",
+      "sha256": "08d132da344e1a63da25dfeea3e47983e23640032554f92ca6dfb3a1acef937f"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.madaradex": {
     "apk": {
       "name": "tachiyomi-en.madaradex-v1.6.60.apk",
@@ -4791,12 +4801,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.saturdaymorningbreakfastcomics": {
     "apk": {
-      "name": "tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.0.apk",
-      "sha256": "08219fd659551213d94bd59dcc52fbf4efaf887678020fae62378ad760223e64"
+      "name": "tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.1.apk",
+      "sha256": "42095136131bb012722b9ead882a312316d8b2a54d35ebc03c4a78266cf839a2"
     },
     "jar": {
-      "name": "tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.0.jar",
-      "sha256": "73ecd1f19a82d6cf7c29607f83794bf3d09a7419396314c6372daa4415de1600"
+      "name": "tachiyomi-en.saturdaymorningbreakfastcomics-v1.6.1.jar",
+      "sha256": "08aac7dccedfcc403d04263c9ef415ff3f8714694d6a75034d89fa839cf0a5f6"
     }
   },
   "eu.kanade.tachiyomi.extension.en.scansgg": {
@@ -5311,12 +5321,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.webnex": {
     "apk": {
-      "name": "tachiyomi-en.webnex-v1.6.7.apk",
-      "sha256": "1b024ccbc9fb070d6bf984f9e0e3588fa64116279981e8b094b65cac33853767"
+      "name": "tachiyomi-en.webnex-v1.6.8.apk",
+      "sha256": "31e45c04e03b68322e2becc490aadf38c4793a80f094d5efe6d126f6b20de8c4"
     },
     "jar": {
-      "name": "tachiyomi-en.webnex-v1.6.7.jar",
-      "sha256": "98a20dd28f72e68d0e013a1d405223152bbb67943bbf327ead2c8f8373078461"
+      "name": "tachiyomi-en.webnex-v1.6.8.jar",
+      "sha256": "812d13b39485e97798e881087c2f5278c34c19645ca5a0edd2d516644890236c"
     }
   },
   "eu.kanade.tachiyomi.extension.en.webnovel": {
@@ -5337,6 +5347,16 @@
     "jar": {
       "name": "tachiyomi-en.webtoonclub-v1.6.1.jar",
       "sha256": "1d853d93d9cdfa46393f7de76aa81a982e126defce222c4757cbf653f3651d6d"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.webtoonlib": {
+    "apk": {
+      "name": "tachiyomi-en.webtoonlib-v1.6.0.apk",
+      "sha256": "abf28428391c3015d225d43049c8c2508e2bbf2e814c7cffbec38801c2c4566a"
+    },
+    "jar": {
+      "name": "tachiyomi-en.webtoonlib-v1.6.0.jar",
+      "sha256": "cf77c3d79b577353b55b6dba0ceec74eb14f5b4968df774c5b2afe61f076937d"
     }
   },
   "eu.kanade.tachiyomi.extension.en.webtoonscan": {

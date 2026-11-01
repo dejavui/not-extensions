@@ -287,6 +287,27 @@
         ]
       },
       {
+        "name": "BookOrbit",
+        "packageName": "eu.kanade.tachiyomi.extension.all.bookorbit",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d8fe1ae/tachiyomi-all.bookorbit-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/bookorbit/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d8fe1ae/tachiyomi-all.bookorbit-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8828143345277934555",
+            "name": "BookOrbit",
+            "language": "all",
+            "homeUrl": "http://127.0.0.1:3000"
+          }
+        ]
+      },
+      {
         "name": "Buon Dua",
         "packageName": "eu.kanade.tachiyomi.extension.all.buondua",
         "resources": {
@@ -8715,24 +8736,20 @@
         "name": "AllManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.allanime",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-0/tachiyomi-en.allanime-v1.6.30.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d8fe1ae/tachiyomi-en.allanime-v1.6.31.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/allanime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-0/tachiyomi-en.allanime-v1.6.30.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d8fe1ae/tachiyomi-en.allanime-v1.6.31.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106030",
-        "versionName": "1.6.30",
+        "versionCode": "106031",
+        "versionName": "1.6.31",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4709139914729853090",
             "name": "AllManga",
             "language": "en",
-            "homeUrl": "https://mkissa.to",
-            "mirrorUrls": [
-              "https://mkissa.to",
-              "https://isekai2nd.com"
-            ]
+            "homeUrl": "https://mkissa.to"
           }
         ]
       },
@@ -16831,6 +16848,27 @@
             "name": "Swords Comic",
             "language": "en",
             "homeUrl": "https://swordscomic.com"
+          }
+        ]
+      },
+      {
+        "name": "Tailspace",
+        "packageName": "eu.kanade.tachiyomi.extension.en.tailspace",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/d8fe1ae/tachiyomi-en.tailspace-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/tailspace/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/d8fe1ae/tachiyomi-en.tailspace-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "9002977233306000351",
+            "name": "Tailspace",
+            "language": "en",
+            "homeUrl": "https://tailspace.com"
           }
         ]
       },

@@ -11992,27 +11992,6 @@
         ]
       },
       {
-        "name": "LikeManga",
-        "packageName": "eu.kanade.tachiyomi.extension.en.likemanga",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-0/tachiyomi-en.likemanga-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/likemanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-0/tachiyomi-en.likemanga-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6236979603959140497",
-            "name": "LikeManga",
-            "language": "en",
-            "homeUrl": "https://likemanga.ink"
-          }
-        ]
-      },
-      {
         "name": "Lily Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.lilymanga",
         "resources": {
@@ -16199,13 +16178,13 @@
         "name": "ReiManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.reimanga",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-en.reimanga-v1.6.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-en.reimanga-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/reimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-en.reimanga-v1.6.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-en.reimanga-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18257,13 +18236,13 @@
         "name": "DaoMeoDen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.daomeoden",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-vi.daomeoden-v1.6.4.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-vi.daomeoden-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/daomeoden/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-vi.daomeoden-v1.6.4.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-vi.daomeoden-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18740,13 +18719,13 @@
         "name": "LuvEvaLand",
         "packageName": "eu.kanade.tachiyomi.extension.vi.luvevaland",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-vi.luvevaland-v1.6.4.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-vi.luvevaland-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/luvevaland/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-vi.luvevaland-v1.6.4.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-vi.luvevaland-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19999,13 +19978,13 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-vi.vinahentai-v1.6.21.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-vi.vinahentai-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/025a2cd-1/tachiyomi-vi.vinahentai-v1.6.21.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0a177cc/tachiyomi-vi.vinahentai-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

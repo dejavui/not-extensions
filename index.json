@@ -1194,9 +1194,9 @@
         "name": "E-Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6a4b7c4-0/tachiyomi-all.ehentai-v1.6.31.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ed3eb9e/tachiyomi-all.ehentai-v1.6.31.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/ehentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6a4b7c4-0/tachiyomi-all.ehentai-v1.6.31.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ed3eb9e/tachiyomi-all.ehentai-v1.6.31.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106031",
@@ -9807,13 +9807,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6a4b7c4-0/tachiyomi-en.comix-v1.6.61.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ed3eb9e/tachiyomi-en.comix-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6a4b7c4-0/tachiyomi-en.comix-v1.6.61.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ed3eb9e/tachiyomi-en.comix-v1.6.62.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106061",
-        "versionName": "1.6.61",
+        "versionCode": "106062",
+        "versionName": "1.6.62",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16367,13 +16367,13 @@
         "name": "Renascans",
         "packageName": "eu.kanade.tachiyomi.extension.en.renascans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/6a4b7c4-1/tachiyomi-en.renascans-v1.6.29.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ed3eb9e/tachiyomi-en.renascans-v1.6.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/renascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/6a4b7c4-1/tachiyomi-en.renascans-v1.6.29.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ed3eb9e/tachiyomi-en.renascans-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106029",
-        "versionName": "1.6.29",
+        "versionCode": "106030",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

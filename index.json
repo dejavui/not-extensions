@@ -19286,13 +19286,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-vi.moetruyen-v1.6.22.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/4763dd1/tachiyomi-vi.moetruyen-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-vi.moetruyen-v1.6.22.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/4763dd1/tachiyomi-vi.moetruyen-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

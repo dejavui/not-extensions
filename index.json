@@ -19857,20 +19857,20 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-vi.toptruyen-v1.6.51.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c2f56c7/tachiyomi-vi.toptruyen-v1.6.52.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-vi.toptruyen-v1.6.51.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c2f56c7/tachiyomi-vi.toptruyen-v1.6.52.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106051",
-        "versionName": "1.6.51",
+        "versionCode": "106052",
+        "versionName": "1.6.52",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone13.com"
+            "homeUrl": "https://www.toptruyenzone14.com"
           }
         ]
       },
@@ -20281,20 +20281,20 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-vi.vinahentai-v1.6.22.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c2f56c7/tachiyomi-vi.vinahentai-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-vi.vinahentai-v1.6.22.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c2f56c7/tachiyomi-vi.vinahentai-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4572372176917567711",
             "name": "VinaHentai",
             "language": "vi",
-            "homeUrl": "https://vinahentai.beer"
+            "homeUrl": "https://vinahentai.bio"
           }
         ]
       },

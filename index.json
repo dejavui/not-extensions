@@ -6270,13 +6270,13 @@
         "name": "Niadd",
         "packageName": "eu.kanade.tachiyomi.extension.all.niadd",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-0/tachiyomi-all.niadd-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-all.niadd-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/niadd/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-0/tachiyomi-all.niadd-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-all.niadd-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9838,6 +9838,27 @@
         ]
       },
       {
+        "name": "Comizy",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comizy",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.comizy-v1.6.6.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/comizy/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.comizy-v1.6.6.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7716662751992549719",
+            "name": "Comizy",
+            "language": "en",
+            "homeUrl": "https://comizy.io"
+          }
+        ]
+      },
+      {
         "name": "Coolmic",
         "packageName": "eu.kanade.tachiyomi.extension.en.coolmic",
         "resources": {
@@ -12613,13 +12634,13 @@
         "name": "MangaK",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-0/tachiyomi-en.mangabuddy-v1.6.36.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.mangabuddy-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangabuddy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-0/tachiyomi-en.mangabuddy-v1.6.36.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.mangabuddy-v1.6.37.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106036",
-        "versionName": "1.6.36",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -13731,6 +13752,27 @@
             "name": "MangaHome",
             "language": "en",
             "homeUrl": "https://www.mangahome.com"
+          }
+        ]
+      },
+      {
+        "name": "MangaHot",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangahot",
+        "resources": {
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.mangahot-v1.6.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangahot/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.mangahot-v1.6.59.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1536742225206613908",
+            "name": "MangaHot",
+            "language": "en",
+            "homeUrl": "https://mangahot.org"
           }
         ]
       },
@@ -17473,13 +17515,13 @@
         "name": "Toonily.me",
         "packageName": "eu.kanade.tachiyomi.extension.en.toonilyme",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-en.toonilyme-v1.6.6.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.toonilyme-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/toonilyme/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/54c9ec2-1/tachiyomi-en.toonilyme-v1.6.6.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/95ce14a/tachiyomi-en.toonilyme-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

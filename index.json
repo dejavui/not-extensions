@@ -1194,13 +1194,13 @@
         "name": "E-Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/0bb7cd1/tachiyomi-all.ehentai-v1.6.32.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/00fd271/tachiyomi-all.ehentai-v1.6.33.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/ehentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/0bb7cd1/tachiyomi-all.ehentai-v1.6.32.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/00fd271/tachiyomi-all.ehentai-v1.6.33.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106032",
-        "versionName": "1.6.32",
+        "versionCode": "106033",
+        "versionName": "1.6.33",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

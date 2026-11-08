@@ -4137,13 +4137,13 @@
         "name": "MangaDex",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-all.mangadex-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/324e6b4/tachiyomi-all.mangadex-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/mangadex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-all.mangadex-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/324e6b4/tachiyomi-all.mangadex-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16130,13 +16130,13 @@
         "name": "MurimScan",
         "packageName": "eu.kanade.tachiyomi.extension.en.murimscan",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.murimscan-v1.6.52.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/324e6b4/tachiyomi-en.murimscan-v1.6.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/murimscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.murimscan-v1.6.52.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/324e6b4/tachiyomi-en.murimscan-v1.6.53.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106052",
-        "versionName": "1.6.52",
+        "versionCode": "106053",
+        "versionName": "1.6.53",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17915,20 +17915,20 @@
         "name": "Siren Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sirenscans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.sirenscans-v1.6.25.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/324e6b4/tachiyomi-en.sirenscans-v1.6.26.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/sirenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.sirenscans-v1.6.25.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/324e6b4/tachiyomi-en.sirenscans-v1.6.26.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106025",
-        "versionName": "1.6.25",
+        "versionCode": "106026",
+        "versionName": "1.6.26",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5804710058654490234",
             "name": "Siren Scans",
             "language": "en",
-            "homeUrl": "https://sirenscans.org"
+            "homeUrl": "https://sirenscans.com"
           }
         ]
       },

@@ -19641,20 +19641,20 @@
         "name": "DamCoNuong",
         "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.damconuong-v1.6.20.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/c6b6614/tachiyomi-vi.damconuong-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.damconuong-v1.6.20.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/c6b6614/tachiyomi-vi.damconuong-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2680345917627448572",
             "name": "DamCoNuong",
             "language": "vi",
-            "homeUrl": "https://damconuong.icu"
+            "homeUrl": "https://damconuong.cool"
           }
         ]
       },

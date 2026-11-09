@@ -3117,13 +3117,13 @@
         "name": "Kagane",
         "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-all.kagane-v1.6.41.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-all.kagane-v1.6.42.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-all.kagane-v1.6.41.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-all.kagane-v1.6.42.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106041",
-        "versionName": "1.6.41",
+        "versionCode": "106042",
+        "versionName": "1.6.42",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -6729,13 +6729,13 @@
         "name": "PandaChaika",
         "packageName": "eu.kanade.tachiyomi.extension.all.pandachaika",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-all.pandachaika-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-all.pandachaika-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/all/pandachaika/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-all.pandachaika-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-all.pandachaika-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11671,27 +11671,6 @@
         ]
       },
       {
-        "name": "Hentai3z.CC",
-        "packageName": "eu.kanade.tachiyomi.extension.en.hentai3zcc",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.hentai3zcc-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/hentai3zcc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.hentai3zcc-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1647077515907093606",
-            "name": "Hentai3z.CC",
-            "language": "en",
-            "homeUrl": "https://hentai3z.cc"
-          }
-        ]
-      },
-      {
         "name": "Hentai4Free",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai4free",
         "resources": {
@@ -12367,13 +12346,13 @@
         "name": "INKR",
         "packageName": "eu.kanade.tachiyomi.extension.en.inkr",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.inkr-v1.6.4.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.inkr-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/inkr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.inkr-v1.6.4.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.inkr-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -13291,13 +13270,13 @@
         "name": "Madokami",
         "packageName": "eu.kanade.tachiyomi.extension.en.madokami",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.madokami-v1.6.19.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.madokami-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/madokami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.madokami-v1.6.19.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.madokami-v1.6.20.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106019",
-        "versionName": "1.6.19",
+        "versionCode": "106020",
+        "versionName": "1.6.20",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16550,20 +16529,20 @@
         "name": "One Punch Man Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.onepunchmanonline",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.onepunchmanonline-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.onepunchmanonline-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/onepunchmanonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.onepunchmanonline-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.onepunchmanonline-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "897097334505121559",
             "name": "One Punch Man Online",
             "language": "en",
-            "homeUrl": "https://w20.1punchman.com"
+            "homeUrl": "https://w21.1punchman.com"
           }
         ]
       },
@@ -18235,13 +18214,13 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.templescan-v1.6.68.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.templescan-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.templescan-v1.6.68.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.templescan-v1.6.69.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106068",
-        "versionName": "1.6.68",
+        "versionCode": "106069",
+        "versionName": "1.6.69",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18340,20 +18319,20 @@
         "name": "Read The Exiled Heavy Knight Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.theexiledheavyknightmangaonline",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.theexiledheavyknightmangaonline-v1.6.1.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.theexiledheavyknightmangaonline-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/theexiledheavyknightmangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.theexiledheavyknightmangaonline-v1.6.1.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.theexiledheavyknightmangaonline-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7393909338134202317",
             "name": "Read The Exiled Heavy Knight Manga Online",
             "language": "en",
-            "homeUrl": "https://w2.theexiledheavyknight.com"
+            "homeUrl": "https://w3.theexiledheavyknight.com"
           }
         ]
       },
@@ -18766,20 +18745,20 @@
         "name": "Tower Of God Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.towerofgodmangaonline",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.towerofgodmangaonline-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.towerofgodmangaonline-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/towerofgodmangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.towerofgodmangaonline-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.towerofgodmangaonline-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7174981474350393136",
             "name": "Tower Of God Manga Online",
             "language": "en",
-            "homeUrl": "https://w82.thetowerofgod.com"
+            "homeUrl": "https://w85.thetowerofgod.com"
           }
         ]
       },
@@ -19210,27 +19189,6 @@
             "name": "Wildtoon",
             "language": "en",
             "homeUrl": "https://wildtoon.com"
-          }
-        ]
-      },
-      {
-        "name": "WitchScans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.witchscans",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.witchscans-v1.6.41.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/witchscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.witchscans-v1.6.41.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106041",
-        "versionName": "1.6.41",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3119719730967642939",
-            "name": "WitchScans",
-            "language": "en",
-            "homeUrl": "https://witchtoons.net"
           }
         ]
       },

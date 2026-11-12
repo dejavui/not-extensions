@@ -20184,20 +20184,20 @@
         "name": "DocTruyen3Q",
         "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.doctruyen3q-v1.6.42.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/abfaa46/tachiyomi-vi.doctruyen3q-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/doctruyen3q/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.doctruyen3q-v1.6.42.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/abfaa46/tachiyomi-vi.doctruyen3q-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6168143505244976507",
             "name": "DocTruyen3Q",
             "language": "vi",
-            "homeUrl": "https://doctruyen3qhub.fit"
+            "homeUrl": "https://doctruyen3qhub.club"
           }
         ]
       },

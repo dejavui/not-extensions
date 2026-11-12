@@ -13639,13 +13639,13 @@
         "name": "Madokami",
         "packageName": "eu.kanade.tachiyomi.extension.en.madokami",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.madokami-v1.6.20.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-en.madokami-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/madokami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ab3ec31/tachiyomi-en.madokami-v1.6.20.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-en.madokami-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19487,13 +19487,13 @@
         "name": "Webdex Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.webdexscans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/cc9ef26/tachiyomi-en.webdexscans-v1.6.56.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-en.webdexscans-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/webdexscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/cc9ef26/tachiyomi-en.webdexscans-v1.6.56.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-en.webdexscans-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19508,13 +19508,13 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.webnex-v1.6.11.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-en.webnex-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.webnex-v1.6.11.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-en.webnex-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21712,13 +21712,13 @@
         "name": "TruyenTuoiTho",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.truyentuoitho-v1.6.64.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-vi.truyentuoitho-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.truyentuoitho-v1.6.64.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7666d2a/tachiyomi-vi.truyentuoitho-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

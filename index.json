@@ -21499,27 +21499,6 @@
         ]
       },
       {
-        "name": "FoxTruyen",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.truyengg",
-        "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.truyengg-v1.6.14.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/truyengg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.truyengg-v1.6.14.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1458993267006200127",
-            "name": "FoxTruyen",
-            "language": "vi",
-            "homeUrl": "https://foxtruyen2.com"
-          }
-        ]
-      },
-      {
         "name": "TruyenGGVN",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenggvn",
         "resources": {

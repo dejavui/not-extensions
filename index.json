@@ -20310,9 +20310,9 @@
         "name": "Goc Truyen Tranh Vui",
         "packageName": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/a7079ac/tachiyomi-vi.goctruyentranhvui-v1.6.20.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/970d791/tachiyomi-vi.goctruyentranhvui-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/goctruyentranhvui/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/a7079ac/tachiyomi-vi.goctruyentranhvui-v1.6.20.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/970d791/tachiyomi-vi.goctruyentranhvui-v1.6.20.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106020",

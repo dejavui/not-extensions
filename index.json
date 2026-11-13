@@ -20226,13 +20226,13 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/ccef7d4/tachiyomi-vi.dualeotruyen-v1.6.36.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.dualeotruyen-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/ccef7d4/tachiyomi-vi.dualeotruyen-v1.6.36.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.dualeotruyen-v1.6.37.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106036",
-        "versionName": "1.6.36",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20730,13 +20730,13 @@
         "name": "MeDamTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.medamtruyen-v1.6.12.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.medamtruyen-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/medamtruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.medamtruyen-v1.6.12.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.medamtruyen-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21292,13 +21292,13 @@
         "name": "SoaiCaComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.soaicacomic-v1.6.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.soaicacomic-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.soaicacomic-v1.6.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.soaicacomic-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21334,13 +21334,13 @@
         "name": "Team Lanh Lung",
         "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.teamlanhlung-v1.6.42.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.teamlanhlung-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.teamlanhlung-v1.6.42.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/763742f/tachiyomi-vi.teamlanhlung-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

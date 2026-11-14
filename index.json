@@ -9978,13 +9978,13 @@
         "name": "Aqua Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.aquamanga",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.aquamanga-v1.6.74.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b1acbd5/tachiyomi-en.aquamanga-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/aquamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-0/tachiyomi-en.aquamanga-v1.6.74.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b1acbd5/tachiyomi-en.aquamanga-v1.6.75.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106074",
-        "versionName": "1.6.74",
+        "versionCode": "106075",
+        "versionName": "1.6.75",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -15967,13 +15967,13 @@
         "name": "ManhuaTop",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuatop",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.manhuatop-v1.6.58.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/b1acbd5/tachiyomi-en.manhuatop-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/manhuatop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-en.manhuatop-v1.6.58.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/b1acbd5/tachiyomi-en.manhuatop-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

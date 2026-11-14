@@ -14908,13 +14908,13 @@
         "name": "Manga Drama",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadrama",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/219af43/tachiyomi-en.mangadrama-v1.6.8.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-en.mangadrama-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mangadrama/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/219af43/tachiyomi-en.mangadrama-v1.6.8.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-en.mangadrama-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -16622,13 +16622,13 @@
         "name": "Mgread.io",
         "packageName": "eu.kanade.tachiyomi.extension.en.mgreadio",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/219af43/tachiyomi-en.mgreadio-v1.6.9.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-en.mgreadio-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mgreadio/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/219af43/tachiyomi-en.mgreadio-v1.6.9.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-en.mgreadio-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21042,13 +21042,13 @@
         "name": "MeoSSS",
         "packageName": "eu.kanade.tachiyomi.extension.vi.meosss",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.meosss-v1.6.3.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-vi.meosss-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/meosss/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.meosss-v1.6.3.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-vi.meosss-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21478,13 +21478,13 @@
         "name": "SangChanhTeam",
         "packageName": "eu.kanade.tachiyomi.extension.vi.sangchanhteam",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.sangchanhteam-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-vi.sangchanhteam-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/sangchanhteam/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.sangchanhteam-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/1166dd8/tachiyomi-vi.sangchanhteam-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

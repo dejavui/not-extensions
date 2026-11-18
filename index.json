@@ -22198,20 +22198,20 @@
         "name": "NetTruyen0209",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyen0209",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.nettruyen0209-v1.6.16.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/7bfd8f5/tachiyomi-vi.nettruyen0209-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/nettruyen0209/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.nettruyen0209-v1.6.16.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/7bfd8f5/tachiyomi-vi.nettruyen0209-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7512224737233822423",
             "name": "NetTruyen0209",
             "language": "vi",
-            "homeUrl": "https://nettruyen15s.com"
+            "homeUrl": "https://nettruyen16s.com"
           }
         ]
       },

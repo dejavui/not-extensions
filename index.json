@@ -21594,13 +21594,13 @@
         "name": "HentaiCB",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/aa69157/tachiyomi-vi.hentaicube-v1.6.101.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/26d30a4/tachiyomi-vi.hentaicube-v1.6.102.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/aa69157/tachiyomi-vi.hentaicube-v1.6.101.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/26d30a4/tachiyomi-vi.hentaicube-v1.6.102.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106101",
-        "versionName": "1.6.101",
+        "versionCode": "106102",
+        "versionName": "1.6.102",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

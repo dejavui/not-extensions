@@ -21489,13 +21489,13 @@
         "name": "Fantastic Dreamers",
         "packageName": "eu.kanade.tachiyomi.extension.vi.fantasticdreamers",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.fantasticdreamers-v1.6.2.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/f8ff7b4/tachiyomi-vi.fantasticdreamers-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/vi/fantasticdreamers/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/5b5ef32-1/tachiyomi-vi.fantasticdreamers-v1.6.2.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/f8ff7b4/tachiyomi-vi.fantasticdreamers-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

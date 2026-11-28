@@ -17793,20 +17793,20 @@
         "name": "Mist Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.mistscans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/108fbf9-1/tachiyomi-en.mistscans-v1.6.28.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/480c9d3/tachiyomi-en.mistscans-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/108fbf9-1/tachiyomi-en.mistscans-v1.6.28.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/480c9d3/tachiyomi-en.mistscans-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5732165121603348598",
             "name": "Mist Scans",
             "language": "en",
-            "homeUrl": "https://mistscans.org"
+            "homeUrl": "https://mistscans.to"
           }
         ]
       },
@@ -19830,20 +19830,20 @@
         "name": "Siren Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sirenscans",
         "resources": {
-          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/108fbf9-1/tachiyomi-en.sirenscans-v1.6.28.apk",
+          "apkUrl": "https://github.com/dejavui/not-extensions/releases/download/480c9d3/tachiyomi-en.sirenscans-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/dejavui/no-extensions@main/src/en/sirenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/108fbf9-1/tachiyomi-en.sirenscans-v1.6.28.jar"
+          "jarUrl": "https://github.com/dejavui/not-extensions/releases/download/480c9d3/tachiyomi-en.sirenscans-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5804710058654490234",
             "name": "Siren Scans",
             "language": "en",
-            "homeUrl": "https://sirenscans.com"
+            "homeUrl": "https://sirenscans.net"
           }
         ]
       },
